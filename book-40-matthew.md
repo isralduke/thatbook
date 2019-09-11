@@ -92,7 +92,8 @@ David was the father of Solomon (by the wife of Uriah), <cite>1:7</cite> Solomon
 
 ### The Beatitudes
 
-> <cite>5:1</cite> When he saw the crowds, he went up the mountain. After he sat down his disciples came to him. <cite>5:2</cite> Then he began to teach them by saying:
+<cite>5:1</cite> When he saw the crowds, he went up the mountain. After he sat down his disciples came to him. <cite>5:2</cite> Then he began to teach them by saying:
+
 > <cite>5:3</cite> “Blessed are the poor in spirit, for the kingdom of heaven belongs to them.
 > <cite>5:4</cite> “Blessed are those who mourn, for they will be comforted.
 > <cite>5:5</cite> “Blessed are the meek, for they will inherit the earth.
