@@ -12,14 +12,17 @@ GREP Find
 \n^Next Chapter\n
 
 // add > to line beginnings (do this with selections)
-(^)
-$1> 
-
-// find poetry and blockquotes (do this with selections)
 (^[A-Z])
+$1> 
 
 // remove extra blank lines in blockquotes and poetry
 ^> \n
+
+
+// add subtitle headings
+(^[A-Z])
+### $1
+
 
 // swap subtitles before chapter headings
 (### [A-z’, -]+)(\n\n)(## Chapter \d+)
