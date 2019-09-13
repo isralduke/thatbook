@@ -20,7 +20,7 @@ GREP Find
 
 
 // add subtitle headings
-(^[A-z“<\n])
+(^[A-z“<])
 ### $1
 
 
