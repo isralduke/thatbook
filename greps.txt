@@ -12,7 +12,7 @@ GREP Find
 \n^Next Chapter\n
 
 // add > to line beginnings (do this with selections)
-(^[A-Z])
+(^[A-z“<\n])
 > $1>
 
 // remove extra blank lines in blockquotes and poetry
