@@ -12,15 +12,15 @@ GREP Find
 \n^Next Chapter\n
 
 // add > to line beginnings (do this with selections)
-(^[A-z“<\n])
-> $1>
+(^)
+> $1
 
 // remove extra blank lines in blockquotes and poetry
 ^> \n
 
 
 // add subtitle headings
-(^[A-Z])
+(^[A-z“<\n])
 ### $1
 
 
