@@ -13,7 +13,7 @@ GREP Find
 
 // add > to line beginnings (do this with selections)
 (^[A-Z])
-$1> 
+> $1>
 
 // remove extra blank lines in blockquotes and poetry
 ^> \n
