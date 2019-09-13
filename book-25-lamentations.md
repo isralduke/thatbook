@@ -1,5 +1,5 @@
 ---
-### title:Lamentations
+title:Lamentations
 ---
 ## Chapter 1
 
@@ -13,7 +13,7 @@
 > The princess who once ruled over the provinces
 > has become a forced laborer!
 
-### b (Bet)
+### ב (Bet)
 
 > <cite>1:2</cite> She weeps bitterly at night;
 > tears stream down her cheeks.
@@ -22,7 +22,7 @@
 > All her friends have dealt treacherously with her;
 > they have become her enemies.
 
-### g (Gimel)
+### ג (Gimel)
 
 > <cite>1:3</cite> The people of Judah have gone into exile under affliction
 > and under harsh oppression.
@@ -31,7 +31,7 @@
 > All who pursued them have overtaken them
 > in narrow straits.
 
-### d (Dalet)
+### ד (Dalet)
 
 > <cite>1:4</cite> The roads leading to Zion are in mourning,
 > because no one travels down their paths to celebrate the festivals.
@@ -40,7 +40,7 @@
 > Her virgins are filled with sorrow;
 > Jerusalem is in bitter anguish!
 
-### h (He)
+### ה (He)
 
 > <cite>1:5</cite> Her foes subjugated her;
 > her enemies plundered her possessions.
@@ -49,7 +49,7 @@
 > Her children were driven away
 > as prisoners before the enemy.
 
-### w (Vav)
+### ו (Vav)
 
 > <cite>1:6</cite> Everything in which she had gloried
 > has been taken away from Zion.
@@ -58,7 +58,7 @@
 > they were too exhausted to flee
 > from the hunter.
 
-### z (Zayin)
+### ז (Zayin)
 
 > <cite>1:7</cite> Jerusalem remembers,
 > when she became a poor homeless person,
@@ -69,7 +69,7 @@
 > Her enemies gloat over her;
 > they laughed contemptuously at her downfall.
 
-### j (Khet)
+### ח (Khet)
 
 > <cite>1:8</cite> Jerusalem has committed heinous sin;
 > therefore, she has become an object of scorn.
@@ -78,7 +78,7 @@
 > She herself groans aloud
 > and turns away in shame.
 
-### f (Tet)
+### ט (Tet)
 
 > <cite>1:9</cite> Her menstrual filth has soiled her own clothing;
 > she did not consider the consequences of her sin.
@@ -87,7 +87,7 @@
 > She cried, “Look, O Lord, on my affliction,
 > because my enemy boasts!”
 
-### y (Yod)
+### י (Yod)
 
 > <cite>1:10</cite> The enemy seized
 > all her valuable possessions.
@@ -95,7 +95,7 @@
 > whom you had forbidden:
 > “They may not enter your assembly place.”
 
-### k (Kaf)
+### כ (Kaf)
 
 > <cite>1:11</cite> All her former inhabitants groan
 > as they search for a morsel of bread.
@@ -106,7 +106,7 @@
 > Look, O Lord!
 > Consider that I have become worthless!
 
-### l (Lamed)
+### ל (Lamed)
 
 > <cite>1:12</cite> O you who pass by on the road,
 > is it nothing to you?
@@ -115,7 +115,7 @@
 > The Lord brought it on me;
 > he inflicted it on me when he burned with anger.
 
-### m (Mem)
+### מ (Mem)
 
 > <cite>1:13</cite> He sent down fierce fire into my bones,
 > and it prevailed against them.
@@ -124,7 +124,7 @@
 > He made me desolate,
 > sick all day long.
 
-### n (Nun)
+### נ (Nun)
 
 > <cite>1:14</cite> My sins are bound around my neck like a yoke,
 > they are lashed tight together by his hand.
@@ -133,7 +133,7 @@
 > The Lord has handed me over
 > to those whom I am powerless to resist.
 
-### s (Samek)
+### ס (Samek)
 
 > <cite>1:15</cite> The Lord has hurled all my valiant warriors
 > out of my midst.
@@ -142,7 +142,7 @@
 > As in a wine press, the Lord has trampled down
 > the virgin daughter of Judah.
 
-### u (Ayin)
+### ע (Ayin)
 
 > <cite>1:16</cite> I weep on account of these things;
 > my eyes flow with tears.
@@ -152,7 +152,7 @@
 > because the enemy has prevailed.
 > The Prophet Speaks:
 
-### p (Pe)
+### פ (Pe)
 
 > <cite>1:17</cite> Zion spread out her hands,
 > but there is no one to comfort her.
@@ -163,7 +163,7 @@
 
 ### Jerusalem Speaks:
 
-### x (Tsade)
+### צ (Tsade)
 
 > <cite>1:18</cite> The Lord is right to judge me!
 > For I rebelled against his commands.
@@ -172,14 +172,14 @@
 > My young men and women
 > have been taken prisoner into exile.
 
-### q (Qof)
+### ק (Qof)
 
 > <cite>1:19</cite> I called for my lovers,
 > but they deceived me.
 > My priests and my elders died of hunger in the city,
 > while searching for food that might have kept them alive.
 
-### r (Resh)
+### ר (Resh)
 
 > <cite>1:20</cite> Look, O Lord, because I am in distress,
 > my stomach is in knots!
@@ -188,7 +188,7 @@
 > In the street the sword bereaves a mother of her children;
 > the rest die of hunger inside their homes.
 
-### ? (Sin/Shin)
+### ש (Sin/Shin)
 
 > <cite>1:21</cite> They have heard that I groan,
 > yet there is no one to comfort me.
@@ -197,7 +197,7 @@
 > May you bring about the time of judgment that you promised,
 > so that they may be judged like me!
 
-### t (Tav)
+### ת (Tav)
 
 > <cite>1:22</cite> Let all their wickedness come before you;
 > may you deal with them
@@ -209,7 +209,7 @@
 
 ## Chapter 2
 
-### a (Alef)
+### א (Alef)
 
 > <cite>2:1</cite> Alas!
 > The Lord has covered Zion
@@ -219,7 +219,7 @@
 > he did not protect the temple
 > when he displayed his anger.
 
-### b (Bet)
+### ב (Bet)
 
 > <cite>2:2</cite> The Lord has destroyed all the homes of Jacob’s descendants;
 > and he has shown no mercy.
@@ -228,7 +228,7 @@
 > He has toppled the kingdom and its rulers,
 > putting them to shame.
 
-### g (Gimel)
+### ג (Gimel)
 
 > <cite>2:3</cite> In his fierce anger he destroyed
 > the whole army of Israel.
@@ -237,7 +237,7 @@
 > He was like a raging fire burning up the land of Jacob’s descendants;
 > it consumed everything around it.
 
-### d (Dalet)
+### ד (Dalet)
 
 > <cite>2:4</cite> Like an enemy he strung his archer’s bow;
 > his right hand was ready to shoot.
@@ -246,7 +246,7 @@
 > he has poured out his wrath like fire
 > on the tents of Zion.
 
-### h (He)
+### ה (He)
 
 > <cite>2:5</cite> The Lord was like an enemy;
 > he has devastated Israel.
@@ -255,7 +255,7 @@
 > He made everyone in Judah
 > mourn and lament.
 
-### w (Vav)
+### ו (Vav)
 
 > <cite>2:6</cite> He has laid waste his temple like a vineyard;
 > he has destroyed his appointed meeting place.
@@ -264,7 +264,7 @@
 > In his fierce anger he has rejected
 > Judah’s king and priests.
 
-### z (Zayin)
+### ז (Zayin)
 
 > <cite>2:7</cite> The Lord has rejected his altar
 > and has abandoned his temple.
@@ -273,7 +273,7 @@
 > the enemy shouted in celebration in the temple of the Lord,
 > like on the day appointed to celebrate a religious feast.
 
-### j (Khet)
+### ח (Khet)
 
 > <cite>2:8</cite> The Lord was determined to tear down
 > the walls around the city of Zion.
@@ -282,7 +282,7 @@
 > He made the ramparts and fortified walls lament;
 > both of them mourned their destruction.
 
-### f (Tet)
+### ט (Tet)
 
 > <cite>2:9</cite> The city gates have fallen down to the ground;
 > the bars that lock the gates have been smashed to pieces.
@@ -291,7 +291,7 @@
 > As for her prophets,
 > they can no longer obtain a vision from the Lord.
 
-### y (Yod)
+### י (Yod)
 
 > <cite>2:10</cite> The elders of the city of Zion
 > sit on the ground in silence;
@@ -300,7 +300,7 @@
 > The young single women of Jerusalem
 > stare down at the ground in grief.
 
-### k (Kaf)
+### כ (Kaf)
 
 > <cite>2:11</cite> My eyes are worn out because of all my tears;
 > my stomach is in knots.
@@ -309,7 +309,7 @@
 > because infants and newborn babies faint from hunger
 > in the streets of the city.
 
-### l (Lamed)
+### ל (Lamed)
 
 > <cite>2:12</cite> Children cry out to their mothers
 > for food and drink.
@@ -318,7 +318,7 @@
 > Then they die slowly
 > in the arms of their mothers.
 
-### m (Mem)
+### מ (Mem)
 
 > <cite>2:13</cite> With what can I equate you?
 > To what can I compare you, O Jerusalem?
@@ -327,7 +327,7 @@
 > Your wound is as deep as the sea;
 > no one can heal you!
 
-### n (Nun)
+### נ (Nun)
 
 > <cite>2:14</cite> The visions that your prophets proclaimed to you
 > were empty lies;
@@ -336,7 +336,7 @@
 > They proclaimed oracles to you
 > that were false deceptions.
 
-### s (Samek)
+### ס (Samek)
 
 > <cite>2:15</cite> All who pass by you on the road
 > clap their hands to mock you;
@@ -346,7 +346,7 @@
 > ‘It is perfect in beauty,
 > the source of joy to the whole earth!’”
 
-### p (Pe)
+### פ (Pe)
 
 > <cite>2:16</cite> All your enemies
 > jeer at you.
@@ -355,7 +355,7 @@
 > Ha! We have waited a long time for this day!
 > We have actually lived to see it!”
 
-### u (Ayin)
+### ע (Ayin)
 
 > <cite>2:17</cite> The Lord has done what he planned;
 > he has fulfilled his promise
@@ -364,7 +364,7 @@
 > He has allowed the enemy to gloat over you;
 > he has enabled your adversaries to boast about their military might.
 
-### x (Tsade)
+### צ (Tsade)
 
 > <cite>2:18</cite> Cry out earnestly to the Lord,
 > O Wall of Zion!
@@ -373,7 +373,7 @@
 > Do not allow yourself any rest;
 > do not let your tears stop!
 
-### q (Qof)
+### ק (Qof)
 
 > <cite>2:19</cite> Get up! Cry out for help in the night
 > at the beginning of the night watches!
@@ -386,7 +386,7 @@
 
 ### Jerusalem Speaks:
 
-### r (Resh)
+### ר (Resh)
 
 > <cite>2:20</cite> O Lord, think about it!
 > Whom have you ever treated like this?
@@ -395,7 +395,7 @@
 > Should priest and prophet be killed
 > in the sanctuary of the Lord?
 
-### ? (Sin/Shin)
+### ש (Sin/Shin)
 
 > <cite>2:21</cite> The young and old lie dead together
 > in the dust of the streets;
@@ -404,7 +404,7 @@
 > You killed them when you were angry;
 > you slaughtered them without pity.
 
-### t (Tav)
+### ת (Tav)
 
 > <cite>2:22</cite> You invited, as though on an appointed festival day,
 > enemies to terrify me on every side.
@@ -416,7 +416,7 @@
 
 ## Chapter 3
 
-### a (Alef)
+### א (Alef)
 
 > <cite>3:1</cite> I am the man who has experienced affliction
 > from the disciplining rod of his wrath.
@@ -425,7 +425,7 @@
 > <cite>3:3</cite> He repeatedly attacked me
 > over and over, continually.
 
-### b (Bet)
+### ב (Bet)
 
 > <cite>3:4</cite> He has caused my mortal skin to waste away;
 > he has broken my bones.
@@ -434,7 +434,7 @@
 > <cite>3:6</cite> He has made me reside in intense darkness
 > like those who died long ago.
 
-### g (Gimel)
+### ג (Gimel)
 
 > <cite>3:7</cite> He has walled me in so that I cannot escape;
 > he has weighed me down with heavy prison chains.
@@ -443,7 +443,7 @@
 > <cite>3:9</cite> He has blocked every road I take with a wall of fitted stones;
 > he has made every path on which I flee impossible to traverse.
 
-### d (Dalet)
+### ד (Dalet)
 
 > <cite>3:10</cite> He is like a bear lying in wait for me,
 > like a hidden lion stalking its prey.
@@ -452,7 +452,7 @@
 > <cite>3:12</cite> He drew his bow
 > and made me the target for his arrows.
 
-### h (He)
+### ה (He)
 
 > <cite>3:13</cite> He shot his arrows
 > into my heart.
@@ -461,7 +461,7 @@
 > <cite>3:15</cite> He has made me eat bitter herbs,
 > and made me drink stagnant water.
 
-### w (Vav)
+### ו (Vav)
 
 > <cite>3:16</cite> He has broken my teeth with gravel;
 > he has made me cower in ashes.
@@ -470,7 +470,7 @@
 > <cite>3:18</cite> So I said, “My endurance has perished,
 > I have lost all hope of deliverance from the Lord.”
 
-### z (Zayin)
+### ז (Zayin)
 
 > <cite>3:19</cite> Just thinking about my impoverished and homeless condition
 > is bitter poison.
@@ -479,7 +479,7 @@
 > <cite>3:21</cite> But this I call to mind,
 > therefore I have hope:
 
-### j (Khet)
+### ח (Khet)
 
 > <cite>3:22</cite> The Lord’s many kindnesses never cease,
 > for his great compassion never comes to an end.
@@ -488,7 +488,7 @@
 > <cite>3:24</cite> I said to myself, “The Lord is the portion of my inheritance;
 > therefore, I will put my hope in him.”
 
-### f (Tet)
+### ט (Tet)
 
 > <cite>3:25</cite> The Lord is good to those who trust in him,
 > to the one who seeks him.
@@ -497,7 +497,7 @@
 > <cite>3:27</cite> It is good for a man to bear the yoke
 > while he is young.
 
-### y (Yod)
+### י (Yod)
 
 > <cite>3:28</cite> Let a person sit alone in silence,
 > when the Lord is disciplining him.
@@ -506,7 +506,7 @@
 > <cite>3:30</cite> Let him offer his cheek to the one who hits him;
 > let him have his fill of insults.
 
-### k (Kaf)
+### כ (Kaf)
 
 > <cite>3:31</cite> For the Lord will not
 > reject us forever.
@@ -515,7 +515,7 @@
 > <cite>3:33</cite> For he does not enjoy bringing affliction
 > nor causing grief to mortal men.
 
-### l (Lamed)
+### ל (Lamed)
 
 > <cite>3:34</cite> To crush underfoot
 > all the prisoners in the land,
@@ -524,7 +524,7 @@
 > <cite>3:36</cite> to subvert a man in his just cause—
 > the Lord does not approve of such things!
 
-### m (Mem)
+### מ (Mem)
 
 > <cite>3:37</cite> Whose command was ever fulfilled
 > unless the Lord had decreed it?
@@ -533,7 +533,7 @@
 > <cite>3:39</cite> Why should any living man complain
 > when he is punished for his sins?
 
-### n (Nun)
+### נ (Nun)
 
 > <cite>3:40</cite> Let us carefully examine our ways,
 > and let us return to the Lord.
@@ -542,7 +542,7 @@
 > <cite>3:42</cite> “We have sinned rebelliously;
 > you have not forgiven.”
 
-### s (Samek)
+### ס (Samek)
 
 > <cite>3:43</cite> You have clothed yourself with anger and pursued us;
 > you have slaughtered us without pity.
@@ -551,7 +551,7 @@
 > <cite>3:45</cite> You have made us like filthy excrement
 > in the estimation of the nations.
 
-### p (Pe)
+### פ (Pe)
 
 > <cite>3:46</cite> All our enemies brashly proclaim threats
 > against us.
@@ -560,7 +560,7 @@
 > <cite>3:48</cite> Streams of tears flow from my eyes
 > because my people are destroyed.
 
-### u (Ayin)
+### ע (Ayin)
 
 > <cite>3:49</cite> Tears flow from my eyes unceasingly;
 > they will not stop
@@ -569,7 +569,7 @@
 > <cite>3:51</cite> What my eyes see causes grief to me
 > on account of the abuse of all the women in my city.
 
-### x (Tsade)
+### צ (Tsade)
 
 > <cite>3:52</cite> For no good reason, my enemies
 > have hunted me down like a bird.
@@ -578,7 +578,7 @@
 > <cite>3:54</cite> The waters closed over my head,
 > I thought that I was about to die.
 
-### q (Qof)
+### ק (Qof)
 
 > <cite>3:55</cite> I called on your name, O Lord,
 > from the depths of the pit.
@@ -587,7 +587,7 @@
 > <cite>3:57</cite> You came near when I called to you;
 > you said, “Do not fear!”
 
-### r (Resh)
+### ר (Resh)
 
 > <cite>3:58</cite> You championed my cause, O Lord;
 > you redeemed my life.
@@ -596,7 +596,7 @@
 > <cite>3:60</cite> You have seen all their vengeance,
 > all their plots against me.
 
-### ? (Sin/Shin)
+### ש (Sin/Shin)
 
 > <cite>3:61</cite> You have heard their taunts, O Lord,
 > all their plots against me.
@@ -605,7 +605,7 @@
 > <cite>3:63</cite> Look at them! From morning to evening
 > I am the object of their mocking songs.
 
-### t (Tav)
+### ת (Tav)
 
 > <cite>3:64</cite> Pay them back what they deserve, O Lord,
 > according to what they have done.
@@ -618,7 +618,7 @@
 
 ### The Prophet Speaks:
 
-### a (Alef)
+### א (Alef)
 
 > <cite>4:1</cite> Alas!
 > The gold has lost its luster;
@@ -626,105 +626,105 @@
 > The sacred gems are scattered
 > at every street corner.
 
-### b (Bet)
+### ב (Bet)
 
 > <cite>4:2</cite> The precious sons of Zion
 > were once worth their weight in gold.
 > Alas! Now they are no more valued than broken clay potsherds
 > made by a potter.
 
-### g (Gimel)
+### ג (Gimel)
 
 > <cite>4:3</cite> Even the jackals nurse their young
 > at their breast;
 > but my people have become cruel
 > like ostriches in the desert.
 
-### d (Dalet)
+### ד (Dalet)
 
 > <cite>4:4</cite> The infant’s tongue sticks to the roof of its mouth
 > due to thirst;
 > Little children beg for food,
 > but no one has even any bread to give to them.
 
-### h (He)
+### ה (He)
 
 > <cite>4:5</cite> Those who once feasted on delicacies
 > are now starving to death in the streets.
 > Those who grew up wearing expensive clothes
 > are now dying on the ash heaps.
 
-### w (Vav)
+### ו (Vav)
 
 > <cite>4:6</cite> The punishment of my people
 > is greater than the punishment of Sodom,
 > which was overthrown in a moment
 > and no one lifted a hand to help her.
 
-### z (Zayin)
+### ז (Zayin)
 
 > <cite>4:7</cite> Her princes were brighter than snow,
 > whiter than milk;
 > their bodies more ruddy than rubies;
 > their appearance was like sapphires.
 
-### j (Khet)
+### ח (Khet)
 
 > <cite>4:8</cite> Now their appearance is darker than soot;
 > no one even recognizes who they are in the streets.
 > Their skin has shriveled on their bones;
 > it has become dry like wood.
 
-### f (Tet)
+### ט (Tet)
 
 > <cite>4:9</cite> Those who were killed by the sword are better off
 > than those who die of hunger;
 > they waste away,
 > struck down by lack of food.
 
-### y (Yod)
+### י (Yod)
 
 > <cite>4:10</cite> With their own hands, tenderhearted women
 > have cooked their own children,
 > who became their food
 > when my people were destroyed.
 
-### k (Kaf)
+### כ (Kaf)
 
 > <cite>4:11</cite> The Lord has fully vented his wrath;
 > he has poured out his fierce anger.
 > He kindled a fire in Zion
 > which destroyed the very foundation stones of the city walls.
 
-### l (Lamed)
+### ל (Lamed)
 
 > <cite>4:12</cite> Neither the kings of the foreign nations
 > nor the people of the lands ever thought it possible
 > that enemy or foe could ever conquer
 > the city of Jerusalem.
 
-### m (Mem)
+### מ (Mem)
 
 > <cite>4:13</cite> But it happened because of the sins of her prophets
 > and the iniquities of her priests,
 > who unjustly killed the righteous
 > within the city.
 
-### n (Nun)
+### נ (Nun)
 
 > <cite>4:14</cite> Now they wander blindly through the streets,
 > ritually defiled with the blood they shed,
 > so that no one dares
 > to touch their garments.
 
-### s (Samek)
+### ס (Samek)
 
 > <cite>4:15</cite> Men cry to them, “Stay away! You are unclean!”
 > “Stay away! Go away! Don’t touch us!”
 > So they have fled and wander about;
 > but the nations say, “They may not stay with us here any longer.”
 
-### p (Pe)
+### פ (Pe)
 
 > <cite>4:16</cite> The Lord himself has scattered them;
 > he no longer watches over them.
@@ -732,28 +732,28 @@
 > the elders will not be spared.
 > The People of Jerusalem Lament:
 
-### u (Ayin)
+### ע (Ayin)
 
 > <cite>4:17</cite> Our eyes continually failed us,
 > as we looked in vain for help.
 > From our watchtowers we watched expectantly
 > for a nation that could not rescue us.
 
-### x (Tsade)
+### צ (Tsade)
 
 > <cite>4:18</cite> Our enemies hunted us down at every step;
 > we could not even walk about publicly in our streets.
 > Our end drew near, our days were numbered,
 > for our end had come!
 
-### q (Qof)
+### ק (Qof)
 
 > <cite>4:19</cite> Those who pursued us were swifter
 > than vultures in the sky.
 > They chased us over the mountains;
 > they set an ambush for us in the wilderness.
 
-### r (Resh)
+### ר (Resh)
 
 > <cite>4:20</cite> Our very life breath—the king anointed by the Lord—
 > was caught in their traps.
@@ -762,14 +762,14 @@
 
 ### The Prophet Speaks:
 
-### ? (Sin/Shin)
+### ש (Sin/Shin)
 
 > <cite>4:21</cite> Rejoice and be glad for now, O people of Edom,
 > you who reside in the land of Uz.
 > But the wine cup of judgment will be passed to you also;
 > you will become drunk and strip yourself naked.
 
-### t (Tav)
+### ת (Tav)
 
 > <cite>4:22</cite> O people of Zion, your punishment will eventually come to an end;
 > he will not prolong your exile.
