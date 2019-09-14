@@ -24,7 +24,7 @@ title:Song of Songs
 
 #### The Beloved to Her Lover:
 
-> How rightlythe young women adore you!
+> How rightly the young women adore you!
 
 #### The Country Maiden and the Daughters of Jerusalem
 
