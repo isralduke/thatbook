@@ -662,6 +662,7 @@ title:Proverbs
 > but the one who speaks perversion will be destroyed.
 > <cite>10:32</cite> The lips of the righteous know what is pleasing,
 > but the speech of the wicked is perverse.
+
 ## Chapter 11
 
 > <cite>11:1</cite> The Lord abhors dishonest scales,
@@ -726,6 +727,7 @@ title:Proverbs
 > and the one who wins souls is wise.
 > <cite>11:31</cite> If the righteous are recompensed on earth,
 > how much more the wicked sinner!
+
 ## Chapter 12
 
 > <cite>12:1</cite> The one who loves discipline loves knowledge,
@@ -784,6 +786,7 @@ title:Proverbs
 > but personal possessions are precious to the diligent.
 > <cite>12:28</cite> In the path of righteousness there is life,
 > but another path leads to death.
+
 ## Chapter 13
 
 > <cite>13:1</cite> A wise son accepts his father’s discipline,
@@ -836,6 +839,7 @@ title:Proverbs
 > but the one who loves his child is diligent in disciplining him.
 > <cite>13:25</cite> The righteous has enough food to satisfy his appetite,
 > but the belly of the wicked lacks food.
+
 ## Chapter 14
 
 > <cite>14:1</cite> Every wise woman builds her household,
@@ -908,6 +912,7 @@ title:Proverbs
 > but sin is a disgrace to any people.
 > <cite>14:35</cite> The king shows favor to a wise servant,
 > but his wrath falls on one who acts shamefully.
+
 ## Chapter 15
 
 > <cite>15:1</cite> A gentle response turns away anger,
@@ -976,6 +981,7 @@ title:Proverbs
 > but whoever hears reproof acquires understanding.
 > <cite>15:33</cite> The fear of the Lord provides wise instruction,
 > and before honor comes humility.
+
 ## Chapter 16
 
 > <cite>16:1</cite> The intentions of the heart belong to a man,
@@ -1044,6 +1050,7 @@ title:Proverbs
 > and one who rules his temper is better than one who captures a city.
 > <cite>16:33</cite> The dice are thrown into the lap,
 > but every decision is from the Lord.
+
 ## Chapter 17
 
 > <cite>17:1</cite> Better is a dry crust of bread where there is quietness
@@ -1102,6 +1109,7 @@ title:Proverbs
 > and the one who stays calm is a discerning person.
 > <cite>17:28</cite> Even a fool who remains silent is considered wise,
 > and the one who holds his tongue is deemed discerning.
+
 ## Chapter 18
 
 > <cite>18:1</cite> One who has isolated himself seeks his own desires;
@@ -1152,6 +1160,7 @@ title:Proverbs
 > but a rich man answers harshly.
 > <cite>18:24</cite> A person who has friends may be harmed by them,
 > but there is a friend who sticks closer than a brother.
+
 ## Chapter 19
 
 > <cite>19:1</cite> Better is a poor person who walks in his integrity
@@ -1213,6 +1222,7 @@ title:Proverbs
 > and the mouth of the wicked devours iniquity.
 > <cite>19:29</cite> Judgments are prepared for scorners,
 > and floggings for the backs of fools.
+
 ## Chapter 20
 
 > <cite>20:1</cite> Wine is a mocker and strong drink is a brawler;
@@ -1275,6 +1285,7 @@ title:Proverbs
 > and the splendor of old men is gray hair.
 > <cite>20:30</cite> Beatings and wounds cleanse away evil,
 > and floggings cleanse the innermost being.
+
 ## Chapter 21
 
 > <cite>21:1</cite> The king’s heart is in the hand of the Lord like channels of water;
@@ -1339,6 +1350,7 @@ title:Proverbs
 > and there is no counsel against the Lord.
 > <cite>21:31</cite> A horse is prepared for the day of battle,
 > but the victory is from the Lord.
+
 ## Chapter 22
 
 > <cite>22:1</cite> A good name is to be chosen rather than great wealth,
@@ -1403,6 +1415,7 @@ title:Proverbs
 > <cite>22:29</cite> Do you see a person skilled in his work?
 > He will take his position before kings;
 > he will not take his position before obscure people.
+
 ## Chapter 23
 
 > <cite>23:1</cite> When you sit down to eat with a ruler,
@@ -1480,6 +1493,7 @@ title:Proverbs
 > <cite>23:35</cite> You will say, “They have struck me, but I am not harmed!
 > They beat me, but I did not know it!
 > When will I awake? I will look for another drink.”
+
 ## Chapter 24
 
 > <cite>24:1</cite> Do not envy evil people,
@@ -1622,6 +1636,7 @@ title:Proverbs
 > nor is it honorable for people to seek their own glory.
 > <cite>25:28</cite> Like a city that is broken down and without a wall,
 > so is a person who cannot control his temper.
+
 ## Chapter 26
 
 > <cite>26:1</cite> Like snow in summer or rain in harvest,
@@ -1680,6 +1695,7 @@ title:Proverbs
 > the one who rolls a stone—it will come back on him.
 > <cite>26:28</cite> A lying tongue hates those crushed by it,
 > and a flattering mouth works ruin.
+
 ## Chapter 27
 
 > <cite>27:1</cite> Do not boast about tomorrow;
@@ -1739,6 +1755,7 @@ title:Proverbs
 > <cite>27:27</cite> And there will be enough goat’s milk for your food,
 > for the food of your household,
 > and for the maintenance of your servant girls.
+
 ## Chapter 28
 
 > <cite>28:1</cite> The wicked person flees when there is no one pursuing,
@@ -1798,6 +1815,7 @@ title:Proverbs
 > but whoever hides his eyes will receive many curses.
 > <cite>28:28</cite> When the wicked rise, people hide themselves,
 > but when they perish, the righteous increase.
+
 ## Chapter 29
 
 > <cite>29:1</cite> The one who hardens his neck after numerous rebukes

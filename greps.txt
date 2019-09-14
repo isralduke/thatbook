@@ -27,3 +27,7 @@ GREP Find
 // swap subtitles before chapter headings
 (### [A-z’, -]+)(\n\n)(## Chapter \d+)
 $3$2$1
+
+// remove > From headings
+(> )(#+)
+$2
