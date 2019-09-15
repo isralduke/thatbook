@@ -347,7 +347,7 @@ They came to Jerusalem, <cite>23:3</cite> and the whole assembly made a covenant
 
 ## Chapter 24
 
-### Joash’s Reign
+### Joash’s Reign`
 
 <cite>24:1</cite> Joash was seven years old when he began to reign. He reigned for forty years in Jerusalem. His mother was Zibiah, who was from Beer Sheba. <cite>24:2</cite> Joash did what the Lord approved throughout the lifetime of Jehoiada the priest. <cite>24:3</cite> Jehoiada chose two wives for him who gave him sons and daughters.
 

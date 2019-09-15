@@ -9,9 +9,9 @@ title:Ruth
 
 ### Ruth Returns with Naomi
 
-<cite>1:7</cite> Now when she and her two daughters-in-law began to leave the place where she had been living to return to the land of Judah, <cite>1:8</cite> Naomi said to her two daughters-in-law, “Listen to me! Each of you should return to your mother’s home!May theLord show youthe same kind of devotion that you have shown to your deceased husbands and to me! <cite>1:9</cite> May theLord enable each of you to find security in the home of a new husband!” Then she kissed them goodbye and they wept loudly. <cite>1:10</cite> But they said to her, “No! We will return with you to your people.”
+<cite>1:7</cite> Now when she and her two daughters-in-law began to leave the place where she had been living to return to the land of Judah, <cite>1:8</cite> Naomi said to her two daughters-in-law, “Listen to me! Each of you should return to your mother’s home! May the Lord show youthe same kind of devotion that you have shown to your deceased husbands and to me! <cite>1:9</cite> May the Lord enable each of you to find security in the home of a new husband!” Then she kissed them goodbye and they wept loudly. <cite>1:10</cite> But they said to her, “No! We will return with you to your people.”
 
-<cite>1:11</cite> But Naomi replied, “Go back home, my daughters! There is no reason for you to return to Judah with me! I am no longer capable of giving birth to sons who might become your husbands! <cite>1:12</cite> Go back home, my daughters! For I am too old to get married again.Even if I thought that there was hope that I could get married tonight and conceive sons, <cite>1:13</cite> surely you would not want to wait until they were old enough to marry! Surely you would not remain unmarried all that time! No, my daughters, you must not return with me.For my intense suffering is too much for you to bear. For theLord is afflicting me!”
+<cite>1:11</cite> But Naomi replied, “Go back home, my daughters! There is no reason for you to return to Judah with me! I am no longer capable of giving birth to sons who might become your husbands! <cite>1:12</cite> Go back home, my daughters! For I am too old to get married again. Even if I thought that there was hope that I could get married tonight and conceive sons, <cite>1:13</cite> surely you would not want to wait until they were old enough to marry! Surely you would not remain unmarried all that time! No, my daughters, you must not return with me.For my intense suffering is too much for you to bear. For the Lord is afflicting me!”
 
 <cite>1:14</cite> Again they wept loudly. Then Orpah kissed her mother-in-law goodbye, but Ruth clung tightly to her. <cite>1:15</cite> So Naomi said, “Look, your sister-in-law is returning to her people and to her god. Follow your sister-in-law back home!” <cite>1:16</cite> But Ruth replied,
 
@@ -21,7 +21,7 @@ title:Ruth
 > Your people will become my people,
 > and your God will become my God.
 > <cite>1:17</cite> Wherever you die, I will die—and there I will be buried.
-> May theLord punish me severely if I do not keep my promise!
+> May the Lord punish me severely if I do not keep my promise!
 > Only death will be able to separate me from you!”
 
 <cite>1:18</cite> When Naomi realized that Ruth was determined to go with her, she stopped trying to dissuade her. <cite>1:19</cite> So the two of them journeyed together until they arrived in Bethlehem.

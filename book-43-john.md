@@ -1,5 +1,5 @@
 ---
-### title:John
+title:John
 ---
 # [%title]
 
