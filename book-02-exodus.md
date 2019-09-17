@@ -1,7 +1,4 @@
----
-title:Exodus
----
-# [%title]
+# Exodus
 
 ## Chapter 1
 

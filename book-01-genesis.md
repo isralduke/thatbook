@@ -1,7 +1,4 @@
----
-title:Genesis
----
-# [%title]
+# Genesis
 
 ## Chapter 1
 

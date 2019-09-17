@@ -1,6 +1,5 @@
----
-title:Joshua
----
+# Joshua
+
 # [%title]
 
 ## Chapter 1
