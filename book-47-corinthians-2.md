@@ -1,7 +1,4 @@
----
-title:Corinthians, Letter 2
----
-# [%title]
+# Corinthians, Letter 2
 
 ## Chapter 1
 

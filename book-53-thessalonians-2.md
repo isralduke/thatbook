@@ -1,7 +1,4 @@
----
-title:Thessalonians, Letter 1
----
-# [%title]
+# Thessalonians, Letter 1
 
 ## Chapter 1
 

@@ -1,7 +1,4 @@
----
-title:Ephesians
----
-# [%title]
+# Ephesians
 
 ## Chapter 1
 

@@ -1,7 +1,4 @@
----
-title:Luke
----
-# [%title]
+# Luke
 
 ## Chapter 1
 

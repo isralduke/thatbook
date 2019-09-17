@@ -1,7 +1,4 @@
----
-title:Esther
----
-# [%title]
+# Esther
 
 ## Chapter 1
 

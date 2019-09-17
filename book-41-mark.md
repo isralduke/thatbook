@@ -1,7 +1,4 @@
----
-title:Mark
----
-# [%title]
+# Mark
 
 ## Chapter 1
 

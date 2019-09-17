@@ -1,7 +1,4 @@
----
-title:Psalms
----
-# [%title]
+# Psalms
 
 ## Book 1 (Psalm 1–41)
 

@@ -1,7 +1,4 @@
----
-title:Colossians
----
-# [%title]
+# Colossians
 
 ## Chapter 1
 

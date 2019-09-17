@@ -1,7 +1,4 @@
----
-title:John
----
-# [%title]
+# John
 
 ## Chapter 1
 

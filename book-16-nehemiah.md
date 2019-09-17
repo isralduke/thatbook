@@ -1,7 +1,4 @@
----
-title:Nehemiah
----
-# [%title]
+# Nehemiah
 
 ## Chapter 1
 

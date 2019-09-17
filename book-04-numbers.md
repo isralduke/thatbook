@@ -1,7 +1,4 @@
----
-title:Numbers
----
-# [%title]
+# Numbers
 
 ## Chapter 1
 

@@ -1,7 +1,4 @@
----
-title:Chronicles 2
----
-# [%title]
+# Chronicles 2
 
 ## Chapter 1
 

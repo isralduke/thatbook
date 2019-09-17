@@ -1,7 +1,4 @@
----
-title:Timothy, Letter 1
----
-# [%title]
+# Timothy, Letter 1
 
 ## Chapter 1
 

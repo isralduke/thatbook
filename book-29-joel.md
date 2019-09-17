@@ -1,7 +1,4 @@
----
-title:Joel
----
-# [%title]
+# Joel
 
 ## Chapter 1
 

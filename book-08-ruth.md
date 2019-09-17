@@ -1,7 +1,4 @@
----
-title:Ruth
----
-# [%title]
+# Ruth
 
 ## Chapter 1
 

@@ -1,7 +1,4 @@
----
-title:Job
----
-# [%title]
+# Job
 
 ## I. Meeting Job and the Setting (<a>1:1-2:13</a>)
 

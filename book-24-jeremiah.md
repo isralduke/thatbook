@@ -1,7 +1,4 @@
----
-title:Jeremiah
----
-# [%title]
+# Jeremiah
 
 ## Chapter 1
 

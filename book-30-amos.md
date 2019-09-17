@@ -1,7 +1,4 @@
----
-title:Amos
----
-# [%title]
+# Amos
 
 ## Chapter 1
 

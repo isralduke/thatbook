@@ -1,7 +1,4 @@
----
-title:Philemon
----
-# [%title]
+# Philemon
 
 ## Chapter 1
 

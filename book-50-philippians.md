@@ -1,7 +1,4 @@
----
-title:Philippians
----
-# [%title]
+# Philippians
 
 ## Chapter 1
 

@@ -1,7 +1,4 @@
----
-title:Kings 2
----
-# [%title]
+# Kings 2
 
 ## Chapter 1
 

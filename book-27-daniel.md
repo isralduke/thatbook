@@ -1,7 +1,4 @@
----
-title:Daniel
----
-# [%title]
+# Daniel
 
 ## Chapter 1
 

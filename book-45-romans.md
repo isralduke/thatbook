@@ -1,7 +1,4 @@
----
-title:Romans
----
-# [%title]
+# Romans
 
 ## Chapter 1
 

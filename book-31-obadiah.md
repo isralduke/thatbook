@@ -1,7 +1,4 @@
----
-title:Obadiah
----
-# [%title]
+# Obadiah
 
 ## Chpater 1
 

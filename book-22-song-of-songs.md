@@ -1,6 +1,5 @@
----
-title:Song of Songs
----
+# Song of Songs
+
 ## Chapter 1
 
 <a>1:1</a> “Solomon’s Most Excellent Love Song.”

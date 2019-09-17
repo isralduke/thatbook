@@ -1,7 +1,4 @@
----
-title:Micah
----
-# [%title]
+# Micah
 
 ## Chapter 1
 

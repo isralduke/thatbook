@@ -1,7 +1,4 @@
----
-title: Revelation
----
-# [%title]
+#  Revelation
 
 ## Chapter 1
 

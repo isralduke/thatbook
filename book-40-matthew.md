@@ -1,7 +1,4 @@
----
-title:Matthew
----
-# [%title]
+# Matthew
 
 ## Chapter 1
 

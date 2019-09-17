@@ -1,7 +1,4 @@
----
-title:Zechariah
----
-# [%title]
+# Zechariah
 
 ## Chapter 1
 

@@ -1,7 +1,4 @@
----
-title:Ezekiel
----
-# [%title]
+# Ezekiel
 
 ## Chapter 1
 

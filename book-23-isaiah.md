@@ -1,7 +1,4 @@
----
-title:Isaiah
----
-# [%title]
+# Isaiah
 
 ## Chapter 1
 

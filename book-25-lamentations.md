@@ -1,6 +1,5 @@
----
-title:Lamentations
----
+# Lamentations
+
 ## Chapter 1
 
 ### א (Alef)

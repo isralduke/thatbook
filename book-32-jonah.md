@@ -1,7 +1,4 @@
----
-title:Jonah
----
-# [%title]
+# Jonah
 
 ## Chapter 1
 

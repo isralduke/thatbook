@@ -1,7 +1,4 @@
----
-title: Kings 1
----
-# [%title]
+#  Kings 1
 
 ## Chapter 1
 

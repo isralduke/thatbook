@@ -1,7 +1,4 @@
----
-title:Proverbs
----
-# [%title]
+# Proverbs
 
 ## Chapter 1
 

@@ -1,7 +1,4 @@
----
-title:Ezra
----
-# [%title]
+# Ezra
 
 ## Chapter 1
 

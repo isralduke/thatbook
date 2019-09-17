@@ -1,7 +1,4 @@
----
-title:Nahum
----
-# [%title]
+# Nahum
 
 ## Chapter 1
 

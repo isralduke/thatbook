@@ -1,7 +1,4 @@
----
-title:Hebrews
----
-# [%title]
+# Hebrews
 
 ## Chapter 1
 

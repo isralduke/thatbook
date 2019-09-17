@@ -1,7 +1,4 @@
----
-title: John, Letter 2
----
-# [%title]
+#  John, Letter 2
 
 ## Chapter 1
 

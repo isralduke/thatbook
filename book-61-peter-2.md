@@ -1,7 +1,4 @@
----
-title: Peter, Letter 2
----
-# [%title]
+#  Peter, Letter 2
 
 ## Chapter 1
 

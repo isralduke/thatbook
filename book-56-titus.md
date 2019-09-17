@@ -1,7 +1,4 @@
----
-title:Titus
----
-# [%title]
+# Titus
 
 ## Chapter 1
 

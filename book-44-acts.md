@@ -1,7 +1,4 @@
----
-title:Acts
----
-# [%title]
+# Acts
 
 ## Chapter 1
 

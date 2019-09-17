@@ -1,7 +1,4 @@
----
-title: James
----
-#[%title]
+#  James
 
 ## Chapter 1
 

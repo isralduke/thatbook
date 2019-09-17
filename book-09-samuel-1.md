@@ -1,7 +1,4 @@
----
-title:Samuel 2
----
-# [%title]
+# Samuel 2
 
 ## Chapter 1
 

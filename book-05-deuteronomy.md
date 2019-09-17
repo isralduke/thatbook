@@ -1,7 +1,4 @@
----
-title:Deuteronomy
----
-# [%title]
+# Deuteronomy
 
 ## Chapter 1
 

@@ -1,6 +1,5 @@
----
-title:Haggai
----
+# Haggai
+
 ## Chapter 1
 
 <a>1:1</a> On the first day of the sixth month of King Darius’ second year, the Lord spoke this message through the prophet Haggai to Zerubbabel son of Shealtiel, governor of Judah, and to the high priest Joshua son of Jehozadak:

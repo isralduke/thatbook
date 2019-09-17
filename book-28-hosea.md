@@ -1,7 +1,4 @@
----
-title:Hosea
----
-# [%title]
+# Hosea
 
 ## Chapter 1
 

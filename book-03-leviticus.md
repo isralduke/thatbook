@@ -1,7 +1,4 @@
----
-title:Leviticus
----
-# [%title]
+# Leviticus
 
 ## Chapter 1
 

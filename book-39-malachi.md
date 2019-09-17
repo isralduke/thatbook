@@ -1,7 +1,4 @@
----
-title:Malachi
----
-# [%title]
+# Malachi
 
 ## Chapter 1
 

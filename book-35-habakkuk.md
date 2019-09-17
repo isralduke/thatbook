@@ -1,7 +1,4 @@
----
-title:Habakkuk
----
-# [%title]
+# Habakkuk
 
 ## Chapter 1
 

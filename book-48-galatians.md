@@ -1,7 +1,4 @@
----
-title:Galatians
----
-# [%title]
+# Galatians
 
 ## Chapter 1
 

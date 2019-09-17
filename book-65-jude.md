@@ -1,7 +1,4 @@
----
-title: Jude
----
-# [%title]
+#  Jude
 
 ## Chapter 1
 

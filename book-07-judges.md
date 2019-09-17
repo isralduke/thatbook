@@ -1,7 +1,4 @@
----
-title:Judges
----
-# [%title]
+# Judges
 
 ## Chapter 1
 

@@ -1,6 +1,5 @@
----
-title:Ecclesiastes
----
+# Ecclesiastes
+
 ## Chapter 1
 
 <a>1:1</a> The words of the Teacher, the son of David, king in Jerusalem:
