@@ -45,7 +45,6 @@
 <a name="2:18">2:18</a> “To the angel of the church in Thyatira write the following:
 
 > “This is the solemn pronouncement of the Son of God, the one who has eyes like a fiery flame and whose feet are like polished bronze: <a name="2:19">2:19</a> ‘I know your deeds: your love, faith, service, and steadfast endurance. In fact, your more recent deeds are greater than your earlier ones. <a name="2:20">2:20</a> But I have this against you: You tolerate that woman Jezebel, who calls herself a prophetess, and by her teaching deceives my servants to commit sexual immorality and to eat food sacrificed to idols. <a name="2:21">2:21</a> I have given her time to repent, but she is not willing to repent of her sexual immorality. <a name="2:22">2:22</a> Look! I am throwing her onto a bed of violent illness, and those who commit adultery with her into terrible suffering, unless they repent of her deeds. <a name="2:23">2:23</a> Furthermore, I will strike her followers with a deadly disease, and then all the churches will know that I am the one who searches minds and hearts. I will repay each one of you what your deeds deserve. <a name="2:24">2:24</a> But to the rest of you in Thyatira, all who do not hold to this teaching (who have not learned the so-called “deep secrets of Satan”), to you I say: I do not put any additional burden on you. <a name="2:25">2:25</a> However, hold on to what you have until I come. <a name="2:26">2:26</a> And to the one who conquers and who continues in my deeds until the end, I will give him authority over the nations—
-
 > <a name="2:27">2:27</a> he will rule them with an iron rod
 > and like clay jars he will break them to pieces,
 
@@ -111,7 +110,8 @@ In the middle of the throne and around the throne were four living creatures ful
 > and wisdom and might
 > and honor and glory and praise!”
 
-> <a name="5:13">5:13</a> Then I heard every creature—in heaven, on earth, under the earth, in the sea, and all that is in them—singing:
+<a name="5:13">5:13</a> Then I heard every creature—in heaven, on earth, under the earth, in the sea, and all that is in them—singing:
+
 > “To the one seated on the throne and to the Lamb
 > be praise, honor, glory, and ruling power forever and ever!”
 > <a name="5:14">5:14</a> And the four living creatures were saying “Amen,” and the elders threw themselves to the ground and worshiped.
