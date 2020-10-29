@@ -1,7 +1,5 @@
 # Galatians
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> From Paul, an apostle (not from men, nor by human agency, but by Jesus Christ and God the Father who raised him from the dead) <a name="1:2">1:2</a> and all the brothers with me, to the churches of Galatia. <a name="1:3">1:3</a> Grace and peace to you from God the Father and our Lord Jesus Christ, <a name="1:4">1:4</a> who gave himself for our sins to rescue us from this present evil age according to the will of our God and Father, <a name="1:5">1:5</a> to whom be glory forever and ever! Amen.

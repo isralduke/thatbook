@@ -1,7 +1,5 @@
 # Amos
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> The following is a record of what Amos prophesied. He was one of the herdsmen from Tekoa. These prophecies about Israel were revealed to him during the time of King Uzziah of Judah and King Jeroboam son of Joash of Israel, two years before the earthquake.
@@ -235,7 +233,8 @@
 
 ### Death is Imminent
 
-> <a name="5:1">5:1</a> Listen to this funeral song I am ready to sing about you, family of Israel:
+<a name="5:1">5:1</a> Listen to this funeral song I am ready to sing about you, family of Israel:
+
 > <a name="5:2">5:2</a> “The virgin Israel has fallen down and will not get up again.
 > She is abandoned on her own land
 > with no one to help her get up.”
@@ -347,7 +346,9 @@
 > “I despise Jacob’s arrogance;
 > I hate their fortresses.
 > I will hand over to their enemies the city of Samaria and everything in it.”
-> <a name="6:9">6:9</a> If ten men are left in one house, they too will die. <a name="6:10">6:10</a> When their close relatives, the ones who will burn the corpses, pick up their bodies to remove the bones from the house, they will say to anyone who is in the inner rooms of the house, “Is anyone else with you?” He will respond, “Be quiet! Don’t invoke the Lord’s name!”
+
+<a name="6:9">6:9</a> If ten men are left in one house, they too will die. <a name="6:10">6:10</a> When their close relatives, the ones who will burn the corpses, pick up their bodies to remove the bones from the house, they will say to anyone who is in the inner rooms of the house, “Is anyone else with you?” He will respond, “Be quiet! Don’t invoke the Lord’s name!”
+
 > <a name="6:11">6:11</a> Indeed, look! The Lord is giving the command.
 > He will smash the large house to bits,
 > and the small house into little pieces.
@@ -365,13 +366,16 @@
 
 ### Symbolic Visions of Judgment
 
-> <a name="7:1">7:1</a> The sovereign Lord showed me this:
-> I saw him making locusts just as the crops planted late were beginning to sprout. (The crops planted late sprout after the royal harvest.)
-> <a name="7:2">7:2</a> When they had completely consumed the earth’s vegetation, I said, “Sovereign Lord, forgive Israel! How can Jacob survive? He is too weak!”
-> <a name="7:3">7:3</a> The Lord decided not to do this. “It will not happen,” the Lord said.
-> <a name="7:4">7:4</a> The sovereign Lord showed me this:
-> I saw the sovereign Lord summoning a shower of fire. It consumed the great deep and devoured the fields.
-> <a name="7:5">7:5</a> I said, “Sovereign Lord, stop! How can Jacob survive? He is too weak!”
+<a name="7:1">7:1</a> The sovereign Lord showed me this: I saw him making locusts just as the crops planted late were beginning to sprout. (The crops planted late sprout after the royal harvest.) <a name="7:2">7:2</a> When they had completely consumed the earth’s vegetation, I said, 
+
+> “Sovereign Lord, forgive Israel! How can Jacob survive? He is too weak!”
+
+<a name="7:3">7:3</a> The Lord decided not to do this. “It will not happen,” the Lord said.
+
+<a name="7:4">7:4</a> The sovereign Lord showed me this: I saw the sovereign Lord summoning a shower of fire. It consumed the great deep and devoured the fields.
+> <a name="7:5">7:5</a> I said, 
+
+> “Sovereign Lord, stop! How can Jacob survive? He is too weak!”
 > <a name="7:6">7:6</a> The Lord decided not to do this. The sovereign Lord said, “This will not happen either.”
 > <a name="7:7">7:7</a> He showed me this:
 > I saw the Sovereign One standing by a tin wall holding tin in his hand.
@@ -382,9 +386,11 @@
 
 ### Amos Confronts a Priest
 
-> <a name="7:10">7:10</a> Amaziah the priest of Bethel sent this message to King Jeroboam of Israel: “Amos is conspiring against you in the very heart of the kingdom of Israel! The land cannot endure all his prophecies. <a name="7:11">7:11</a> As a matter of fact, Amos is saying this: ‘Jeroboam will die by the sword and Israel will certainly be carried into exile away from its land.’”
-> <a name="7:12">7:12</a> Amaziah then said to Amos, “Leave, you visionary! Run away to the land of Judah! Earn money and prophesy there! <a name="7:13">7:13</a> Don’t prophesy at Bethel any longer, for a royal temple and palace are here!”
-> <a name="7:14">7:14</a> Amos replied to Amaziah, “I was not a prophet by profession. No, I was a herdsman who also took care of sycamore fig trees. <a name="7:15">7:15</a> Then the Lord took me from tending flocks and gave me this commission, ‘Go! Prophesy to my people Israel!’ <a name="7:16">7:16</a> So now listen to the Lord’s message! You say, ‘Don’t prophesy against Israel! Don’t preach against the family of Isaac!’
+<a name="7:10">7:10</a> Amaziah the priest of Bethel sent this message to King Jeroboam of Israel: “Amos is conspiring against you in the very heart of the kingdom of Israel! The land cannot endure all his prophecies. <a name="7:11">7:11</a> As a matter of fact, Amos is saying this: ‘Jeroboam will die by the sword and Israel will certainly be carried into exile away from its land.’”
+
+<a name="7:12">7:12</a> Amaziah then said to Amos, “Leave, you visionary! Run away to the land of Judah! Earn money and prophesy there! <a name="7:13">7:13</a> Don’t prophesy at Bethel any longer, for a royal temple and palace are here!”
+
+<a name="7:14">7:14</a> Amos replied to Amaziah, “I was not a prophet by profession. No, I was a herdsman who also took care of sycamore fig trees. <a name="7:15">7:15</a> Then the Lord took me from tending flocks and gave me this commission, ‘Go! Prophesy to my people Israel!’ <a name="7:16">7:16</a> So now listen to the Lord’s message! You say, ‘Don’t prophesy against Israel! Don’t preach against the family of Isaac!’
 > <a name="7:17">7:17</a> “Therefore this is what the Lord says:
 
 ‘Your wife will become a prostitute in the streets
@@ -397,8 +403,8 @@
 
 ### More Visions and Messages of Judgment
 
-> <a name="8:1">8:1</a> The sovereign Lord showed me this: I saw a basket of summer fruit.
-> <a name="8:2">8:2</a> He said, “What do you see, Amos?” I replied, “A basket of summer fruit.” Then the Lord said to me, “The end has come for my people Israel. I will no longer overlook their sins.
+<a name="8:1">8:1</a> The sovereign Lord showed me this: I saw a basket of summer fruit. <a name="8:2">8:2</a> He said, “What do you see, Amos?” I replied, “A basket of summer fruit.” Then the Lord said to me, “The end has come for my people Israel. I will no longer overlook their sins.
+
 > <a name="8:3">8:3</a> The women singing in the temple will wail in that day.”
 > The sovereign Lord is speaking.
 > “There will be many corpses littered everywhere! Be quiet!”

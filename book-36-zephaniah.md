@@ -1,7 +1,5 @@
 # Zephaniah
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> This is the prophetic message that the Lord gave to Zephaniah son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah. Zephaniah delivered this message during the reign of King Josiah son of Amon of Judah:

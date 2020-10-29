@@ -1,7 +1,5 @@
 # Kings 2
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> After Ahab died, Moab rebelled against Israel. <a name="1:2">1:2</a> Ahaziah fell through a window lattice in his upper chamber in Samaria and was injured. He sent messengers with these orders, “Go, ask Baal Zebub, the god of Ekron, if I will survive this injury.”

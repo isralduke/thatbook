@@ -1,7 +1,5 @@
 # Joel
 
-{{TOC}}
-
 ## Chapter 1
 
 > <a name="1:1">1:1</a> This is the LORD’s message that was given
@@ -250,7 +248,9 @@
 > <a name="3:8">3:8</a> I will sell your sons and daughters to the people of Judah.
 > They will sell them to the Sabeans, a nation far away.
 > Indeed, the LORD has spoken!
-> Judgment in the Valley of Jehoshaphat
+
+### Judgment in the Valley of Jehoshaphat
+
 > <a name="3:9">3:9</a> Proclaim this among the nations:
 > “Prepare for a holy war!
 > Call out the warriors!

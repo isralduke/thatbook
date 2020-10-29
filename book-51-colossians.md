@@ -1,7 +1,5 @@
 # Colossians
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> From Paul, an apostle of Christ Jesus through the will of God, and Timothy my brother, <a name="1:2">1:2</a> to the saints, the faithful brothers and sisters in Christ, at Colossae. Grace and peace to you from God our Father!

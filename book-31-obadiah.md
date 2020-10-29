@@ -1,7 +1,5 @@
 # Obadiah
 
-{{TOC}}
-
 ## Chpater 1
 
 > <a name="1:1">1:1</a> The vision that Obadiah saw:

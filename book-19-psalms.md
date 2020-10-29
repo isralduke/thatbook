@@ -1,7 +1,5 @@
 # Psalms
 
-{{TOC}}
-
 ## Book 1 (Psalm 1–41)
 
 ### Psalm 1

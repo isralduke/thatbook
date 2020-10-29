@@ -1,7 +1,5 @@
 # Song of Songs
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> “Solomon’s Most Excellent Love Song.”

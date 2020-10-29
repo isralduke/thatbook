@@ -1,7 +1,5 @@
 # Timothy, Letter 1
 
-{{TOC}}
-
 ## Chapter 1
 
 <a>1:1</a> From Paul, an apostle of Christ Jesus by the command of God our Savior and of Christ Jesus our hope, <a>1:2</a> to Timothy, my genuine child in the faith. Grace, mercy, and peace from God the Father and Christ Jesus our Lord!

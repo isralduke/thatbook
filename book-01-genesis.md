@@ -1,7 +1,5 @@
 # Genesis
 
-{{TOC}}
-
 ## Chapter 1
 
 ### The Beginning

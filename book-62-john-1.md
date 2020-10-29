@@ -1,7 +1,5 @@
 #  John, Letter 1
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> This is what we proclaim to you: what was from the beginning, what we have heard, what we have seen with our eyes, what we have looked at and our hands have touched (concerning the word of life — <a name="1:2">1:2</a> and the life was revealed, and we have seen and testify and announce to you the eternal life that was with the Father and was revealed to us). <a name="1:3">1:3</a> What we have seen and heard we announce to you too, so that you may have fellowship with us (and indeed our fellowship is with the Father and with his Son Jesus Christ). <a name="1:4">1:4</a> Thus we are writing these things so that our joy may be complete.

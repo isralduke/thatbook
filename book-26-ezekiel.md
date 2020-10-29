@@ -1,8 +1,8 @@
 # Ezekiel
 
-{{TOC}}
-
 ## Chapter 1
+
+### God’s Glory in a Vision
 
 <a name="1:1">1:1</a> In the thirtieth year, on the fifth day of the fourth month, while I was among the exiles at the Kebar River, the heavens opened and I saw visions of God. <a name="1:2">1:2</a> (In the fifth day of the month—it was the fifth year of King Jehoiachin’s exile— <a name="1:3">1:3</a> the word of the Lord came to the priest Ezekiel the son of Buzi, at the Kebar River in the land of the Babylonians. The hand of the Lord came on him there).
 
@@ -464,7 +464,9 @@ Then the vision I had seen went up from me. <a name="11:25">11:25</a> So I told 
 > against all the princes of Israel.
 > They are delivered up to the sword, along with my people.
 > Therefore, strike your thigh.
-> <a name="21:13">21:13</a> “‘For testing will come, and what will happen when the scepter, which the sword despises, is no more? declares the Sovereign Lord.’
+
+<a name="21:13">21:13</a> “‘For testing will come, and what will happen when the scepter, which the sword despises, is no more? declares the Sovereign Lord.’
+
 > <a name="21:14">21:14</a> “And you, son of man, prophesy,
 > and clap your hands together.
 > Let the sword strike twice, even three times!
@@ -837,7 +839,9 @@ Then the vision I had seen went up from me. <a name="11:25">11:25</a> So I told 
 > <a name="30:8">30:8</a> They will know that I am the Lord,
 > when I set fire to Egypt,
 > and all her allies are defeated.
-> <a name="30:9">30:9</a> On that day messengers will go out from me in ships to frighten overly confident Ethiopia; panic will overtake them on the day of Egypt’s doom; for it is coming.
+
+<a name="30:9">30:9</a> On that day messengers will go out from me in ships to frighten overly confident Ethiopia; panic will overtake them on the day of Egypt’s doom; for it is coming.
+
 > <a name="30:10">30:10</a> “‘This is what the Sovereign Lord says:
 > I will put an end to the hordes of Egypt,
 > by the hand of King Nebuchadnezzar of Babylon.

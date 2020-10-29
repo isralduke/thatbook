@@ -1,7 +1,5 @@
 # Ecclesiastes
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> The words of the Teacher, the son of David, king in Jerusalem:

@@ -1,7 +1,5 @@
 # Leviticus
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> Then theLord called to Moses and spoke to him from the Meeting Tent: <a name="1:2">1:2</a> “Speak to the Israelites and tell them, ‘When someone among you presents an offering to theLord, you must present your offering from the domesticated animals, either from the herd or from the flock.

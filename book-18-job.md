@@ -1,7 +1,5 @@
 # Job
 
-{{TOC}}
-
 ## I. Meeting Job and the Setting (<a>1:1-2:13</a>)
 
 ### Chapter 1

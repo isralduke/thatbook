@@ -1,7 +1,5 @@
 # Luke
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> Now many have undertaken to compile an account of the things that have been fulfilled among us, <a name="1:2">1:2</a> like the accounts passed on to us by those who were eyewitnesses and servants of the word from the beginning. <a name="1:3">1:3</a> So it seemed good to me as well, because I have followed all things carefully from the beginning, to write an orderly account for you, most excellent Theophilus, <a name="1:4">1:4</a> so that you may know for certain the things you were taught.

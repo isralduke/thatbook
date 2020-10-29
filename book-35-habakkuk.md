@@ -1,7 +1,5 @@
 # Habakkuk
 
-{{TOC}}
-
 ## Chapter 1
 
 ### Habakkuk Complains to the Lord

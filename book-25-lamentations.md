@@ -1,7 +1,5 @@
 # Lamentations
 
-{{TOC}}
-
 ## Chapter 1
 
 ### א (Alef)

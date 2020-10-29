@@ -1,7 +1,5 @@
 # Romans
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> From Paul, a slave of Christ Jesus, called to be an apostle, set apart for the gospel of God. <a name="1:2">1:2</a> This gospel he promised beforehand through his prophets in the holy scriptures, <a name="1:3">1:3</a> concerning his Son who was a descendant of David with reference to the flesh, <a name="1:4">1:4</a> who was appointed the Son-of-God-in-power according to the Holy Spirit by the resurrection from the dead, Jesus Christ our Lord. <a name="1:5">1:5</a> Through him we have received grace and our apostleship to bring about the obedience of faith among all the Gentiles on behalf of his name. <a name="1:6">1:6</a> You also are among them, called to belong to Jesus Christ. <a name="1:7">1:7</a> To all those loved by God in Rome, called to be saints: Grace and peace to you from God our Father and the Lord Jesus Christ!

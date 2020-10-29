@@ -1,7 +1,5 @@
 # Samuel 2
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> There was a man from Ramathaim Zuphim, from the hill country of Ephraim, whose name was Elkanah. He was the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite. <a name="1:2">1:2</a> He had two wives; the name of the first was Hannah and the name of the second was Peninnah. Now Peninnah had children, but Hannah was childless.

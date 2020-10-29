@@ -1,7 +1,5 @@
 # Thessalonians, Letter 1
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> From Paul and Silvanus and Timothy, to the church of the Thessalonians in God the Father and the Lord Jesus Christ. Grace and peace to you!

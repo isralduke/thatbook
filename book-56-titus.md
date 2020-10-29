@@ -1,7 +1,5 @@
 # Titus
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> From Paul, a slave of God and apostle of Jesus Christ, to further the faith of God’s chosen ones and the knowledge of the truth that is in keeping with godliness, <a name="1:2">1:2</a> in hope of eternal life, which God, who does not lie, promised before the ages began. <a name="1:3">1:3</a> But now in his own time he has made his message evident through the preaching I was entrusted with according to the command of God our Savior. <a name="1:4">1:4</a> To Titus, my genuine son in a common faith. Grace and peace from God the Father and Christ Jesus our Savior!

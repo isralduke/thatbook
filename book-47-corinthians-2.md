@@ -1,7 +1,5 @@
 # Corinthians, Letter 2
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> From Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother, to the church of God that is in Corinth, with all the saints who are in all Achaia. <a name="1:2">1:2</a> Grace and peace to you from God our Father and the Lord Jesus Christ!

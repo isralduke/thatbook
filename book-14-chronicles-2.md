@@ -1,7 +1,5 @@
 # Chronicles 2
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> Solomon son of David solidified his royal authority, for the Lord his God was with him and greatly magnified him.

@@ -1,7 +1,5 @@
 # Esther
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> The following events happened in the days of Ahasuerus. (I speak of that Ahasuerus who used to rule over a hundred and twenty-seven provinces extending all the way from India to Ethiopia.) <a name="1:2">1:2</a> In those days, as King Ahasuerus sat on his royal throne in Susa the citadel, <a name="1:3">1:3</a> in the third year of his reign he provided a banquet for all his officials and his servants. The army of Persia and Media was present, as well as the nobles and the officials of the provinces.

@@ -1,7 +1,5 @@
 # Deuteronomy
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> This is what Moses said to the assembly of Israel in the Transjordanian wastelands, the arid country opposite Suph, between Paran and Tophel, Laban, Hazeroth, and Di Zahab <a name="1:2">1:2</a> Now it is ordinarily an eleven-day journey from Horeb to Kadesh Barnea by way of Mount Seir. <a name="1:3">1:3</a> However, it was not until the first day of the eleventh month of the fortieth year that Moses addressed the Israelites just as the Lord had instructed him to do. <a name="1:4">1:4</a> This took place after the defeat of King Sihon of the Amorites, whose capital was in Heshbon, and King Og of Bashan, whose capital was in Ashtaroth, specifically in Edrei. <a name="1:5">1:5</a> So it was in the Transjordan, in Moab, that Moses began to deliver these words:

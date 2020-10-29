@@ -1,7 +1,5 @@
 # Samuel 2
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> After the death of Saul, when David had returned from defeating the Amalekites, he stayed at Ziklag for two days. <a name="1:2">1:2</a> On the third day a man arrived from the camp of Saul with his clothes torn and dirt on his head. When he approached David, the man fell to the ground.

@@ -1,7 +1,5 @@
 # Judges
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> After Joshua died, the Israelites asked the Lord, “Who should lead the invasion against the Canaanites and launch the attack?” <a name="1:2">1:2</a> The Lord said, “The men of Judah should take the lead. Be sure of this! I am handing the land over to them.” <a name="1:3">1:3</a> The men of Judah said to their brothers, the men of Simeon, “Invade our allotted land with us and help us attack the Canaanites. Then we will go with you into your allotted land.” So the men of Simeon went with them.

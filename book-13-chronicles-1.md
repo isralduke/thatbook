@@ -1,7 +1,5 @@
 # Chronicles 1
 
-{{TOC}}
-
 ## Chapter 1
 
 ### Adam’s Descendants

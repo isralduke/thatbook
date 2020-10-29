@@ -1,7 +1,5 @@
 # Daniel
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> In the third year of the reign of King Jehoiakim of Judah King Nebuchadnezzar of Babylon advanced against Jerusalem and laid it under siege. <a name="1:2">1:2</a> Now the Lord delivered King Jehoiakim of Judah into his power, along with some of the vessels of the temple of God. He brought them to the land of Babylonia to the temple of his god and put the vessels in the treasury of his god.
@@ -85,7 +83,8 @@ Then Shadrach, Meshach, and Abednego emerged from the midst of the fire. <a name
 > How mighty are his wonders!
 > His kingdom will last forever,
 > and his authority continues from one generation to the next.”
-> Nebuchadnezzar Dreams of a Tree Chopped Down
+
+### Nebuchadnezzar Dreams of a Tree Chopped Down
 
 <a name="4:4">4:4</a> I, Nebuchadnezzar, was at ease in my home, living luxuriously in my palace. <a name="4:5">4:5</a> I saw a dream that scared me. The things I imagined while lying on my bed—these visions of my mind—were terrifying me. <a name="4:6">4:6</a> So I issued an order for all the wise men of Babylon to be brought before me so that they could make known to me the interpretation of the dream. <a name="4:7">4:7</a> When the magicians, astrologers, wise men, and diviners entered, I recounted the dream for them. But they were unable to make known its interpretation to me. <a name="4:8">4:8</a> Later Daniel entered (whose name is Belteshazzar after the name of my god, and in whom there is a spirit of the holy gods). I recounted the dream for him as well, <a name="4:9">4:9</a> saying, “Belteshazzar, chief of the magicians, in whom I know there to be a spirit of the holy gods and whom no mystery baffles, consider my dream that I saw and set forth its interpretation! <a name="4:10">4:10</a> Here are the visions of my mind while I was on my bed. While I was watching,
 
@@ -125,11 +124,9 @@ Then Shadrach, Meshach, and Abednego emerged from the midst of the fire. <a name
 
 <a name="4:18">4:18</a> “This is the dream that I, King Nebuchadnezzar, saw. Now you, Belteshazzar, declare its interpretation, for none of the wise men in my kingdom are able to make known to me the interpretation. But you can do so, for a spirit of the holy gods is in you.”
 
-<a name="4:19">4:19</a> Then Daniel (whose name is also Belteshazzar) was briefly upset; his thoughts were alarming him. The king said, “Belteshazzar, don’t let the dream and its interpretation alarm you.” But Belteshazzar replied, “Sir, if only the dream were for your enemies and its interpretation applied to your adversaries! <a name="4:20">4:20</a> The tree that you saw that grew large and strong, whose top reached to the sky, and which could be seen in all the land, <a name="4:21">4:21</a> whose foliage was attractive and its fruit plentiful, and from which there was food available for all, under whose branches wild animals used to live, and in whose branches birds of the sky used to nest— <a name="4:22">4:22</a> it is you, O king! For you have become great and strong. Your greatness is such that it reaches to heaven, and your authority to the ends of the earth. <a name="4:23">4:23</a> As for the king seeing a holy sentinel coming down from heaven and saying, ‘Chop down the tree and destroy it. But leave its taproot in the ground, with a band of iron and bronze around it, surrounded by the grass of the field. Let it become damp with the dew of the sky, and let it live with the wild animals, until seven periods of time go by for him’—
-
 ### Daniel Interprets Nebuchadnezzar’s Dream
 
-<a name="4:24">4:24</a> “This is the interpretation, O king. It is the decision of the Most High that this has happened to my lord the king. <a name="4:25">4:25</a> You will be driven from human society, and you will live with the wild animals. You will be fed grass like oxen, and you will become damp with the dew of the sky. Seven periods of time will pass by for you, before you understand that the Most High is ruler over human kingdoms and gives them to whomever he wishes. <a name="4:26">4:26</a> They said to leave the taproot of the tree, for your kingdom will be restored to you when you come to understand that heaven rules. <a name="4:27">4:27</a> Therefore, O king, may my advice be pleasing to you. Break away from your sins by doing what is right, and from your iniquities by showing mercy to the poor. Perhaps your prosperity will be prolonged.”
+<a name="4:19">4:19</a> Then Daniel (whose name is also Belteshazzar) was briefly upset; his thoughts were alarming him. The king said, “Belteshazzar, don’t let the dream and its interpretation alarm you.” But Belteshazzar replied, “Sir, if only the dream were for your enemies and its interpretation applied to your adversaries! <a name="4:20">4:20</a> The tree that you saw that grew large and strong, whose top reached to the sky, and which could be seen in all the land, <a name="4:21">4:21</a> whose foliage was attractive and its fruit plentiful, and from which there was food available for all, under whose branches wild animals used to live, and in whose branches birds of the sky used to nest— <a name="4:22">4:22</a> it is you, O king! For you have become great and strong. Your greatness is such that it reaches to heaven, and your authority to the ends of the earth. <a name="4:23">4:23</a> As for the king seeing a holy sentinel coming down from heaven and saying, ‘Chop down the tree and destroy it. But leave its taproot in the ground, with a band of iron and bronze around it, surrounded by the grass of the field. Let it become damp with the dew of the sky, and let it live with the wild animals, until seven periods of time go by for him’—<a name="4:24">4:24</a> “This is the interpretation, O king. It is the decision of the Most High that this has happened to my lord the king. <a name="4:25">4:25</a> You will be driven from human society, and you will live with the wild animals. You will be fed grass like oxen, and you will become damp with the dew of the sky. Seven periods of time will pass by for you, before you understand that the Most High is ruler over human kingdoms and gives them to whomever he wishes. <a name="4:26">4:26</a> They said to leave the taproot of the tree, for your kingdom will be restored to you when you come to understand that heaven rules. <a name="4:27">4:27</a> Therefore, O king, may my advice be pleasing to you. Break away from your sins by doing what is right, and from your iniquities by showing mercy to the poor. Perhaps your prosperity will be prolonged.”
 
 <a name="4:28">4:28</a> Now all of this happened to King Nebuchadnezzar. <a name="4:29">4:29</a> After twelve months, he happened to be walking around on the walls of the royal palace of Babylon. <a name="4:30">4:30</a> The king uttered these words: “Is this not the great Babylon that I have built for a royal residence by my own mighty strength and for my majestic honor?” <a name="4:31">4:31</a> While these words were still on the king’s lips, a voice came down from heaven: “It is hereby announced to you, King Nebuchadnezzar, that your kingdom has been removed from you! <a name="4:32">4:32</a> You will be driven from human society, and you will live with the wild animals. You will be fed grass like oxen, and seven periods of time will pass by for you before you understand that the Most High is ruler over human kingdoms and gives them to whomever he wishes.”
 
@@ -175,7 +172,7 @@ Then Shadrach, Meshach, and Abednego emerged from the midst of the fire. <a name
 
 ## Chapter 6
 
-### Daniel is Cast into a Lions’ Den
+### Daniel is Put into a Lions’ Den
 
 <a name="6:1">6:1</a> It seemed like a good idea to Darius to appoint over the kingdom one hundred twenty satraps who would be in charge of the entire kingdom. <a name="6:2">6:2</a> Over them would be three supervisors, one of whom was Daniel. These satraps were accountable to them, so that the king’s interests might not incur damage. <a name="6:3">6:3</a> Now this Daniel was distinguishing himself above the other supervisors and the satraps, for he had an extraordinary spirit. In fact, the king intended to appoint him over the entire kingdom. <a name="6:4">6:4</a> Consequently the supervisors and satraps were trying to find some pretext against Daniel in connection with administrative matters. But they were unable to find any such damaging evidence, because he was trustworthy and guilty of no negligence or corruption. <a name="6:5">6:5</a> So these men concluded, “We won’t find any pretext against this man Daniel unless it is in connection with the law of his God.”
 
@@ -207,6 +204,8 @@ Then Shadrach, Meshach, and Abednego emerged from the midst of the fire. <a name
 > Daniel has a Vision of Four Animals Coming up from the Sea
 
 ## Chapter 7
+
+### Daniel’s Vision of Four Animals from the Sea
 
 <a name="7:1">7:1</a> In the first year of King Belshazzar of Babylon, Daniel had a dream filled with visions while he was lying on his bed. Then he wrote down the dream in summary fashion. <a name="7:2">7:2</a> Daniel explained: “I was watching in my vision during the night as the four winds of the sky were stirring up the great sea. <a name="7:3">7:3</a> Then four large beasts came up from the sea; they were different from one another.
 
@@ -244,7 +243,8 @@ Then Shadrach, Meshach, and Abednego emerged from the midst of the fire. <a name
 > All peoples, nations, and language groups were serving him.
 > His authority is eternal and will not pass away.
 > His kingdom will not be destroyed.
-> An Angel Interprets Daniel’s Vision
+
+### An Angel Interprets Daniel’s Vision
 
 <a name="7:15">7:15</a> “As for me, Daniel, my spirit was distressed, and the visions of my mind were alarming me. <a name="7:16">7:16</a> I approached one of those standing nearby and asked him about the meaning of all this. So he spoke with me and made known to me the interpretation of the vision: <a name="7:17">7:17</a> ‘These large beasts, which are four in number, represent four kings who will arise from the earth. <a name="7:18">7:18</a> The holy ones of the Most High will receive the kingdom and will take possession of the kingdom forever and ever.’
 

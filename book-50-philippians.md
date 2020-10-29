@@ -1,7 +1,5 @@
 # Philippians
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> From Paul and Timothy, slaves of Christ Jesus, to all the saints in Christ Jesus who are in Philippi, with the overseers and deacons. <a name="1:2">1:2</a> Grace and peace to you from God our Father and the Lord Jesus Christ!

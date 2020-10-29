@@ -1,7 +1,5 @@
 # Proverbs
 
-{{TOC}}
-
 ## Chapter 1
 
 ### Introduction to the Book

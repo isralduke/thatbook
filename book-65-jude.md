@@ -1,7 +1,5 @@
 #  Jude
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> From Jude, a slave of Jesus Christ and brother of James, to those who are called, wrapped in the love of God the Father and kept for Jesus Christ. <a name="1:2">1:2</a> May mercy, peace, and love be lavished on you!

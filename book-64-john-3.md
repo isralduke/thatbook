@@ -1,7 +1,5 @@
 #  John, Letter 3
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> From the elder, to Gaius my dear brother, whom I love in truth. <a name="1:2">1:2</a> Dear friend, I pray that all may go well with you and that you may be in good health, just as it is well with your soul. <a name="1:3">1:3</a> For I rejoiced greatly when the brothers came and testified to your truth, just as you are living according to the truth.

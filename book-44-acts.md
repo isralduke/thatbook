@@ -1,7 +1,5 @@
 # Acts
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> I wrote the former account, Theophilus, about all that Jesus began to do and teach <a name="1:2">1:2</a> until the day he was taken up to heaven, after he had given orders by the Holy Spirit to the apostles he had chosen. <a name="1:3">1:3</a> To the same apostles also, after his suffering, he presented himself alive with many convincing proofs. He was seen by them over a forty-day period and spoke about matters concerning the kingdom of God. <a name="1:4">1:4</a> While he was with them, he declared, “Do not leave Jerusalem, but wait there for what my Father promised, which you heard about from me. <a name="1:5">1:5</a> For John baptized with water, but you will be baptized with the Holy Spirit not many days from now.”

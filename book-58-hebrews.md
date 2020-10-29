@@ -1,7 +1,5 @@
 # Hebrews
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> After God spoke long ago in various portions and in various ways to our ancestors through the prophets, <a name="1:2">1:2</a> in these last days he has spoken to us in a son, whom he appointed heir of all things, and through whom he created the world. <a name="1:3">1:3</a> The Son is the radiance of his glory and the representation of his essence, and he sustains all things by his powerful word, and so when he had accomplished cleansing for sins, he sat down at the right hand of the Majesty on high. <a name="1:4">1:4</a> Thus he became so far better than the angels as he has inherited a name superior to theirs.

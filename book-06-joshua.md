@@ -1,7 +1,5 @@
 # Joshua
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> After Moses the Lord’s servant died, the Lord said to Joshua son of Nun, Moses’ assistant: <a name="1:2">1:2</a> “Moses my servant is dead. Get ready! Cross the Jordan River! Lead these people into the land which I am ready to hand over to them. <a name="1:3">1:3</a> I am handing over to you every place you set foot, as I promised Moses. <a name="1:4">1:4</a> Your territory will extend from the wilderness in the south to Lebanon in the north. It will extend all the way to the great River Euphrates in the east (including all of Syria) and all the way to the Mediterranean Sea in the west. <a name="1:5">1:5</a> No one will be able to resist you all the days of your life. As I was with Moses, so I will be with you. I will not abandon you or leave you alone. <a name="1:6">1:6</a> Be strong and brave! You must lead these people in the conquest of this land that I solemnly promised their ancestors I would hand over to them. <a name="1:7">1:7</a> Make sure you are very strong and brave! Carefully obey all the law my servant Moses charged you to keep! Do not swerve from it to the right or the left, so you may be successful in all you do. <a name="1:8">1:8</a> This law scroll must not leave your lips! You must memorize it day and night so you can carefully obey all that is written in it. Then you will prosper and be successful. <a name="1:9">1:9</a> I repeat, be strong and brave! Don’t be afraid and don’t panic, for I, the Lord your God, am with you in all you do.”

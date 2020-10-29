@@ -1,7 +1,5 @@
 # Zechariah
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> In the eighth month of Darius’ second year, the word of the Lord came to the prophet Zechariah, son of Berechiah son of Iddo, as follows:

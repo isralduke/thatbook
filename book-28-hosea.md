@@ -1,7 +1,5 @@
 # Hosea
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> This is the word of the Lord which was revealed to Hosea son of Beeri during the time when Uzziah, Jotham, Ahaz, and Hezekiah ruled Judah, and during the time when Jeroboam son of Joash ruled Israel.
@@ -40,7 +38,9 @@
 > For she said, “I will seek out my lovers;
 > they are the ones who give me my bread and my water,
 > my wool, my flax, my olive oil, and my wine.
-> The Lord’s Discipline Will Bring Israel Back
+
+### The Lord’s Discipline Will Bring Israel Back
+
 > <a name="2:6">2:6</a> Therefore, I will soon fence her in with thorns;
 > I will wall her in so that she cannot find her way.
 > <a name="2:7">2:7</a> Then she will pursue her lovers, but she will not catch them;
@@ -441,7 +441,9 @@
 > I will soon gather them together for judgment.
 > Then they will begin to waste away
 > under the oppression of a mighty king.
-> Sacrifices Ineffective without Moral Obedience
+
+### Sacrifices Ineffective without Moral Obedience
+
 > <a name="8:11">8:11</a> Although Ephraim has built many altars for sin offerings,
 > these have become altars for sinning!
 > <a name="8:12">8:12</a> I spelled out my law for him in great detail,
@@ -481,7 +483,9 @@
 > it will not come into the temple of the Lord.
 > <a name="9:5">9:5</a> So what will you do on the festival day,
 > on the festival days of the Lord?
-> No Escape for the Israelites This Time!
+
+### No Escape for the Israelites This Time!
+
 > <a name="9:6">9:6</a> Look! Even if they flee from the destruction,
 > Egypt will take hold of them,
 > and Memphis will bury them.
@@ -500,7 +504,9 @@
 > <a name="9:8">9:8</a> The prophet is a watchman over Ephraim on behalf of God,
 > yet traps are laid for him along all of his paths;
 > animosity rages against him in the land of his God.
-> The Best of Times, the Worst of Times
+
+### The Best of Times, the Worst of Times
+
 > <a name="9:9">9:9</a> They have sunk deep into corruption
 > as in the days of Gibeah.
 > He will remember their wrongdoing.
@@ -584,7 +590,9 @@
 > Thorns and thistles will grow up over its altars.
 > Then they will say to the mountains, “Cover us!”
 > and to the hills, “Fall on us!”
-> Failure to Learn from the Sin and Judgment of Gibeah
+
+### Failure to Learn from the Sin and Judgment of Gibeah
+
 > <a name="10:9">10:9</a> O Israel, you have sinned since the time of Gibeah,
 > and there you have remained.
 > Did not war overtake the evildoers in Gibeah?
@@ -609,7 +617,9 @@
 > you have eaten the fruit of deception.
 > Because you have depended on your chariots,
 > you have relied on your many warriors.
-> Bethel Will Be Destroyed Like Beth Arbel
+
+### Bethel Will Be Destroyed Like Beth Arbel
+
 > <a name="10:14">10:14</a> The roar of battle will rise against your people;
 > all your fortresses will be devastated,
 > just as Shalman devastated Beth Arbel on the day of battle,
@@ -645,7 +655,9 @@
 > and will devour them in their fortresses.
 > <a name="11:7">11:7</a> My people are obsessed with turning away from me;
 > they call to Baal, but he will never exalt them!
-> The Divine Dilemma: Judgment or Mercy?
+
+### The Divine Dilemma: Judgment or Mercy?
+
 > <a name="11:8">11:8</a> How can I give you up, O Ephraim?
 > How can I surrender you, O Israel?
 > How can I treat you like Admah?
@@ -667,7 +679,9 @@
 > like birds from Egypt,
 > like doves from Assyria,
 > and I will settle them in their homes,” declares the Lord.
-> God’s Lawsuit against Israel: Breach of Covenant
+
+### God’s Lawsuit against Israel: Breach of Covenant
+
 > <a name="11:12">11:12</a> Ephraim has surrounded me with lies;
 > the house of Israel has surrounded me with deceit.
 > But Judah still roams about with God;
@@ -715,7 +729,9 @@
 > Certainly its inhabitants will come to nothing!
 > Do they sacrifice bulls in Gilgal?
 > Surely their altars will be like stones heaped up on a plowed field!
-> Jacob in Aram, Israel in Egypt, and Ephraim in Trouble
+
+### Jacob in Aram, Israel in Egypt, and Ephraim in Trouble
+
 > <a name="12:12">12:12</a> Jacob fled to the country of Aram,
 > then Israel worked to acquire a wife;
 > he tended sheep to pay for her.
@@ -760,7 +776,9 @@
 > I will rip open their chests.
 > I will devour them there like a lion,
 > like a wild animal would tear them apart.
-> Israel’s King Unable to Deliver the Nation
+
+### Israel’s King Unable to Deliver the Nation
+
 > <a name="13:9">13:9</a> I will destroy you, O Israel!
 > Who is there to help you?
 > <a name="13:10">13:10</a> Where then is your king,
@@ -769,7 +787,9 @@
 > “Give me a king and princes”?
 > <a name="13:11">13:11</a> I granted you a king in my anger,
 > and I will take him away in my wrath.
+
 ### Israel’s Punishment Will Not Be Withheld Much Longer
+
 > <a name="13:12">13:12</a> The punishment of Ephraim has been decreed,
 > his punishment is being stored up for the future.
 > <a name="13:13">13:13</a> The labor pains of a woman will overtake him,

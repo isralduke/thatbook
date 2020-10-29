@@ -1,7 +1,5 @@
 # Ephesians
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> From Paul, an apostle of Christ Jesus by the will of God, to the saints [in Ephesus], the faithful in Christ Jesus. <a name="1:2">1:2</a> Grace and peace to you from God our Father and the Lord Jesus Christ!

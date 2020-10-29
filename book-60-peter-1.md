@@ -1,7 +1,5 @@
 #  Peter, Letter 1
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> From Peter, an apostle of Jesus Christ, to those temporarily residing abroad (in Pontus, Galatia, Cappadocia, the province of Asia, and Bithynia) who are chosen <a name="1:2">1:2</a> according to the foreknowledge of God the Father by being set apart by the Spirit for obedience and for sprinkling with Jesus Christ’s blood. May grace and peace be yours in full measure!

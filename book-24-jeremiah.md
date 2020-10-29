@@ -1,14 +1,13 @@
 # Jeremiah
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> The following is a record of what Jeremiah son of Hilkiah prophesied and did. He was one of the priests who lived at Anathoth in the territory of the tribe of Benjamin. <a name="1:2">1:2</a> The Lord began to speak to him in the thirteenth year that Josiah son of Amon ruled over Judah. <a name="1:3">1:3</a> The Lord also spoke to him during the time Jehoiakim son of Josiah ruled over Judah, and he continued to speak to him until the fifth month of the eleventh year that Zedekiah son of Josiah ruled over Judah. That was when the people of Jerusalem were taken into exile.
 
 ### Jeremiah’s Call and Commission
 
-> <a name="1:4">1:4</a> The Lord said to me,
+<a name="1:4">1:4</a> The Lord said to me,
+
 > <a name="1:5">1:5</a> “Before I formed you in your mother’s womb I chose you.
 > Before you were born I set you apart.
 > I appointed you to be a prophet to the nations.”

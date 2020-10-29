@@ -1,7 +1,5 @@
 # Timothy, Letter 2
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> From Paul, an apostle of Christ Jesus by God’s will, to further the promise of life in Christ Jesus, <a name="1:2">1:2</a> to Timothy, my dear child. Grace, mercy, and peace from God the Father and Christ Jesus our Lord!

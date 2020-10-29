@@ -1,7 +1,5 @@
 # John
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> In the beginning was the Word, and the Word was with God, and the Word was fully God. <a name="1:2">1:2</a> The Word was with God in the beginning. <a name="1:3">1:3</a> All things were created by him, and apart from him not one thing was created that has been created. <a name="1:4">1:4</a> In him was life, and the life was the light of mankind. <a name="1:5">1:5</a> And the light shines on in the darkness, but the darkness has not mastered it.

@@ -1,7 +1,5 @@
 #  James
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> From James, a slave of God and the Lord Jesus Christ, to the twelve tribes dispersed abroad. Greetings!

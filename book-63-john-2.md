@@ -1,7 +1,5 @@
 #  John, Letter 2
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> From the elder, to an elect lady and her children, whom I love in truth (and not I alone, but also all those who know the truth), <a name="1:2">1:2</a> because of the truth that resides in us and will be with us forever. <a name="1:3">1:3</a> Grace, mercy, and peace will be with us from God the Father and from Jesus Christ the Son of the Father, in truth and love.

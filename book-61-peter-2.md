@@ -1,7 +1,5 @@
 #  Peter, Letter 2
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> From Simeon Peter, a slave and apostle of Jesus Christ, to those who through the righteousness of our God and Savior, Jesus Christ, have been granted a faith just as precious as ours. <a name="1:2">1:2</a> May grace and peace be lavished on you as you grow in the rich knowledge of God and of Jesus our Lord!

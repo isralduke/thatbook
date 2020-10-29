@@ -1,7 +1,5 @@
 # Philemon
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> From Paul, a prisoner of Christ Jesus, and Timothy our brother, to Philemon, our dear friend and colaborer, <a name="1:2">1:2</a> to Apphia our sister, to Archippus our fellow soldier, and to the church that meets in your house. <a name="1:3">1:3</a> Grace and peace to you from God our Father and the Lord Jesus Christ!

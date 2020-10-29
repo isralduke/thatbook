@@ -1,7 +1,5 @@
 # Malachi
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> What follows is divine revelation. The word of the Lord came to Israel through Malachi:

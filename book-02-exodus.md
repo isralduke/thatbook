@@ -1,7 +1,5 @@
 # Exodus
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> These are the names of the sons of Israel who entered Egypt—each man with his household entered with Jacob: <a name="1:2">1:2</a> Reuben, Simeon, Levi, and Judah, <a name="1:3">1:3</a> Issachar, Zebulun, and Benjamin, <a name="1:4">1:4</a> Dan and Naphtali, Gad and Asher. <a name="1:5">1:5</a> All the people who were directly descended from Jacob numbered seventy (Joseph was already in Egypt). <a name="1:6">1:6</a> In time Joseph and his brothers and all that generation died. <a name="1:7">1:7</a> But the Israelites were fruitful, increased abundantly, multiplied, and became exceedingly strong, so that the land was filled with them.

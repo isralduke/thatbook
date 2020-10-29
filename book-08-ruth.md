@@ -1,7 +1,5 @@
 # Ruth
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> During the time of the judges there was a famine in the land of Judah. So a man from Bethlehem in Judah went to live as a resident alien in the region of Moab, along with his wife and two sons. <a name="1:2">1:2</a> (Now the man’s name was Elimelech, his wife was Naomi, and his two sons were Mahlon and Kilion. They were from the clan of Ephrath from Bethlehem in Judah.) They entered the region of Moab and settled there. <a name="1:3">1:3</a> Sometime later Naomi’s husband, Elimelech, died, so she and her two sons were left alone. <a name="1:4">1:4</a> So her sons married Moabite women. (One was named Orpah and the other Ruth.) And they continued to live there about ten years. <a name="1:5">1:5</a> Then Naomi’s two sons, Mahlon and Kilion, also died. So the woman was left all alone—bereaved of her two children as well as her husband! <a name="1:6">1:6</a> So she decided to return home from the region of Moab, accompanied by her daughters-in-law, because while she was living in Moab she had heard that theLord had shown concern for his people, reversing the famine by providing abundant crops.

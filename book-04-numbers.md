@@ -1,7 +1,5 @@
 # Numbers
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> Now the Lord spoke to Moses in the tent of meeting in the wilderness of Sinai on the first day of the second month of the second year after they came out of the land of Egypt. He said: <a name="1:2">1:2</a> “Take a census of the entire Israelite community by their clans and families, counting the name of every individual male. <a name="1:3">1:3</a> You and Aaron are to number all in Israel who can serve in the army, those who are twenty years old or older, by their divisions. <a name="1:4">1:4</a> And to help you there is to be a man from each tribe, each man the head of his family. <a name="1:5">1:5</a> Now these are the names of the men who are to help you:

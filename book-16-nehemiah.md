@@ -1,7 +1,5 @@
 # Nehemiah
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> These are words of Nehemiah son of Hacaliah:

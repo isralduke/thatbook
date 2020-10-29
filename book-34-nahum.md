@@ -1,7 +1,5 @@
 # Nahum
 
-{{TOC}}
-
 ## Chapter 1
 
 > <a name="1:1">1:1</a> The oracle against Nineveh;

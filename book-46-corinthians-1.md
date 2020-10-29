@@ -1,7 +1,5 @@
 # Corinthians, Letter 1
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> From Paul, called to be an apostle of Christ Jesus by the will of God, and Sosthenes, our brother, <a name="1:2">1:2</a> to the church of God that is in Corinth, to those who are sanctified in Christ Jesus, and called to be saints, with all those in every place who call on the name of our Lord Jesus Christ, their Lord and ours. <a name="1:3">1:3</a> Grace and peace to you from God our Father and the Lord Jesus Christ!

@@ -1,7 +1,5 @@
 # Ezra
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> In the first year of King Cyrus of Persia, in order to fulfill the LORD’s message spoken through Jeremiah, the LORD stirred the mind of King Cyrus of Persia. He disseminated a proclamation throughout all his kingdom, announcing in a written edict the following:

@@ -1,7 +1,5 @@
 #  Kings 1
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> King David was very old; even when they covered him with blankets, he could not get warm. <a name="1:2">1:2</a> His servants advised him, “A young virgin must be found for our master, the king, to take care of the king’s needs and serve as his nurse. She can also sleep with you and keep our master, the king, warm.” <a name="1:3">1:3</a> So they looked through all Israel for a beautiful young woman and found Abishag, a Shunammite, and brought her to the king. <a name="1:4">1:4</a> The young woman was very beautiful; she became the king’s nurse and served him, but the king did not have sex with her.

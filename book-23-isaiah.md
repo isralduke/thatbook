@@ -1,7 +1,5 @@
 # Isaiah
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> Here is the message about Judah and Jerusalem that was revealed to Isaiah son of Amoz during the time when Uzziah, Jotham, Ahaz, and Hezekiah reigned over Judah.

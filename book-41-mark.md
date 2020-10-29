@@ -1,7 +1,5 @@
 # Mark
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> The beginning of the gospel of Jesus Christ, the Son of God. <a name="1:2">1:2</a> As it is written in Isaiah the prophet,

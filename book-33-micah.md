@@ -1,7 +1,5 @@
 # Micah
 
-{{TOC}}
-
 ## Chapter 1
 
 > <a>1:1</a> This is the prophetic message that the Lord gave to Micah of Moresheth. He delivered this message during the reigns of Jotham, Ahaz, and Hezekiah, kings of Judah. The prophecies pertain to Samaria and Jerusalem.

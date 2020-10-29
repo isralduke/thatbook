@@ -1,7 +1,5 @@
 # Jonah
 
-{{TOC}}
-
 ## Chapter 1
 
 <a name="1:1">1:1</a> The Lord said to Jonah son of Amittai, <a name="1:2">1:2</a> “Go immediately to Nineveh, that large capital city, and announce judgment against its people because their wickedness has come to my attention.” <a name="1:3">1:3</a> Instead Jonah immediately headed off to a distant seaport to escape from the commission of the Lord. He traveled to Joppa and found a merchant ship heading to a distant seaport. So he paid the fare and went aboard it to go with them to a distant seaport far away from the Lord. <a name="1:4">1:4</a> But the Lord hurled a powerful wind on the sea. Such a violent tempest arose on the sea that the ship threatened to break up! <a name="1:5">1:5</a> The sailors were so afraid that each cried out to his own god and they flung the ship’s cargo overboard to make the ship lighter. Jonah, meanwhile, had gone down into the hold below deck, had lain down, and was sound asleep. <a name="1:6">1:6</a> The captain of the crew approached him and said, “What are you doing asleep? Get up! Cry out to your god! Perhaps your god might take notice of us so that we might not die!” <a name="1:7">1:7</a> The sailors said to one another, “Come on, let’s cast lots so that we might find out whose fault it is that this disaster has fallen upon us.” So they cast lots, and Jonah was singled out. <a name="1:8">1:8</a> They said to him, “Tell us, whose fault is it that this disaster has fallen upon us? What’s your occupation? From where do you come? What’s your country? And who are your people?” <a name="1:9">1:9</a> He said to them, “I am a Hebrew! And I worship the Lord, the God of heaven, who made the sea and the dry land.” <a name="1:10">1:10</a> Hearing this, the men became even more afraid and said to him, “What have you done?” The men said this because they knew that he was trying to escape from the Lord because he had previously told them. <a name="1:11">1:11</a> Because the storm was growing worse and worse, they said to him, “What should we do to you so that the sea might calm down for us?” <a name="1:12">1:12</a> He said to them, “Pick me up and throw me into the sea to make the sea quiet down, because I know it’s my fault you are in this severe storm.” <a name="1:13">1:13</a> Instead, they tried to row back to land, but they were not able to do it because the storm was growing even worse and worse. <a name="1:14">1:14</a> So they cried out to the Lord, “Oh, please, Lord, don’t let us die on account of this man! Don’t hold us guilty of shedding innocent blood. After all, you, Lord, have done just as you pleased.” <a name="1:15">1:15</a> So they picked Jonah up and threw him into the sea, and the sea stopped raging. <a name="1:16">1:16</a> The men greatly feared the Lord, and earnestly vowed to offer lavish sacrifices to the Lord.
@@ -12,7 +10,7 @@
 
 ## Chapter 2
 
-<a name="2:1">2:1</a> Jonah prayed to the Lord his God from the stomach of the fish <a>2:2</> a> and said,
+<a name="2:1">2:1</a> Jonah prayed to the Lord his God from the stomach of the fish <a>2:2</a> a> and said,
 
 > “I called out to the LORD from my distress,
 > and he answered me;
