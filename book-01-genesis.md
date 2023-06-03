@@ -78,12 +78,16 @@
 > and between your offspring and her offspring;
 > her offspring will attack your head,
 > and you will attack her offspring’s heel.”
-> <a name="3:16">3:16</a> To the woman he said,
+
+<a name="3:16">3:16</a> To the woman he said,
+
 > “I will greatly increase your labor pains;
 > with pain you will give birth to children.
 > You will want to control your husband,
 > but he will dominate you.”
-> <a name="3:17">3:17</a> But to Adam he said,
+
+<a name="3:17">3:17</a> But to Adam he said,
+
 > “Because you obeyed your wife
 > and ate from the tree about which I commanded you,
 > ‘You must not eat from it,’
