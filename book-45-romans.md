@@ -1,5 +1,7 @@
 # Romans
 
+{{TOC}}
+
 ## Chapter 1
 
 <a name="1:1">1:1</a> From Paul, a slave of Christ Jesus, called to be an apostle, set apart for the gospel of God. <a name="1:2">1:2</a> This gospel he promised beforehand through his prophets in the holy scriptures, <a name="1:3">1:3</a> concerning his Son who was a descendant of David with reference to the flesh, <a name="1:4">1:4</a> who was appointed the Son-of-God-in-power according to the Holy Spirit by the resurrection from the dead, Jesus Christ our Lord. <a name="1:5">1:5</a> Through him we have received grace and our apostleship to bring about the obedience of faith among all the Gentiles on behalf of his name. <a name="1:6">1:6</a> You also are among them, called to belong to Jesus Christ. <a name="1:7">1:7</a> To all those loved by God in Rome, called to be saints: Grace and peace to you from God our Father and the Lord Jesus Christ!
@@ -72,7 +74,7 @@
 <a name="4:6">4:6</a> So even David himself speaks regarding the blessedness of the man to whom God credits righteousness apart from works:
 
 > <a name="4:7">4:7</a> “Blessed are those whose lawless deeds are forgiven, and whose sins are covered;
-> <a name="4:8">4:8</a> blessed is the oneagainst whom the Lord will never count sin.”
+> <a name="4:8">4:8</a> blessed is the one against whom the Lord will never count sin.”
 
 <a name="4:9">4:9</a> Is this blessedness then for the circumcision or also for the uncircumcision? For we say, “faith was credited to Abraham as righteousness.” <a name="4:10">4:10</a> How then was it credited to him? Was he circumcised at the time, or not? No, he was not circumcised but uncircumcised! <a name="4:11">4:11</a> And he received the sign of circumcision as a seal of the righteousness that he had by faith while he was still uncircumcised, so that he would become the father of all those who believe but have never been circumcised, that they too could have righteousness credited to them. <a name="4:12">4:12</a> And he is also the father of the circumcised, who are not only circumcised, but who also walk in the footsteps of the faith that our father Abraham possessed when he was still uncircumcised.
 
@@ -212,7 +214,7 @@
 
 <a name="11:28">11:28</a> In regard to the gospel they are enemies for your sake, but in regard to election they are dearly loved for the sake of the fathers. <a name="11:29">11:29</a> For the gifts and the call of God are irrevocable. <a name="11:30">11:30</a> Just as you were formerly disobedient to God, but have now received mercy due to their disobedience, <a name="11:31">11:31</a> so they too have now been disobedient in order that, by the mercy shown to you, they too may now receive mercy. <a name="11:32">11:32</a> For God has consigned all people to disobedience so that he may show mercy to them all.
 
-<a name="11:33">11:33</a> Oh, the depth of the riches and wisdom and knowledge of God! How unsearchable are his judgments and how fathomless > his ways!
+<a name="11:33">11:33</a> Oh, the depth of the riches and wisdom and knowledge of God! How unsearchable are his judgments and how fathomless his ways!
 > <a name="11:34">11:34</a> For who has known the mind of the Lord,
 > or who has been his counselor?
 > <a name="11:35">11:35</a> Or who has first given to God,

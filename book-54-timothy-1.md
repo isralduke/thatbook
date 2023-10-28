@@ -42,9 +42,10 @@
 > proclaimed among Gentiles,
 > believed on in the world,
 > taken up in glory.
-> Timothy’s Ministry in the Later Times
 
 ## Chapter 4
+
+Timothy’s Ministry in the Later Times
 
 <a>4:1</a> Now the Spirit explicitly says that in the later times some will desert the faith and occupy themselves with deceiving spirits and demonic teachings, <a>4:2</a> influenced by the hypocrisy of liars whose consciences are seared. <a>4:3</a> They will prohibit marriage and require abstinence from foods that God created to be received with thanksgiving by those who believe and know the truth. <a>4:4</a> For every creation of God is good and no food is to be rejected if it is received with thanksgiving. <a>4:5</a> For it is sanctified by God’s word and by prayer.
 

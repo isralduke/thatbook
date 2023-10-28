@@ -761,7 +761,7 @@ But while the entire crowd was amazed at everything Jesus was doing, he said to 
 
 ### Jesus Brought Before Pilate
 
-<a name="23:1">23:1</a> Then the whole group of them rose up and brought Jesus before Pilate. <a name="23:2">23:2</a> They began to accuse him, saying, “We found this man subverting our nation, forbidding us to pay the tribute tax to Caesar and claiming that he himself is Christ, a king.” <a name="23:3">23:3</a> So Pilate asked Jesus, “Are you the king of the Jews?” He replied, “You say so.” <a name="23:4">23:4</a> Then Pilate said to the chief priests and the crowds, “I find no basis for an accusation against this man.” <a name="23:5">23:5</a> But they persisted in saying, “He inas the people by teaching throughout all Judea. It started in Galilee and ended up here!”
+<a name="23:1">23:1</a> Then the whole group of them rose up and brought Jesus before Pilate. <a name="23:2">23:2</a> They began to accuse him, saying, “We found this man subverting our nation, forbidding us to pay the tribute tax to Caesar and claiming that he himself is Christ, a king.” <a name="23:3">23:3</a> So Pilate asked Jesus, “Are you the king of the Jews?” He replied, “You say so.” <a name="23:4">23:4</a> Then Pilate said to the chief priests and the crowds, “I find no basis for an accusation against this man.” <a name="23:5">23:5</a> But they persisted in saying, “He incites the people by teaching throughout all Judea. It started in Galilee and ended up here!”
 
 ### Jesus Brought Before Herod
 

@@ -1,5 +1,7 @@
 # Matthew
 
+{{TOC}}
+
 ## Chapter 1
 
 <a name="1:1">1:1</a> This is the record of the genealogy of Jesus Christ, the son of David, the son of Abraham.
