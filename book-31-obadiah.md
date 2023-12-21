@@ -1,6 +1,6 @@
 # Obadiah
 
-## Chpater 1
+## Chapter 1
 
 > <a name="1:1">1:1</a> The vision that Obadiah saw:
 > The Lord God says this concerning Edom.
