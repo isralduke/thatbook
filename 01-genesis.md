@@ -252,7 +252,9 @@ Noah was a godly man; he was blameless among his contemporaries. He walked with 
 > “Cursed be Canaan!
 > The lowest of slaves
 > he will be to his brothers.”
-> <a name="9:26">9:26</a> He also said,
+
+<a name="9:26">9:26</a> He also said,
+
 > “Worthy of praise is the Lord, the God of Shem!
 > May Canaan be the slave of Shem!
 > <a name="9:27">9:27</a> May God enlarge Japheth’s territory and numbers!
@@ -881,7 +883,7 @@ Abraham became the father of Isaac. <a name="25:20">25:20</a> When Isaac was for
 
 <a name="31:22">31:22</a> Three days later Laban discovered Jacob had left. <a name="31:23">31:23</a> So he took his relatives with him and pursued Jacob for seven days. He caught up with him in the hill country of Gilead. <a name="31:24">31:24</a> But God came to Laban the Aramean in a dream at night and warned him, “Be careful that you neither bless nor curse Jacob.”
 
-<a name="31:25">31:25</a> Laban overtook Jacob, and when Jacob pitched his tent in the hill country of Gilead, Laban and his relatives set up camp there too. <a name="31:26">31:26</a> “What have you done?” Laban demanded of Jacob. “You’ve deceived me and carried away my daughters as if they were captives of war! <a name="31:27">31:27</a> Why did you run away secretly and deceive me? Why didn’t you tell me so I could send you off with a celebration complete with singing, tambourines, and harps? <a name="31:28">31:28</a> You didn’t even allow me to kiss my daughters and my grandchildren good-bye. You have acted foolishly! <a name="31:29">31:29</a> I have the power to do you harm, but the God of your father told me last night, ‘Be careful that you neither bless nor curse Jacob.ï¿½ï¿½ <a name="31:30">31:30</a> Now I understand that you have gone away because you longed desperately for your father’s house. Yet why did you steal my gods?”
+<a name="31:25">31:25</a> Laban overtook Jacob, and when Jacob pitched his tent in the hill country of Gilead, Laban and his relatives set up camp there too. <a name="31:26">31:26</a> “What have you done?” Laban demanded of Jacob. “You’ve deceived me and carried away my daughters as if they were captives of war! <a name="31:27">31:27</a> Why did you run away secretly and deceive me? Why didn’t you tell me so I could send you off with a celebration complete with singing, tambourines, and harps? <a name="31:28">31:28</a> You didn’t even allow me to kiss my daughters and my grandchildren good-bye. You have acted foolishly! <a name="31:29">31:29</a> I have the power to do you harm, but the God of your father told me last night, ‘Be careful that you neither bless nor curse Jacob.’ <a name="31:30">31:30</a> Now I understand that you have gone away because you longed desperately for your father’s house. Yet why did you steal my gods?”
 
 <a name="31:31">31:31</a> “I left secretly because I was afraid!” Jacob replied to Laban. “I thought you might take your daughters away from me by force. <a name="31:32">31:32</a> Whoever has taken your gods will be put to death! In the presence of our relatives identify whatever is yours and take it.” (Now Jacob did not know that Rachel had stolen them.)
 
@@ -1115,7 +1117,7 @@ Joseph, who was seventeen years old, was taking care of the flocks with his brot
 
 <a name="38:15">38:15</a> When Judah saw her, he thought she was a prostitute because she had covered her face. <a name="38:16">38:16</a> He turned aside to her along the road and said, “Come on! I want to have sex with you.” (He did not realize it was his daughter-in-law.) She asked, “What will you give me in exchange for having sex with you?” <a name="38:17">38:17</a> He replied, “I’ll send you a young goat from the flock.” She asked, “Will you give me a pledge until you send it?” <a name="38:18">38:18</a> He said, “What pledge should I give you?” She replied, “Your seal, your cord, and the staff that’s in your hand.” So he gave them to her and had sex with her. She became pregnant by him. <a name="38:19">38:19</a> She left immediately, removed her veil, and put on her widow’s clothes.
 
-<a name="38:20">38:20</a> Then Judah had his friend the Adullamite take a young goat to get back from the woman the items he had given in pledge, but Judah’s friend could not find her. <a name="38:21">38:21</a> He asked the men who were there, “Where is the cult prostitute who was at Enaim by the road?” But they replied, “There has been no cult prostitute here.ï¿½ï¿½ï¿½ <a name="38:22">38:22</a> So he returned to Judah and said, “I couldn’t find her. Moreover, the men of the place said, ‘There has been no cult prostitute here.’” <a name="38:23">38:23</a> Judah said, “Let her keep the things for herself. Otherwise we will appear to be dishonest. I did indeed send this young goat, but you couldn’t find her.”
+<a name="38:20">38:20</a> Then Judah had his friend the Adullamite take a young goat to get back from the woman the items he had given in pledge, but Judah’s friend could not find her. <a name="38:21">38:21</a> He asked the men who were there, “Where is the cult prostitute who was at Enaim by the road?” But they replied, “There has been no cult prostitute here.” <a name="38:22">38:22</a> So he returned to Judah and said, “I couldn’t find her. Moreover, the men of the place said, ‘There has been no cult prostitute here.’” <a name="38:23">38:23</a> Judah said, “Let her keep the things for herself. Otherwise we will appear to be dishonest. I did indeed send this young goat, but you couldn’t find her.”
 
 <a name="38:24">38:24</a> After three months Judah was told, “Your daughter-in-law Tamar has turned to prostitution, and as a result she has become pregnant.” Judah said, “Bring her out and let her be burned!” <a name="38:25">38:25</a> While they were bringing her out, she sent word to her father-in-law: “I am pregnant by the man to whom these belong.” Then she said, “Identify the one to whom the seal, cord, and staff belong.” <a name="38:26">38:26</a> Judah recognized them and said, “She is more upright than I because I wouldn’t give her to Shelah my son.” He did not have sexual relations with her again.
 
@@ -1305,67 +1307,39 @@ They spent some time in custody. <a name="40:5">40:5</a> Both of them, the cupbe
 
 Reuben, the firstborn of Jacob.
 
-<a name="46:9">46:9</a> The sons of Reuben:
+<a name="46:9">46:9</a> The sons of Reuben: Hanoch, Pallu, Hezron, and Carmi.
 
-Hanoch, Pallu, Hezron, and Carmi.
+<a name="46:10">46:10</a> The sons of Simeon: Jemuel, Jamin, Ohad, Jakin, Zohar, and Shaul (the son of a Canaanite woman).
 
-<a name="46:10">46:10</a> The sons of Simeon:
+<a name="46:11">46:11</a> The sons of Levi: Gershon, Kohath, and Merari.
 
-Jemuel, Jamin, Ohad, Jakin, Zohar,
+<a name="46:12">46:12</a> The sons of Judah: Er, Onan, Shelah, Perez, and Zerah (but Er and Onan died in the land of Canaan). The sons of Perez were Hezron and Hamul. 
 
-and Shaul (the son of a Canaanite woman).
+<a name="46:13">46:13</a> The sons of Issachar: Tola, Puah, Jashub, and Shimron.
 
-<a name="46:11">46:11</a> The sons of Levi:
-
-Gershon, Kohath, and Merari.
-
-<a name="46:12">46:12</a> The sons of Judah:
-
-Er, Onan, Shelah, Perez, and Zerah
-
-(but Er and Onan died in the land of Canaan).
-
-The sons of Perez were Hezron and Hamul.
-
-<a name="46:13">46:13</a> The sons of Issachar:
-
-Tola, Puah, Jashub, and Shimron.
-
-<a name="46:14">46:14</a> The sons of Zebulun:
-
-Sered, Elon, and Jahleel.
+<a name="46:14">46:14</a> The sons of Zebulun: Sered, Elon, and Jahleel.
 
 <a name="46:15">46:15</a> These were the sons of Leah, whom she bore to Jacob in Paddan Aram, along with Dinah his daughter. His sons and daughters numbered thirty-three in all.
 
-<a name="46:16">46:16</a> The sons of Gad:
+<a name="46:16">46:16</a> The sons of Gad: Zephon, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli.
 
-Zephon, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli.
-
-<a name="46:17">46:17</a> The sons of Asher:
-
-Imnah, Ishvah, Ishvi, Beriah, and Serah their sister.
+<a name="46:17">46:17</a> The sons of Asher: Imnah, Ishvah, Ishvi, Beriah, and Serah their sister.
 
 The sons of Beriah were Heber and Malkiel.
 
 <a name="46:18">46:18</a> These were the sons of Zilpah, whom Laban gave to Leah his daughter. She bore these to Jacob, sixteen in all.
 
-<a name="46:19">46:19</a> The sons of Rachel the wife of Jacob:
-
-Joseph and Benjamin.
+<a name="46:19">46:19</a> The sons of Rachel the wife of Jacob:   Joseph and Benjamin.
 
 <a name="46:20">46:20</a> Manasseh and Ephraim were born to Joseph in the land of Egypt. Asenath daughter of Potiphera, priest of On, bore them to him.
 
-<a name="46:21">46:21</a> The sons of Benjamin:
-
-Bela, Beker, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim and Ard.
+<a name="46:21">46:21</a> The sons of Benjamin: Bela, Beker, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim and Ard.
 
 <a name="46:22">46:22</a> These were the sons of Rachel who were born to Jacob, fourteen in all.
 
 <a name="46:23">46:23</a> The son of Dan: Hushim.
 
-<a name="46:24">46:24</a> The sons of Naphtali:
-
-Jahziel, Guni, Jezer, and Shillem.
+<a name="46:24">46:24</a> The sons of Naphtali: Jahziel, Guni, Jezer, and Shillem.
 
 <a name="46:25">46:25</a> These were the sons of Bilhah, whom Laban gave to Rachel his daughter. She bore these to Jacob, seven in all.
 
@@ -1448,14 +1422,17 @@ Jahziel, Guni, Jezer, and Shillem.
 
 <a name="49:1">49:1</a> Jacob called for his sons and said, “Gather together so I can tell you what will happen to you in the future.
 
-> <a name="49:2">49:2</a> “Assemble and listen, you sons of Jacob;
+<a name="49:2">49:2</a> “Assemble and listen, you sons of Jacob;
+
 > listen to Israel, your father.
+
 > <a name="49:3">49:3</a> Reuben, you are my firstborn,
 > my might and the beginning of my strength,
 > outstanding in dignity, outstanding in power.
 > <a name="49:4">49:4</a> You are destructive like water and will not excel,
 > for you got on your father’s bed,
 > then you defiled it — he got on my couch!
+
 > <a name="49:5">49:5</a> Simeon and Levi are brothers,
 > weapons of violence are their knives.
 > <a name="49:6">49:6</a> O my soul, do not come into their council,
@@ -1466,6 +1443,7 @@ Jahziel, Guni, Jezer, and Shillem.
 > and their fury, for it was cruel.
 > I will divide them in Jacob,
 > and scatter them in Israel.
+
 > <a name="49:8">49:8</a> Judah, your brothers will praise you.
 > Your hand will be on the neck of your enemies,
 > your father’s sons will bow down before you.
@@ -1483,15 +1461,18 @@ Jahziel, Guni, Jezer, and Shillem.
 > his robes in the blood of grapes.
 > <a name="49:12">49:12</a> His eyes will be dark from wine,
 > and his teeth white from milk.
+
 > <a name="49:13">49:13</a> Zebulun will live by the haven of the sea
 > and become a haven for ships;
 > his border will extend to Sidon.
+
 > <a name="49:14">49:14</a> Issachar is a strong-boned donkey
 > lying down between two saddlebags.
 > <a name="49:15">49:15</a> When he sees a good resting place,
 > and the pleasant land,
 > he will bend his shoulder to the burden
 > and become a slave laborer.
+
 > <a name="49:16">49:16</a> Dan will judge his people
 > as one of the tribes of Israel.
 > <a name="49:17">49:17</a> May Dan be a snake beside the road,
@@ -1499,12 +1480,16 @@ Jahziel, Guni, Jezer, and Shillem.
 > that bites the heels of the horse
 > so that its rider falls backward.
 > <a name="49:18">49:18</a> I wait for your deliverance, O Lord.
+
 > <a name="49:19">49:19</a> Gad will be raided by marauding bands,
 > but he will attack them at their heels.
+
 > <a name="49:20">49:20</a> Asher’s food will be rich,
 > and he will provide delicacies to royalty.
+
 > <a name="49:21">49:21</a> Naphtali is a free running doe,
 > he speaks delightful words.
+
 > <a name="49:22">49:22</a> Joseph is a fruitful bough,
 > a fruitful bough near a spring
 > whose branches climb over the wall.
@@ -1526,6 +1511,7 @@ Jahziel, Guni, Jezer, and Shillem.
 > or the desirable things of the age-old hills.
 > They will be on the head of Joseph
 > and on the brow of the prince of his brothers.
+
 > <a name="49:27">49:27</a> Benjamin is a ravenous wolf;
 > in the morning devouring the prey,
 > and in the evening dividing the plunder.”
