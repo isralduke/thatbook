@@ -27,7 +27,7 @@
 > <a name="1:22">1:22</a> From the blood of the slain, from the fat of warriors,
 > the bow of Jonathan was not turned away.
 > The sword of Saul never returned empty.
-> <a name="1:23">1:23</a> Saul and Jonathan were greatly loved during their > lives,
+> <a name="1:23">1:23</a> Saul and Jonathan were greatly loved during their lives,
 > and not even in their deaths were they separated.
 > They were swifter than eagles, stronger than lions.
 > <a name="1:24">1:24</a> O daughters of Israel, weep over Saul,
@@ -58,7 +58,7 @@ David was told, “The people of Jabesh Gilead are the ones who buried Saul.” 
 
 <a name="2:15">2:15</a> So they arose and crossed over by number: twelve belonging to Benjamin and to Ish-bosheth son of Saul, and twelve from the servants of David. <a name="2:16">2:16</a> As they grappled with one another, each one stabbed his opponent with his sword and they fell dead together. So that place is called the Field of Flints; it is in Gibeon.
 
-<a name="2:17">2:17</a> Now the battle was very severe that day; Abner and the men of Israel were overcome by David’s soldiers. <a name="2:18">2:18</a> The three sons of Zeruiah were there—Joab, Abishai, and Asahel. Now Asahel was as quick on his feet as one of the gazelles in the field. <a name="2:19">2:19</a> Asahel chased Abner, without turning to the right or to the left as he followed Abner.
+<a name="2:17">2:17</a> Now the battle was very severe that day; Abner and the men of Israel were overcome by David’s soldiers. <a name="2:18">2:18</a> The three sons of Zeruiah were there — Joab, Abishai, and Asahel. Now Asahel was as quick on his feet as one of the gazelles in the field. <a name="2:19">2:19</a> Asahel chased Abner, without turning to the right or to the left as he followed Abner.
 
 <a name="2:20">2:20</a> Then Abner turned and asked, “Is that you, Asahel?” He replied, “Yes it is!” <a name="2:21">2:21</a> Abner said to him, “Turn aside to your right or to your left. Capture one of the soldiers and take his equipment for yourself!” But Asahel was not willing to turn aside from following him. <a name="2:22">2:22</a> So Abner spoke again to Asahel, “Turn aside from following me! I do not want to strike you to the ground. How then could I show my face in the presence of Joab your brother?” <a name="2:23">2:23</a> But he refused to turn aside. So Abner struck him in the belly with the back end of his spear. The spear came out his back; he collapsed on the spot and died there right before him. Everyone who now comes to the place where Asahel fell dead pauses in respect.
 
@@ -66,7 +66,7 @@ David was told, “The people of Jabesh Gilead are the ones who buried Saul.” 
 
 <a name="2:26">2:26</a> Then Abner called out to Joab, “Must the sword devour forever? Don’t you realize that this will turn bitter in the end? When will you tell the people to turn aside from pursuing their brothers?” <a name="2:27">2:27</a> Joab replied, “As surely as God lives, if you had not spoken it would have been morning before the people would have abandoned pursuit of their brothers!” <a name="2:28">2:28</a> Then Joab blew the ram’s horn and all the people stopped in their tracks. They stopped chasing Israel and ceased fighting. <a name="2:29">2:29</a> Abner and his men went through the Arabah all that night. They crossed the Jordan River and went through the whole region of Bitron and came to Mahanaim.
 
-<a name="2:30">2:30</a> Now Joab returned from chasing Abner and gathered all the people. Nineteen of David’s soldiers were missing, in addition to Asahel. <a name="2:31">2:31</a> But David’s soldiers had slaughtered the Benjaminites and Abner’s men—in all, three hundred and sixty men had died! <a name="2:32">2:32</a> They took Asahel’s body and buried him in his father’s tomb at Bethlehem. Joab and his men then traveled all that night and reached Hebron by dawn.
+<a name="2:30">2:30</a> Now Joab returned from chasing Abner and gathered all the people. Nineteen of David’s soldiers were missing, in addition to Asahel. <a name="2:31">2:31</a> But David’s soldiers had slaughtered the Benjaminites and Abner’s men — in all, three hundred and sixty men had died! <a name="2:32">2:32</a> They took Asahel’s body and buried him in his father’s tomb at Bethlehem. Joab and his men then traveled all that night and reached Hebron by dawn.
 
 ## Chapter 3
 
@@ -113,19 +113,19 @@ All the people wept over him again. <a name="3:35">3:35</a> Then all the people 
 
 <a name="3:38">3:38</a> Then the king said to his servants, “Do you not realize that a great leader has fallen this day in Israel? <a name="3:39">3:39</a> Today I am weak, even though I am anointed as king. These men, the sons of Zeruiah, are too much for me to bear. May the Lord punish appropriately the one who has done this evil thing!”
 
-### Ish-bosheth is killed
-
 ## Chapter 4
+
+### Ish-bosheth is killed
 
 <a name="4:1">4:1</a> When Ish-bosheth the son of Saul heard that Abner had died in Hebron, he was very disheartened, and all Israel was afraid. <a name="4:2">4:2</a> Now Saul’s son had two men who were in charge of raiding units; one’s name was Baanah and the other’s name was Recab. They were sons of Rimmon the Beerothite, who was a Benjaminite. (Beeroth is regarded as belonging to Benjamin, <a name="4:3">4:3</a> for the Beerothites fled to Gittaim and have remained there as resident foreigners until the present time.)
 
 <a name="4:4">4:4</a> Now Saul’s son Jonathan had a son who was lame in his feet. He was five years old when the news about Saul and Jonathan arrived from Jezreel. His nurse lifted him and fled; but in her haste to get away, he fell and was injured. Mephibosheth was his name.
 
-<a name="4:5">4:5</a> Now the sons of Rimmon the Beerothite—Recab and Baanah—went at the hottest part of the day to the home of Ish-bosheth, as he was enjoying his midday rest. <a name="4:6">4:6</a> They entered the house under the pretense of getting wheat and mortally wounded him in the stomach. Then Recab and his brother Baanah escaped.
+<a name="4:5">4:5</a> Now the sons of Rimmon the Beerothite — Recab and Baanah — went at the hottest part of the day to the home of Ish-bosheth, as he was enjoying his midday rest. <a name="4:6">4:6</a> They entered the house under the pretense of getting wheat and mortally wounded him in the stomach. Then Recab and his brother Baanah escaped.
 
 <a name="4:7">4:7</a> They had entered the house while he was resting on his bed in his bedroom. They mortally wounded him and then cut off his head. Taking his head, they traveled on the way of the Arabah all that night. <a name="4:8">4:8</a> They brought the head of Ish-bosheth to David in Hebron, saying to the king, “Look! The head of Ish-bosheth the son of Saul, your enemy who sought your life! The Lord has granted vengeance to my lord the king this day against Saul and his descendants!”
 
-<a name="4:9">4:9</a> David replied to Recab and his brother Baanah, the sons of Rimmon the Beerothite, “As surely as the Lord lives, who has delivered my life from all adversity, <a name="4:10">4:10</a> when the one who told me that Saul was dead—even though he thought he was bringing good news—I seized him and killed him in Ziklag. That was the good news I gave to him! <a name="4:11">4:11</a> Surely when wicked men have killed an innocent man as he slept in his own house, should I not now require his blood from your hands and remove you from the earth?”
+<a name="4:9">4:9</a> David replied to Recab and his brother Baanah, the sons of Rimmon the Beerothite, “As surely as the Lord lives, who has delivered my life from all adversity, <a name="4:10">4:10</a> when the one who told me that Saul was dead — even though he thought he was bringing good news — I seized him and killed him in Ziklag. That was the good news I gave to him! <a name="4:11">4:11</a> Surely when wicked men have killed an innocent man as he slept in his own house, should I not now require his blood from your hands and remove you from the earth?”
 
 <a name="4:12">4:12</a> Then David issued orders to the soldiers and they put them to death. They then cut off their hands and their feet and hung them near the pool in Hebron. But they took the head of Ish-bosheth and buried it in the tomb of Abner in Hebron.
 
@@ -169,9 +169,9 @@ All the people wept over him again. <a name="3:35">3:35</a> Then all the people 
 
 <a name="6:21">6:21</a> David replied to Michal, “It was before the Lord. I was celebrating before the Lord, who chose me over your father and all his house and appointed me as leader over the Lord’s people Israel. <a name="6:22">6:22</a> I am willing to shame and humiliate myself even more than this! But with the slave girls whom you mentioned let me be distinguished!” <a name="6:23">6:23</a> Now Michal, Saul’s daughter, had no children to the day of her death.
 
-### The Lord Establishes a Covenant with David
-
 ## Chapter 7
+
+### The Lord Establishes a Covenant with David
 
 <a name="7:1">7:1</a> The king settled into his palace, for the Lord gave him relief from all his enemies on all sides. <a name="7:2">7:2</a> The king said to Nathan the prophet, “Look! I am living in a palace made from cedar, while the ark of God sits in the middle of a tent.” <a name="7:3">7:3</a> Nathan replied to the king, “You should go and do whatever you have in mind, for the Lord is with you.” <a name="7:4">7:4</a> That night the Lord told Nathan, <a name="7:5">7:5</a> “Go, tell my servant David: ‘This is what the Lord says: Do you really intend to build a house for me to live in? <a name="7:6">7:6</a> I have not lived in a house from the time I brought the Israelites up from Egypt to the present day. Instead, I was traveling with them and living in a tent. <a name="7:7">7:7</a> Wherever I moved among all the Israelites, I did not say to any of the leaders whom I appointed to care for my people Israel, “Why have you not built me a house made from cedar?”’
 
@@ -181,9 +181,9 @@ All the people wept over him again. <a name="3:35">3:35</a> Then all the people 
 
 <a name="7:18">7:18</a> King David went in, sat before the Lord, and said, “Who am I, O Lord God, and what is my family that you should have brought me to this point? <a name="7:19">7:19</a> And you didn’t stop there, O Lord God! You have also spoken about the future of your servant’s family. Is this your usual way of dealing with men, O Lord God? <a name="7:20">7:20</a> What more can David say to you? You have given your servant special recognition, O Lord God! <a name="7:21">7:21</a> For the sake of your promise and according to your purpose you have done this great thing in order to reveal it to your servant. <a name="7:22">7:22</a> Therefore you are great, O Lord God, for there is none like you. There is no god besides you. What we have heard is true. <a name="7:23">7:23</a> Who is like your people, Israel, a unique nation on the earth? Their God went to claim a nation for himself and to make a name for himself! You did great and awesome acts for your land before your people whom you delivered for yourself from the Egyptian empire and its gods. <a name="7:24">7:24</a> You made Israel your very own people for all time. You, O Lord, became their God. <a name="7:25">7:25</a> So now, O Lord God, make this promise you have made about your servant and his family a permanent reality. Do as you promised, <a name="7:26">7:26</a> so you may gain lasting fame, as people say, ‘The Lord of hosts is God over Israel!’ The dynasty of your servant David will be established before you, <a name="7:27">7:27</a> for you, O Lord of hosts, the God of Israel, have told your servant, ‘I will build you a dynasty.’ That is why your servant has had the courage to pray this prayer to you. <a name="7:28">7:28</a> Now, O Sovereign Lord, you are the true God! May your words prove to be true! You have made this good promise to your servant! <a name="7:29">7:29</a> Now be willing to bless your servant’s dynasty so that it may stand permanently before you, for you, O Sovereign Lord, have spoken. By your blessing may your servant’s dynasty be blessed on into the future!”
 
-### David Subjugates Nearby Nations
-
 ## Chapter 8
+
+### David Subjugates Nearby Nations
 
 <a name="8:1">8:1</a> Later David defeated the Philistines and subdued them. David took Metheg Ammah away from the Philistines. <a name="8:2">8:2</a> He defeated the Moabites. He made them lie on the ground and then used a rope to measure them off. He put two-thirds of them to death and spared the other third. The Moabites became David’s subjects and brought tribute. <a name="8:3">8:3</a> David defeated King Hadadezer son of Rehob of Zobah when he came to restore his authority over the Euphrates River. <a name="8:4">8:4</a> David seized from him seventeen hundred charioteers and twenty thousand infantrymen. David cut the hamstrings of all but a hundred of the chariot horses. <a name="8:5">8:5</a> The Arameans of Damascus came to help King Hadadezer of Zobah, but David killed twenty-two thousand of the Arameans. <a name="8:6">8:6</a> David placed garrisons in the territory of the Arameans of Damascus; the Arameans became David’s subjects and brought tribute. The Lord protected David wherever he campaigned. <a name="8:7">8:7</a> David took the golden shields that belonged to Hadadezer’s servants and brought them to Jerusalem. <a name="8:8">8:8</a> From Tebah and Berothai, Hadadezer’s cities, King David took a great deal of bronze.
 
@@ -195,9 +195,9 @@ All the people wept over him again. <a name="3:35">3:35</a> Then all the people 
 
 <a name="8:16">8:16</a> Joab son of Zeruiah was general of the army; Jehoshaphat son of Ahilud was secretary; <a name="8:17">8:17</a> Zadok son of Ahitub and Ahimelech son of Abiathar were priests; Seraiah was scribe; <a name="8:18">8:18</a> Benaiah son of Jehoida supervised the Kerithites and Pelethites; and David’s sons were priests.
 
-### David Finds Mephibosheth
-
 ## Chapter 9
+
+### David Finds Mephibosheth
 
 <a name="9:1">9:1</a> Then David asked, “Is anyone still left from the family of Saul, so that I might extend kindness to him for the sake of Jonathan?”
 
@@ -207,15 +207,15 @@ All the people wept over him again. <a name="3:35">3:35</a> Then all the people 
 
 <a name="9:7">9:7</a> David said to him, “Don’t be afraid, because I will surely extend kindness to you for the sake of Jonathan your father. You will be a regular guest at my table.” <a name="9:8">9:8</a> Then he bowed and said, “Of what importance is your servant, that you show regard for a dead dog like me?”
 
-<a name="9:9">9:9</a> Then the king summoned Ziba, Saul’s attendant, and said to him, “Everything that belonged to Saul and to all his house I hereby give to the grandson of your master. <a name="9:10">9:10</a> You will cultivate the land for him—you and your sons and your servants. You will bring its produce and it will be food for the grandson of your master to eat. Mephibosheth, the grandson of your master, will be a regular guest at my table.” (Now Ziba had fifteen sons and twenty servants.)
+<a name="9:9">9:9</a> Then the king summoned Ziba, Saul’s attendant, and said to him, “Everything that belonged to Saul and to all his house I hereby give to the grandson of your master. <a name="9:10">9:10</a> You will cultivate the land for him — you and your sons and your servants. You will bring its produce and it will be food for the grandson of your master to eat. Mephibosheth, the grandson of your master, will be a regular guest at my table.” (Now Ziba had fifteen sons and twenty servants.)
 
 <a name="9:11">9:11</a> Ziba said to the king, “Your servant will do everything that my lord the king has instructed his servant.” So Mephibosheth was a regular guest at David’s table as though he were one of the king’s sons.
 
 <a name="9:12">9:12</a> Now Mephibosheth had a young son whose name was Mica. The entire household of Ziba were Mephibosheth’s servants. <a name="9:13">9:13</a> Mephibosheth was living in Jerusalem, for he was a regular guest at the king’s table. But both his feet were crippled.
 
-### David and the Ammonites
-
 ## Chapter 10
+
+### David and the Ammonites
 
 <a name="10:1">10:1</a> Later the king of the Ammonites died and his son Hanun succeeded him. <a name="10:2">10:2</a> David said, “I will express my loyalty to Hanun son of Nahash just as his father was loyal to me.” So David sent his servants with a message expressing sympathy over his father’s death. When David’s servants entered the land of the Ammonites, <a name="10:3">10:3</a> the Ammonite officials said to their lord Hanun, “Do you really think David is trying to honor your father by sending these messengers to express his sympathy? No, David has sent his servants to you to get information about the city and spy on it so they can overthrow it!”
 
@@ -233,9 +233,9 @@ All the people wept over him again. <a name="3:35">3:35</a> Then all the people 
 
 <a name="10:17">10:17</a> When David was informed, he gathered all Israel, crossed the Jordan River, and came to Helam. The Arameans deployed their forces against David and fought with him. <a name="10:18">10:18</a> The Arameans fled before Israel. David killed seven hundred Aramean charioteers and forty thousand foot soldiers. He also struck down Shobach the general of the army, who died there. <a name="10:19">10:19</a> When all the kings who were subject to Hadadezer saw they were defeated by Israel, they made peace with Israel and became subjects of Israel. The Arameans were no longer willing to help the Ammonites.
 
-### David Commits Adultery with Bathsheba
-
 ## Chapter 11
+
+### David Commits Adultery with Bathsheba
 
 <a name="11:1">11:1</a> In the spring of the year, at the time when kings normally conduct wars, David sent out Joab with his soldiers and the entire Israelite army. They defeated the Ammonites and besieged Rabbah. But David stayed in Jerusalem. <a name="11:2">11:2</a> One evening David got up from his bed and walked around on the roof of his palace. From the roof he saw a woman bathing. Now this woman was very attractive. <a name="11:3">11:3</a> So David sent someone to inquire about the woman. The messenger said, “Isn’t this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?”
 
@@ -255,9 +255,9 @@ All the people wept over him again. <a name="3:35">3:35</a> Then all the people 
 
 <a name="11:26">11:26</a> When Uriah’s wife heard that her husband Uriah was dead, she mourned for him. <a name="11:27">11:27</a> When the time of mourning passed, David had her brought to his palace. She became his wife and she bore him a son. But what David had done upset the Lord.
 
-### Nathan the Prophet Confronts David
-
 ## Chapter 12
+
+### Nathan the Prophet Confronts David
 
 <a name="12:1">12:1</a> So the Lord sent Nathan to David. When he came to him, Nathan said, “There were two men in a certain city, one rich and the other poor. <a name="12:2">12:2</a> The rich man had a great many flocks and herds. <a name="12:3">12:3</a> But the poor man had nothing except for a little lamb he had acquired. He raised it, and it grew up alongside him and his children. It used to eat his food, drink from his cup, and sleep in his arms. It was just like a daughter to him.
 
@@ -283,11 +283,11 @@ All the people wept over him again. <a name="3:35">3:35</a> Then all the people 
 
 <a name="12:26">12:26</a> So Joab fought in Rabbah of the Ammonites and captured the royal city. <a name="12:27">12:27</a> Then Joab sent messengers to David, saying, “I have fought in Rabbah and have captured the water supply of the city. <a name="12:28">12:28</a> So now assemble the rest of the army and besiege the city and capture it. Otherwise I will capture the city and it will be named for me.”
 
-<a name="12:29">12:29</a> So David assembled all the army and went to Rabbah and fought against it and captured it. <a name="12:30">12:30</a> He took the crown of their king from his head—it was gold, weighed about seventy-five pounds, and held a precious stone—and it was placed on David’s head. He also took from the city a great deal of plunder. <a name="12:31">12:31</a> He removed the people who were in it and made them do hard labor with saws, iron picks, and iron axes, putting them to work at the brick kiln. This was his policy with all the Ammonite cities. Then David and all the army returned to Jerusalem.
-
-### The Rape of Tamar
+<a name="12:29">12:29</a> So David assembled all the army and went to Rabbah and fought against it and captured it. <a name="12:30">12:30</a> He took the crown of their king from his head — it was gold, weighed about seventy-five pounds, and held a precious stone — and it was placed on David’s head. He also took from the city a great deal of plunder. <a name="12:31">12:31</a> He removed the people who were in it and made them do hard labor with saws, iron picks, and iron axes, putting them to work at the brick kiln. This was his policy with all the Ammonite cities. Then David and all the army returned to Jerusalem.
 
 ## Chapter 13
+
+### The Rape of Tamar
 
 <a name="13:1">13:1</a> Now David’s son Absalom had a beautiful sister named Tamar. In the course of time David’s son Amnon fell in love with her. <a name="13:2">13:2</a> But Amnon became frustrated because he was so lovesick over his sister Tamar. For she was a virgin, and to Amnon it seemed out of the question to do anything to her.
 
@@ -327,9 +327,9 @@ All the people wept over him again. <a name="3:35">3:35</a> Then all the people 
 
 <a name="13:38">13:38</a> After Absalom fled and went to Geshur, he remained there for three years. <a name="13:39">13:39</a> The king longed to go to Absalom, for he had since been consoled over the death of Amnon.
 
-### David Permits Absalom to Return to Jerusalem
-
 ## Chapter 14
+
+### David Permits Absalom to Return to Jerusalem
 
 <a name="14:1">14:1</a> Now Joab son of Zeruiah realized that the king longed to see Absalom. <a name="14:2">14:2</a> So Joab sent to Tekoa and brought from there a wise woman. He told her, “Pretend to be in mourning and put on garments for mourning. Don’t anoint yourself with oil. Instead, act like a woman who has been mourning for the dead for some time. <a name="14:3">14:3</a> Go to the king and speak to him in the following fashion.” Then Joab told her what to say.
 
@@ -347,7 +347,7 @@ All the people wept over him again. <a name="3:35">3:35</a> Then all the people 
 
 <a name="14:23">14:23</a> So Joab got up and went to Geshur and brought Absalom back to Jerusalem. <a name="14:24">14:24</a> But the king said, “Let him go over to his own house. He may not see my face.” So Absalom went over to his own house; he did not see the king’s face.
 
-<a name="14:25">14:25</a> Now in all Israel everyone acknowledged that there was no man as handsome as Absalom. From the sole of his feet to the top of his head he was perfect in appearance. <a name="14:26">14:26</a> When he would shave his head—at the end of every year he used to shave his head, for it grew too long and he would shave it—he used to weigh the hair of his head at three pounds according to the king’s weight. <a name="14:27">14:27</a> Absalom had three sons and one daughter, whose name was Tamar. She was a very attractive woman.
+<a name="14:25">14:25</a> Now in all Israel everyone acknowledged that there was no man as handsome as Absalom. From the sole of his feet to the top of his head he was perfect in appearance. <a name="14:26">14:26</a> When he would shave his head — at the end of every year he used to shave his head, for it grew too long and he would shave it — he used to weigh the hair of his head at three pounds according to the king’s weight. <a name="14:27">14:27</a> Absalom had three sons and one daughter, whose name was Tamar. She was a very attractive woman.
 
 <a name="14:28">14:28</a> Absalom lived in Jerusalem for two years without seeing the king’s face. <a name="14:29">14:29</a> Then Absalom sent a message to Joab asking him to send him to the king, but Joab was not willing to come to him. So he sent a second message to him, but he still was not willing to come. <a name="14:30">14:30</a> So he said to his servants, “Look, Joab has a portion of field adjacent to mine and he has some barley there. Go and set it on fire.” So Absalom’s servants set Joab’s portion of the field on fire.
 
@@ -355,9 +355,9 @@ All the people wept over him again. <a name="3:35">3:35</a> Then all the people 
 
 <a name="14:33">14:33</a> So Joab went to the king and informed him. The king summoned Absalom, and he came to the king. Absalom bowed down before the king with his face toward the ground and the king kissed him.
 
-### Absalom Leads an Insurrection against David
-
 ## Chapter 15
+
+### Absalom Leads an Insurrection against David
 
 <a name="15:1">15:1</a> Some time later Absalom managed to acquire a chariot and horses, as well as fifty men to serve as his royal guard. <a name="15:2">15:2</a> Now Absalom used to get up early and stand beside the road that led to the city gate. Whenever anyone came by who had a complaint to bring to the king for arbitration, Absalom would call out to him, “What city are you from?” He would answer, “I am from one of the tribes of Israel.” <a name="15:3">15:3</a> Absalom would then say to him, “Look, your claims are legitimate and appropriate. But there is no representative of the king who will listen to you.” <a name="15:4">15:4</a> Absalom would then say, “If only they would make me a judge in the land! Then everyone who had a judicial complaint could come to me and I would make sure he receives a just settlement.”
 
@@ -371,7 +371,7 @@ All the people wept over him again. <a name="3:35">3:35</a> Then all the people 
 
 <a name="15:13">15:13</a> Then a messenger came to David and reported, “The men of Israel are loyal to Absalom!” <a name="15:14">15:14</a> So David said to all his servants who were with him in Jerusalem, “Come on! Let’s escape! Otherwise no one will be delivered from Absalom! Go immediately, or else he will quickly overtake us and bring disaster on us and kill the city’s residents with the sword.” <a name="15:15">15:15</a> The king’s servants replied to the king, “We will do whatever our lord the king decides.”
 
-<a name="15:16">15:16</a> So the king and all the members of his royal court set out on foot, though the king left behind ten concubines to attend to the palace. <a name="15:17">15:17</a> The king and all the people set out on foot, pausing at a spot some distance away. <a name="15:18">15:18</a> All his servants were leaving with him, along with all the Kerethites, all the Pelethites, and all the Gittites—some six hundred men who had come on foot from Gath. They were leaving with the king.
+<a name="15:16">15:16</a> So the king and all the members of his royal court set out on foot, though the king left behind ten concubines to attend to the palace. <a name="15:17">15:17</a> The king and all the people set out on foot, pausing at a spot some distance away. <a name="15:18">15:18</a> All his servants were leaving with him, along with all the Kerethites, all the Pelethites, and all the Gittites — some six hundred men who had come on foot from Gath. They were leaving with the king.
 
 <a name="15:19">15:19</a> Then the king said to Ittai the Gittite, “Why should you come with us? Go back and stay with the new king, for you are a foreigner and an exile from your own country. <a name="15:20">15:20</a> It seems like you arrived just yesterday. Today should I make you wander around by going with us? I go where I must go. But as for you, go back and take your men with you. May genuine loyal love protect you!”
 
@@ -389,9 +389,9 @@ All the people wept over him again. <a name="3:35">3:35</a> Then all the people 
 
 <a name="15:37">15:37</a> So David’s friend Hushai arrived in the city, just as Absalom was entering Jerusalem.
 
-### David Receives Gifts from Ziba
-
 ## Chapter 16
+
+### David Receives Gifts from Ziba
 
 <a name="16:1">16:1</a> When David had gone a short way beyond the summit, Ziba the servant of Mephibosheth was there to meet him. He had a couple of donkeys that were saddled, and on them were two hundred loaves of bread, a hundred raisin cakes, a hundred baskets of summer fruit, and a container of wine.
 
@@ -415,15 +415,15 @@ All the people wept over him again. <a name="3:35">3:35</a> Then all the people 
 
 <a name="16:23">16:23</a> In those days Ahithophel’s advice was considered as valuable as a prophetic revelation. Both David and Absalom highly regarded the advice of Ahithophel.
 
-### The Death of Ahithophel
-
 ## Chapter 17
+
+### The Death of Ahithophel
 
 <a name="17:1">17:1</a> Ahithophel said to Absalom, “Let me pick out twelve thousand men. Then I will go and pursue David this very night. <a name="17:2">17:2</a> When I catch up to him he will be exhausted and worn out. I will rout him, and the entire army that is with him will flee. I will kill only the king <a name="17:3">17:3</a> and will bring the entire army back to you. In exchange for the life of the man you are seeking, you will get back everyone. The entire army will return unharmed.”
 
 <a name="17:4">17:4</a> This seemed like a good idea to Absalom and to all the leaders of Israel. <a name="17:5">17:5</a> But Absalom said, “Call for Hushai the Arkite, and let’s hear what he has to say.” <a name="17:6">17:6</a> So Hushai came to Absalom. Absalom said to him, “Here is what Ahithophel has advised. Should we follow his advice? If not, what would you recommend?”
 
-<a name="17:7">17:7</a> Hushai replied to Absalom, “Ahithophel’s advice is not sound this time.” <a name="17:8">17:8</a> Hushai went on to say, “You know your father and his men—they are soldiers and are as dangerous as a bear out in the wild that has been robbed of her cubs. Your father is an experienced soldier; he will not stay overnight with the army. <a name="17:9">17:9</a> At this very moment he is hiding out in one of the caves or in some other similar place. If it should turn out that he attacks our troops first, whoever hears about it will say, ‘Absalom’s army has been slaughtered!’ <a name="17:10">17:10</a> If that happens even the bravest soldier—one who is lion-hearted—will virtually melt away. For all Israel knows that your father is a warrior and that those who are with him are brave. <a name="17:11">17:11</a> My advice therefore is this: Let all Israel from Dan to Beer Sheba—in number like the sand by the sea!—be gathered to you, and you lead them personally into battle. <a name="17:12">17:12</a> We will come against him wherever he happens to be found. We will descend on him like the dew falls on the ground. Neither he nor any of the men who are with him will be spared alive—not one of them! <a name="17:13">17:13</a> If he regroups in a city, all Israel will take up ropes to that city and drag it down to the valley, so that not a single pebble will be left there!”
+<a name="17:7">17:7</a> Hushai replied to Absalom, “Ahithophel’s advice is not sound this time.” <a name="17:8">17:8</a> Hushai went on to say, “You know your father and his men — they are soldiers and are as dangerous as a bear out in the wild that has been robbed of her cubs. Your father is an experienced soldier; he will not stay overnight with the army. <a name="17:9">17:9</a> At this very moment he is hiding out in one of the caves or in some other similar place. If it should turn out that he attacks our troops first, whoever hears about it will say, ‘Absalom’s army has been slaughtered!’ <a name="17:10">17:10</a> If that happens even the bravest soldier — one who is lion-hearted — will virtually melt away. For all Israel knows that your father is a warrior and that those who are with him are brave. <a name="17:11">17:11</a> My advice therefore is this: Let all Israel from Dan to Beer Sheba — in number like the sand by the sea — be gathered to you, and you lead them personally into battle. <a name="17:12">17:12</a> We will come against him wherever he happens to be found. We will descend on him like the dew falls on the ground. Neither he nor any of the men who are with him will be spared alive — not one of them! <a name="17:13">17:13</a> If he regroups in a city, all Israel will take up ropes to that city and drag it down to the valley, so that not a single pebble will be left there!”
 
 <a name="17:14">17:14</a> Then Absalom and all the men of Israel said, “The advice of Hushai the Arkite sounds better than the advice of Ahithophel.” Now the Lord had decided to frustrate the sound advice of Ahithophel, so that the Lord could bring disaster on Absalom.
 
@@ -441,23 +441,23 @@ All the people wept over him again. <a name="3:35">3:35</a> Then all the people 
 
 <a name="17:27">17:27</a> When David came to Mahanaim, Shobi the son of Nahash from Rabbah of the Ammonites, Makir the son of Ammiel from Lo Debar, and Barzillai the Gileadite from Rogelim <a name="17:28">17:28</a> brought bedding, basins, and pottery utensils. They also brought food for David and all who were with him, including wheat, barley, flour, roasted grain, beans, lentils, <a name="17:29">17:29</a> honey, curds, flocks, and cheese. For they said, “The people are no doubt hungry, tired, and thirsty there in the desert.”
 
-### The Death of Absalom
-
 ## Chapter 18
 
-<a name="18:1">18:1</a> David assembled the army that was with him. He appointed leaders of thousands and leaders of hundreds. <a name="18:2">18:2</a> David then sent out the army—a third under the leadership of Joab, a third under the leadership of Joab’s brother Abishai son of Zeruiah, and a third under the leadership of Ittai the Gittite. The king said to the army, “I too will indeed march out with you.”
+### The Death of Absalom
+
+<a name="18:1">18:1</a> David assembled the army that was with him. He appointed leaders of thousands and leaders of hundreds. <a name="18:2">18:2</a> David then sent out the army — a third under the leadership of Joab, a third under the leadership of Joab’s brother Abishai son of Zeruiah, and a third under the leadership of Ittai the Gittite. The king said to the army, “I too will indeed march out with you.”
 
 <a name="18:3">18:3</a> But the army said, “You should not do this. For if we should have to make a rapid retreat, they won’t be too concerned about us. Even if half of us should die, they won’t be too concerned about us. But you are like ten thousand of us! So it is better if you remain in the city for support.” <a name="18:4">18:4</a> Then the king said to them, “I will do whatever seems best to you.”
 
 So the king stayed beside the gate, while all the army marched out by hundreds and by thousands. <a name="18:5">18:5</a> The king gave this order to Joab, Abishai, and Ittai: “For my sake deal gently with the young man Absalom.” Now the entire army was listening when the king gave all the leaders this order concerning Absalom.
 
-<a name="18:6">18:6</a> Then the army marched out to the field to fight against Israel. The battle took place in the forest of Ephraim. <a name="18:7">18:7</a> The army of Israel was defeated there by David’s men. The slaughter there was great that day—twenty thousand soldiers were killed. <a name="18:8">18:8</a> The battle there was spread out over that whole area, and the forest consumed more soldiers than the sword devoured that day.
+<a name="18:6">18:6</a> Then the army marched out to the field to fight against Israel. The battle took place in the forest of Ephraim. <a name="18:7">18:7</a> The army of Israel was defeated there by David’s men. The slaughter there was great that day — twenty thousand soldiers were killed. <a name="18:8">18:8</a> The battle there was spread out over that whole area, and the forest consumed more soldiers than the sword devoured that day.
 
 <a name="18:9">18:9</a> Then Absalom happened to come across David’s men. Now as Absalom was riding on his mule, it went under the branches of a large oak tree. His head was caught in the oak and he was suspended in midair, while the mule he had been riding kept going.
 
 <a name="18:10">18:10</a> When one of the men saw this, he reported it to Joab saying, “I saw Absalom hanging in an oak tree. <a name="18:11">18:11</a> Joab replied to the man who was relating this to him, “What! You saw this? Why didn’t you strike him down right on the spot? I would have given you ten pieces of silver and a commemorative belt!”
 
-<a name="18:12">18:12</a> The man replied to Joab, “Even if I were receiving a thousand pieces of silver, I would not strike the king’s son! In our very presence the king gave this order to you and Abishai and Ittai, ‘Protect the young man Absalom for my sake.’ <a name="18:13">18:13</a> If I had acted at risk of my own life—and nothing is hidden from the king!—you would have abandoned me.”
+<a name="18:12">18:12</a> The man replied to Joab, “Even if I were receiving a thousand pieces of silver, I would not strike the king’s son! In our very presence the king gave this order to you and Abishai and Ittai, ‘Protect the young man Absalom for my sake.’ <a name="18:13">18:13</a> If I had acted at risk of my own life — and nothing is hidden from the king! — you would have abandoned me.”
 
 <a name="18:14">18:14</a> Joab replied, “I will not wait around like this for you!” He took three spears in his hand and thrust them into Absalom’s heart while he was still alive in the oak tree. <a name="18:15">18:15</a> Then ten soldiers who were armor bearers for Joab struck Absalom and put him to death.
 
@@ -495,7 +495,7 @@ So the king stayed beside the gate, while all the army marched out by hundreds a
 
 But the men of Israel had all gone home. <a name="19:9">19:9</a> All the people throughout all the tribes of Israel were arguing among themselves saying, “The king delivered us from the hand of our enemies. He rescued us from the hand of the Philistines, but now he has fled from the land because of Absalom. <a name="19:10">19:10</a> But Absalom whom we anointed as our king has died in battle. So now why do you hesitate to bring the king back?”
 
-<a name="19:11">19:11</a> Then King David sent a message to Zadok and Abiathar the priests saying, “Tell the elders of Israel, ‘Why should you delay any further in bringing the king back to his palace, when everything Israel is saying has come to the king’s attention. <a name="19:12">19:12</a> You are my brothers—my very flesh and blood! Why should you delay any further in bringing the king back?’ <a name="19:13">19:13</a> Say to Amasa, ‘Are you not my flesh and blood? God will punish me severely, if from this time on you are not the commander of my army in place of Joab.’”
+<a name="19:11">19:11</a> Then King David sent a message to Zadok and Abiathar the priests saying, “Tell the elders of Israel, ‘Why should you delay any further in bringing the king back to his palace, when everything Israel is saying has come to the king’s attention. <a name="19:12">19:12</a> You are my brothers — my very flesh and blood! Why should you delay any further in bringing the king back?’ <a name="19:13">19:13</a> Say to Amasa, ‘Are you not my flesh and blood? God will punish me severely, if from this time on you are not the commander of my army in place of Joab.’”
 
 <a name="19:14">19:14</a> He won over the hearts of all the men of Judah as though they were one man. Then they sent word to the king saying, “Return, you and all your servants as well.” <a name="19:15">19:15</a> So the king returned and came to the Jordan River.
 
@@ -511,7 +511,7 @@ Now after he had crossed the Jordan, Shimei son of Gera fell before the king. <a
 
 <a name="19:29">19:29</a> Then the king replied to him, “Why should you continue speaking like this? You and Ziba will inherit the field together.” <a name="19:30">19:30</a> Mephibosheth said to the king, “Let him have the whole thing! My lord the king has returned safely to his house!”
 
-<a name="19:31">19:31</a> Now when Barzillai the Gileadite had come down from Rogelim, he crossed the Jordan with the king so he could send him on his way from there. <a name="19:32">19:32</a> But Barzillai was very old—eighty years old, in fact—and he had taken care of the king when he stayed in Mahanaim, for he was a very rich man. <a name="19:33">19:33</a> So the king said to Barzillai, “Cross over with me, and I will take care of you while you are with me in Jerusalem.”
+<a name="19:31">19:31</a> Now when Barzillai the Gileadite had come down from Rogelim, he crossed the Jordan with the king so he could send him on his way from there. <a name="19:32">19:32</a> But Barzillai was very old — eighty years old, in fact — and he had taken care of the king when he stayed in Mahanaim, for he was a very rich man. <a name="19:33">19:33</a> So the king said to Barzillai, “Cross over with me, and I will take care of you while you are with me in Jerusalem.”
 
 <a name="19:34">19:34</a> Barzillai replied to the king, “How many days do I have left to my life, that I should go up with the king to Jerusalem? <a name="19:35">19:35</a> I am presently eighty years old. Am I able to discern good and bad? Can I taste what I eat and drink? Am I still able to hear the voices of male and female singers? Why should I continue to be a burden to my lord the king? <a name="19:36">19:36</a> I will cross the Jordan with the king and go a short distance. Why should the king reward me in this way? <a name="19:37">19:37</a> Let me return so that I may die in my own city near the grave of my father and my mother. But look, here is your servant Kimham. Let him cross over with my lord the king. Do for him whatever seems appropriate to you.”
 
@@ -519,13 +519,13 @@ Now after he had crossed the Jordan, Shimei son of Gera fell before the king. <a
 
 <a name="19:39">19:39</a> So all the people crossed the Jordan, as did the king. After the king had kissed him and blessed him, Barzillai returned to his home. <a name="19:40">19:40</a> When the king crossed over to Gilgal, Kimham crossed over with him. Now all the soldiers of Judah along with half of the soldiers of Israel had helped the king cross over.
 
-<a name="19:41">19:41</a> Then all the men of Israel began coming to the king. They asked the king, “Why did our brothers, the men of Judah, sneak the king away and help the king and his household cross the Jordan—and not only him but all of David’s men as well?”
+<a name="19:41">19:41</a> Then all the men of Israel began coming to the king. They asked the king, “Why did our brothers, the men of Judah, sneak the king away and help the king and his household cross the Jordan — and not only him but all of David’s men as well?”
 
 <a name="19:42">19:42</a> All the men of Judah replied to the men of Israel, “Because the king is our close relative. Why are you so upset about this? Have we eaten at the king’s expense? Or have we misappropriated anything for our own use?” <a name="19:43">19:43</a> The men of Israel replied to the men of Judah, “We have ten shares in the king, and we have a greater claim on David than you do. Why do you want to curse us? Weren’t we the first to suggest bringing back our king?” But the comments of the men of Judah were more severe than those of the men of Israel.
 
-### Sheba’s Rebellion
-
 ## Chapter 20
+
+### Sheba’s Rebellion
 
 <a name="20:1">20:1</a> Now a wicked man named Sheba son of Bicri, a Benjaminite, happened to be there. He blew the horn and said,
 
@@ -557,17 +557,17 @@ Now after he had crossed the Jordan, Shimei son of Gera fell before the king. <a
 
 <a name="20:23">20:23</a> Now Joab was the general of all the army of Israel. Benaiah the son of Jehoida was over the Kerethites and the Perethites. <a name="20:24">20:24</a> Adoniram was supervisor of the work crews. Jehoshaphat the son of Ahilud was the secretary. <a name="20:25">20:25</a> Sheva was the scribe, and Zadok and Abiathar were the priests. <a name="20:26">20:26</a> Ira the Jairite was David’s private priest.
 
-### The Gibeonites Demand Revenge
-
 ## Chapter 21
+
+### The Gibeonites Demand Revenge
 
 <a name="21:1">21:1</a> During David’s reign there was a famine for three consecutive years. So David inquired of the Lord. The Lord said, “It is because of Saul and his bloodstained family, because he murdered the Gibeonites.”
 
 <a name="21:2">21:2</a> So the king summoned the Gibeonites and spoke with them. (Now the Gibeonites were not descendants of Israel; they were a remnant of the Amorites. The Israelites had made a promise to them, but Saul tried to kill them because of his zeal for the people of Israel and Judah.) <a name="21:3">21:3</a> David said to the Gibeonites, “What can I do for you, and how can I make amends so that you will bless the Lord’s inheritance?”
 
-<a name="21:4">21:4</a> The Gibeonites said to him, “We have no claim to silver or gold from Saul or from his family, nor would we be justified in putting to death anyone in Israel.” David asked, “What then are you asking me to do for you?” <a name="21:5">21:5</a> They replied to the king, “As for this man who exterminated us and who schemed against us so that we were destroyed and left without status throughout all the borders of Israel— <a name="21:6">21:6</a> let seven of his male descendants be turned over to us, and we will execute them before the Lord in Gibeah of Saul, who was the Lord’s chosen one.” The king replied, “I will turn them over.”
+<a name="21:4">21:4</a> The Gibeonites said to him, “We have no claim to silver or gold from Saul or from his family, nor would we be justified in putting to death anyone in Israel.” David asked, “What then are you asking me to do for you?” <a name="21:5">21:5</a> They replied to the king, “As for this man who exterminated us and who schemed against us so that we were destroyed and left without status throughout all the borders of Israel — <a name="21:6">21:6</a> let seven of his male descendants be turned over to us, and we will execute them before the Lord in Gibeah of Saul, who was the Lord’s chosen one.” The king replied, “I will turn them over.”
 
-<a name="21:7">21:7</a> The king had mercy on Mephibosheth son of Jonathan, the son of Saul, in light of the Lord’s oath that had been taken between David and Jonathan son of Saul. <a name="21:8">21:8</a> So the king took Armoni and Mephibosheth, the two sons of Aiah’s daughter Rizpah whom she had born to Saul, and the five sons of Saul’s daughter Michal whom she had born to Adriel the son of Barzillai the Meholathite. <a name="21:9">21:9</a> He turned them over to the Gibeonites, and they executed them on a hill before the Lord. The seven of them died together; they were put to death during harvest time—during the first days of the beginning of the barley harvest.
+<a name="21:7">21:7</a> The king had mercy on Mephibosheth son of Jonathan, the son of Saul, in light of the Lord’s oath that had been taken between David and Jonathan son of Saul. <a name="21:8">21:8</a> So the king took Armoni and Mephibosheth, the two sons of Aiah’s daughter Rizpah whom she had born to Saul, and the five sons of Saul’s daughter Michal whom she had born to Adriel the son of Barzillai the Meholathite. <a name="21:9">21:9</a> He turned them over to the Gibeonites, and they executed them on a hill before the Lord. The seven of them died together; they were put to death during harvest time — during the first days of the beginning of the barley harvest.
 
 <a name="21:10">21:10</a> Rizpah the daughter of Aiah took sackcloth and spread it out for herself on a rock. From the beginning of the harvest until the rain fell on them, she did not allow the birds of the air to feed on them by day, nor the animals of the field by night. <a name="21:11">21:11</a> When David was told what Rizpah daughter of Aiah, Saul’s concubine, had done, <a name="21:12">21:12</a> he went and took the bones of Saul and of his son Jonathan from the leaders of Jabesh Gilead. (They had taken them from the plaza at Beth Shan. It was there that Philistines publicly exposed their corpses after they had killed Saul at Gilboa.) <a name="21:13">21:13</a> David brought the bones of Saul and of Jonathan his son from there; they also gathered up the bones of those who had been executed.
 
@@ -579,9 +579,9 @@ Now after he had crossed the Jordan, Shimei son of Gera fell before the king. <a
 
 <a name="21:18">21:18</a> Later there was another battle with the Philistines, this time in Gob. On that occasion Sibbekai the Hushathite killed Saph, who was one of the descendants of Rapha. <a name="21:19">21:19</a> Yet another battle occurred with the Philistines in Gob. On that occasion Elhanan the son of Jair the Bethlehemite killed the brother of Goliath the Gittite, the shaft of whose spear was like a weaver’s beam. <a name="21:20">21:20</a> Yet another battle occurred in Gath. On that occasion there was a large man who had six fingers on each hand and six toes on each foot, twenty-four in all! He too was a descendant of Rapha. <a name="21:21">21:21</a> When he taunted Israel, Jonathan, the son of David’s brother Shimeah, killed him. <a name="21:22">21:22</a> These four were the descendants of Rapha who lived in Gath; they were killed by David and his soldiers.
 
-### David Sings to the Lord
-
 ## Chapter 22
+
+### David Sings to the Lord
 
 <a name="22:1">22:1</a> David sang to the Lord the words of this song when the Lord rescued him from the power of all his enemies, including Saul. <a name="22:2">22:2</a> He said:
 
@@ -648,7 +648,7 @@ Now after he had crossed the Jordan, Shimei son of Gera fell before the king. <a
 > but you watch the proud and bring them down.
 > <a name="22:29">22:29</a> Indeed, you are my lamp, Lord.
 > The Lord illumines the darkness around me.
-> <a name="22:30">22:30</a> Indeed,with your help I can charge against an army;
+> <a name="22:30">22:30</a> Indeed, with your help I can charge against an army;
 > by my God’s power I can jump over a wall.
 > <a name="22:31">22:31</a> The one true God acts in a faithful manner;
 > the Lord’s promise is reliable;
@@ -693,15 +693,15 @@ Now after he had crossed the Jordan, Shimei son of Gera fell before the king. <a
 > <a name="22:49">22:49</a> He delivers me from my enemies;
 > you snatch me away from those who attack me;
 > you rescue me from violent men.
-> <a name="22:50">22:50</a> So I will give you thanks, O Lord, before the > nations!
+> <a name="22:50">22:50</a> So I will give you thanks, O Lord, before the nations!
 > I will sing praises to you.
 > <a name="22:51">22:51</a> He gives his chosen king magnificent victories;
 > he is faithful to his chosen ruler,
 > to David and to his descendants forever.”
 
-### David’s Final Words
-
 ## Chapter 23
+
+### David’s Final Words
 
 <a name="23:1">23:1</a> These are the final words of David:
 
@@ -724,7 +724,7 @@ Now after he had crossed the Jordan, Shimei son of Gera fell before the king. <a
 > arranged in all its particulars and secured.
 > He always delivers me,
 > and brings all I desire to fruition.
-> <a name="23:6">23:6</a> But evil people are like thorns—
+> <a name="23:6">23:6</a> But evil people are like thorns — 
 > all of them are tossed away,
 > for they cannot be held in the hand.
 > <a name="23:7">23:7</a> The one who touches them
@@ -748,11 +748,11 @@ Josheb-Basshebeth, a Tahkemonite, was head of the officers. He killed eight hund
 
 <a name="23:24">23:24</a> Included with the thirty were the following: Asahel the brother of Joab, Elhanan son of Dodo from Bethlehem, <a name="23:25">23:25</a> Shammah the Harodite, Elika the Harodite, <a name="23:26">23:26</a> Helez the Paltite, Ira son of Ikkesh from Tekoa, <a name="23:27">23:27</a> Abiezer the Anathothite, Mebunnai the Hushathite, <a name="23:28">23:28</a> Zalmon the Ahohite, Maharai the Netophathite, <a name="23:29">23:29</a> Heled son of Baanah the Netophathite, Ittai son of Ribai from Gibeah in Benjamin, <a name="23:30">23:30</a> Benaiah the Pirathonite, Hiddai from the wadis of Gaash, <a name="23:31">23:31</a> Abi-Albon the Arbathite, Azmaveth the Barhumite, <a name="23:32">23:32</a> Eliahba the Shaalbonite, the sons of Jashen, Jonathan <a name="23:33">23:33</a> son of Shammah the Hararite, Ahiam son of Sharar the Hararite, <a name="23:34">23:34</a> Eliphelet son of Ahasbai the Maacathite, Eliam son of Ahithophel the Gilonite, <a name="23:35">23:35</a> Hezrai the Carmelite, Paarai the Arbite, <a name="23:36">23:36</a> Igal son of Nathan from Zobah, Bani the Gadite, <a name="23:37">23:37</a> Zelek the Ammonite, Naharai the Beerothite (the armor-bearer of Joab son of Zeruiah), <a name="23:38">23:38</a> Ira the Ithrite, Gareb the Ithrite <a name="23:39">23:39</a> and Uriah the Hittite. Altogether there were thirty-seven.
 
-### David Displeases the Lord by Taking a Census
-
 ## Chapter 24
 
-<a name="24:1">24:1</a> The Lord’s anger again raged against Israel, and he inad David against them, saying, “Go count Israel and Judah.” <a name="24:2">24:2</a> The king told Joab, the general of his army, “Go through all the tribes of Israel from Dan to Beer Sheba and muster the army, so I may know the size of the army.”
+### David Displeases the Lord by Taking a Census
+
+<a name="24:1">24:1</a> The Lord’s anger again raged against Israel, and he incited David against them, saying, “Go count Israel and Judah.” <a name="24:2">24:2</a> The king told Joab, the general of his army, “Go through all the tribes of Israel from Dan to Beer Sheba and muster the army, so I may know the size of the army.”
 
 <a name="24:3">24:3</a> Joab replied to the king, “May the Lord your God make the army a hundred times larger right before the eyes of my lord the king! But why does my master the king want to do this?”
 
@@ -770,7 +770,7 @@ Josheb-Basshebeth, a Tahkemonite, was head of the officers. He killed eight hund
 
 <a name="24:15">24:15</a> So the Lord sent a plague through Israel from the morning until the completion of the appointed time. Seventy thousand men died from Dan to Beer Sheba. <a name="24:16">24:16</a> When the angel extended his hand to destroy Jerusalem, the Lord relented from his judgment. He told the angel who was killing the people, “That’s enough! Stop now!” Now the Lord’s angel was near the threshing floor of Araunah the Jebusite.
 
-<a name="24:17">24:17</a> When he saw the angel who was destroying the people, David said to the Lord, “Look, it is I who have sinned and done this evil thing. As for these sheep—what have they done? Attack me and my family.”
+<a name="24:17">24:17</a> When he saw the angel who was destroying the people, David said to the Lord, “Look, it is I who have sinned and done this evil thing. As for these sheep — what have they done? Attack me and my family.”
 
 ### David Acquires a Threshing Floor and Constructs an Altar There
 
