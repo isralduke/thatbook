@@ -38,7 +38,7 @@ Sheba and Dedan.
 
 <a name="1:11">1:11</a> Mizraim was the father of the Ludites, Anamites, Lehabites, Naphtuhites, <a name="1:12">1:12</a> Pathrusites, Kasluhites (from whom the Philistines descended), and the Kaphtorites.
 
-<a name="1:13">1:13</a> Canaan was the father of Sidon—his firstborn—and Heth, <a name="1:14">1:14</a> as well as the Jebusites, Amorites, Girgashites, <a name="1:15">1:15</a> Hivites, Arkites, Sinites, <a name="1:16">1:16</a> Arvadites, Zemarites, and Hamathites.
+<a name="1:13">1:13</a> Canaan was the father of Sidon — his firstborn — and Heth, <a name="1:14">1:14</a> as well as the Jebusites, Amorites, Girgashites, <a name="1:15">1:15</a> Hivites, Arkites, Sinites, <a name="1:16">1:16</a> Arvadites, Zemarites, and Hamathites.
 
 ### Shem’s Descendants
 
@@ -190,7 +190,7 @@ Hezron and Hamul.
 
 <a name="2:6">2:6</a> The sons of Zerah:
 
-Zimri, Ethan, Heman, Kalkol, Dara—five in all.
+Zimri, Ethan, Heman, Kalkol, Dara — five in all.
 
 <a name="2:7">2:7</a> The son of Karmi:
 
@@ -288,7 +288,7 @@ The sons of Hur, the firstborn of Ephrath:
 
 Shobal, the father of Kiriath Jearim, <a name="2:51">2:51</a> Salma, the father of Bethlehem, Hareph, the father of Beth-Gader.
 
-<a name="2:52">2:52</a> The sons of Shobal, the father of Kiriath Jearim, were Haroeh, half of the Manahathites, <a name="2:53">2:53</a> the clans of Kiriath Jearim—the Ithrites, Puthites, Shumathites, and Mishraites. (The Zorathites and Eshtaolites descended from these groups.)
+<a name="2:52">2:52</a> The sons of Shobal, the father of Kiriath Jearim, were Haroeh, half of the Manahathites, <a name="2:53">2:53</a> the clans of Kiriath Jearim — the Ithrites, Puthites, Shumathites, and Mishraites. (The Zorathites and Eshtaolites descended from these groups.)
 
 <a name="2:54">2:54</a> The sons of Salma:
 
@@ -316,7 +316,7 @@ the sixth was Ithream, whose mother was Eglah.
 
 He ruled thirty-three years in Jerusalem. <a name="3:5">3:5</a> These were the sons born to him in Jerusalem:
 
-Shimea, Shobab, Nathan, and Solomon—the mother of these four was Bathsheba the daughter of Ammiel.
+Shimea, Shobab, Nathan, and Solomon — the mother of these four was Bathsheba the daughter of Ammiel.
 
 <a name="3:6">3:6</a> The other nine were Ibhar, Elishua, Elpelet, <a name="3:7">3:7</a> Nogah, Nepheg, Japhia, <a name="3:8">3:8</a> Elishama, Eliada, and Eliphelet.
 
@@ -382,15 +382,15 @@ Pelatiah, Jeshaiah, the sons of Rephaiah, of Arnan, of Obadiah, and of Shecaniah
 
 <a name="3:22">3:22</a> The descendants of Shecaniah:
 
-Shemaiah and his sons: Hattush, Igal, Bariah, Neariah, and Shaphat—six in all.
+Shemaiah and his sons: Hattush, Igal, Bariah, Neariah, and Shaphat — six in all.
 
 <a name="3:23">3:23</a> The sons of Neariah:
 
-Elioenai, Hizkiah, and Azrikam—three in all.
+Elioenai, Hizkiah, and Azrikam — three in all.
 
 <a name="3:24">3:24</a> The sons of Elioenai:
 
-Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani—seven in all.
+Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani — seven in all.
 
 ## Chapter 4
 
@@ -468,7 +468,7 @@ Nemuel, Jamin, Jarib, Zerah, Shaul, <a name="4:25">4:25</a> his son Shallum, his
 
 His son Hammuel, his son Zakkur, and his son Shimei.
 
-<a name="4:27">4:27</a> Shimei had sixteen sons and six daughters. But his brothers did not have many sons, so their whole clan was not as numerous as the sons of Judah. <a name="4:28">4:28</a> They lived in Beer Sheba, Moladah, Hazar Shual, <a name="4:29">4:29</a> Bilhah, Ezem, Tolad, <a name="4:30">4:30</a> Bethuel, Hormah, Ziklag, <a name="4:31">4:31</a> Beth Markaboth, Hazar Susim, Beth Biri, and Shaaraim. These were their towns until the reign of David. <a name="4:32">4:32</a> Their settlements also included Etam, Ain, Rimmon, Tochen, and Ashan—five towns. <a name="4:33">4:33</a> They also lived in all the settlements that surrounded these towns as far as Baal. These were their settlements; they kept genealogical records.
+<a name="4:27">4:27</a> Shimei had sixteen sons and six daughters. But his brothers did not have many sons, so their whole clan was not as numerous as the sons of Judah. <a name="4:28">4:28</a> They lived in Beer Sheba, Moladah, Hazar Shual, <a name="4:29">4:29</a> Bilhah, Ezem, Tolad, <a name="4:30">4:30</a> Bethuel, Hormah, Ziklag, <a name="4:31">4:31</a> Beth Markaboth, Hazar Susim, Beth Biri, and Shaaraim. These were their towns until the reign of David. <a name="4:32">4:32</a> Their settlements also included Etam, Ain, Rimmon, Tochen, and Ashan — five towns. <a name="4:33">4:33</a> They also lived in all the settlements that surrounded these towns as far as Baal. These were their settlements; they kept genealogical records.
 
 <a name="4:34">4:34</a> Their clan leaders were:
 
@@ -480,7 +480,7 @@ Their extended families increased greatly in numbers. <a name="4:39">4:39</a> Th
 
 ### Reuben’s Descendants
 
-<a name="5:1">5:1</a> The sons of Reuben, Israel’s firstborn—
+<a name="5:1">5:1</a> The sons of Reuben, Israel’s firstborn — 
 
 (Now he was the firstborn, but when he defiled his father’s bed, his rights as firstborn were given to the sons of Joseph, Israel’s son. So Reuben is not listed as firstborn in the genealogical records. <a name="5:2">5:2</a> Though Judah was the strongest among his brothers and a leader descended from him, the right of the firstborn belonged to Joseph.)
 
@@ -502,7 +502,7 @@ They lived in Aroer as far as Nebo and Baal Meon. <a name="5:9">5:9</a> In the e
 
 <a name="5:11">5:11</a> The descendants of Gad lived near them in the land of Bashan, as far as Salecah.
 
-<a name="5:12">5:12</a> They included Joel the leader, Shapham the second in command, Janai, and Shaphat in Bashan. <a name="5:13">5:13</a> Their relatives, listed according to their families, included Michael, Meshullam, Sheba, Jorai, Jakan, Zia, and Eber—seven in all.
+<a name="5:12">5:12</a> They included Joel the leader, Shapham the second in command, Janai, and Shaphat in Bashan. <a name="5:13">5:13</a> Their relatives, listed according to their families, included Michael, Meshullam, Sheba, Jorai, Jakan, Zia, and Eber — seven in all.
 
 <a name="5:14">5:14</a> These were the sons of Abihail son of Huri, son of Jaroah, son of Gilead, son of Michael, son of Jeshishai, son of Jahdo, son of Buz. <a name="5:15">5:15</a> Ahi son of Abdiel, son of Guni, was the leader of the family. <a name="5:16">5:16</a> They lived in Gilead, in Bashan and its surrounding settlements, and in the pasturelands of Sharon to their very borders. <a name="5:17">5:17</a> All of them were listed in the genealogical records in the time of King Jotham of Judah and in the time of King Jeroboam of Israel.
 
@@ -638,7 +638,7 @@ Within the territory of the tribe of Zebulun: Rimmono and its pasturelands, and 
 
 <a name="7:1">7:1</a> The sons of Issachar:
 
-Tola, Puah, Jashub, and Shimron—four in all.
+Tola, Puah, Jashub, and Shimron — four in all.
 
 <a name="7:2">7:2</a> The sons of Tola:
 
@@ -658,7 +658,7 @@ Michael, Obadiah, Joel, and Isshiah. All five were leaders.
 
 <a name="7:6">7:6</a> The sons of Benjamin:
 
-Bela, Beker, and Jediael—three in all.
+Bela, Beker, and Jediael — three in all.
 
 <a name="7:7">7:7</a> The sons of Bela:
 
@@ -682,7 +682,7 @@ Naphtali’s Descendants
 
 <a name="7:13">7:13</a> The sons of Naphtali:
 
-Jahziel, Guni, Jezer, and Shallum—sons of Bilhah.
+Jahziel, Guni, Jezer, and Shallum — sons of Bilhah.
 
 ### Manasseh’s Descendants
 
@@ -752,9 +752,9 @@ Arah, Hanniel, and Rizia.
 
 <a name="7:40">7:40</a> All these were the descendants of Asher. They were the leaders of their families, the most capable men, who were warriors and served as head chiefs. There were 26,000 warriors listed in their genealogical records as capable of doing battle.
 
-### Benjamin’s Descendants (Continued)
-
 ## Chapter 8
+
+### Benjamin’s Descendants (Continued)
 
 <a name="8:1">8:1</a> Benjamin was the father of Bela, his firstborn; Ashbel was born second, Ahrah third, <a name="8:2">8:2</a> Nohah fourth, and Rapha fifth.
 
@@ -842,7 +842,7 @@ Shallum, Akkub, Talmon, Ahiman, and their brothers. Shallum was the leader; <a n
 
 <a name="9:19">9:19</a> Shallum son of Kore, son of Ebiasaph, son of Korah, and his relatives from his family (the Korahites) were assigned to guard the entrance to the sanctuary. Their ancestors had guarded the entrance to the Lord’s dwelling place. <a name="9:20">9:20</a> Phinehas son of Eleazar had been their leader in earlier times, and the Lord was with him. <a name="9:21">9:21</a> Zechariah son of Meshelemiah was the guard at the entrance to the meeting tent.
 
-<a name="9:22">9:22</a> All those selected to be gatekeepers at the entrances numbered 212. Their names were recorded in the genealogical records of their settlements. David and Samuel the prophet had appointed them to their positions. <a name="9:23">9:23</a> They and their descendants were assigned to guard the gates of the Lord’s sanctuary (that is, the tabernacle). <a name="9:24">9:24</a> The gatekeepers were posted on all four sides—east, west, north, and south. <a name="9:25">9:25</a> Their relatives, who lived in their settlements, came from time to time and served with them for seven-day periods. <a name="9:26">9:26</a> The four head gatekeepers, who were Levites, were assigned to guard the storerooms and treasuries in God’s sanctuary. <a name="9:27">9:27</a> They would spend the night in their posts all around God’s sanctuary, for they were assigned to guard it and would open it with the key every morning. <a name="9:28">9:28</a> Some of them were in charge of the articles used by those who served; they counted them when they brought them in and when they brought them out. <a name="9:29">9:29</a> Some of them were in charge of the equipment and articles of the sanctuary, as well as the flour, wine, olive oil, incense, and spices. <a name="9:30">9:30</a> Some of the priests mixed the spices. <a name="9:31">9:31</a> Mattithiah, a Levite, the firstborn son of Shallum the Korahite, was in charge of baking the bread for offerings. <a name="9:32">9:32</a> Some of the Kohathites, their relatives, were in charge of preparing the bread that is displayed each Sabbath.
+<a name="9:22">9:22</a> All those selected to be gatekeepers at the entrances numbered 212. Their names were recorded in the genealogical records of their settlements. David and Samuel the prophet had appointed them to their positions. <a name="9:23">9:23</a> They and their descendants were assigned to guard the gates of the Lord’s sanctuary (that is, the tabernacle). <a name="9:24">9:24</a> The gatekeepers were posted on all four sides — east, west, north, and south. <a name="9:25">9:25</a> Their relatives, who lived in their settlements, came from time to time and served with them for seven-day periods. <a name="9:26">9:26</a> The four head gatekeepers, who were Levites, were assigned to guard the storerooms and treasuries in God’s sanctuary. <a name="9:27">9:27</a> They would spend the night in their posts all around God’s sanctuary, for they were assigned to guard it and would open it with the key every morning. <a name="9:28">9:28</a> Some of them were in charge of the articles used by those who served; they counted them when they brought them in and when they brought them out. <a name="9:29">9:29</a> Some of them were in charge of the equipment and articles of the sanctuary, as well as the flour, wine, olive oil, incense, and spices. <a name="9:30">9:30</a> Some of the priests mixed the spices. <a name="9:31">9:31</a> Mattithiah, a Levite, the firstborn son of Shallum the Korahite, was in charge of baking the bread for offerings. <a name="9:32">9:32</a> Some of the Kohathites, their relatives, were in charge of preparing the bread that is displayed each Sabbath.
 
 <a name="9:33">9:33</a> The musicians and Levite family leaders stayed in rooms at the sanctuary and were exempt from other duties, for day and night they had to carry out their assigned tasks. <a name="9:34">9:34</a> These were the family leaders of the Levites, as listed in their genealogical records. They lived in Jerusalem.
 
@@ -990,8 +990,7 @@ and Obed,
 
 and Jaasiel the Mezobaite.
 
-## Chapter 12
-
+ 
 ### Warriors Who Joined David at Ziklag
 
 <a name="12:1">12:1</a> These were the men who joined David in Ziklag, when he was banished from the presence of Saul son of Kish (They were among the warriors who assisted him in battle. <a name="12:2">12:2</a> They were armed with bows and could shoot arrows or sling stones right or left-handed. They were fellow tribesmen of Saul from Benjamin):
@@ -1056,7 +1055,7 @@ So David accepted them and made them leaders of raiding bands.
 
 <a name="12:31">12:31</a> From the half tribe of Manasseh there were 18,000 who had been designated by name to come and make David king.
 
-<a name="12:32">12:32</a> From Issachar there were 200 leaders and all their relatives at their command—they understood the times and knew what Israel should do.
+<a name="12:32">12:32</a> From Issachar there were 200 leaders and all their relatives at their command — they understood the times and knew what Israel should do.
 
 <a name="12:33">12:33</a> From Zebulun there were 50,000 warriors who were prepared for battle, equipped with all kinds of weapons, and ready to give their undivided loyalty.
 
@@ -1074,7 +1073,7 @@ So David accepted them and made them leaders of raiding bands.
 
 ### Uzzah Meets Disaster
 
-<a name="13:1">13:1</a> David consulted with his military officers, including those who led groups of a thousand and those who led groups of a hundred. <a name="13:2">13:2</a> David said to the whole Israelite assembly, “If you so desire and the Lord our God approves, let’s spread the word to our brothers who remain in all the regions of Israel, and to the priests and Levites in their cities, so they may join us. <a name="13:3">13:3</a> Let’s move the ark of our God back here, for we did not seek his will throughout Saul’s reign.” <a name="13:4">13:4</a> The whole assembly agreed to do this, for the proposal seemed right to all the people. <a name="13:5">13:5</a> So David assembled all Israel from the Shihor River in Egypt to Lebo Hamath, to bring the ark of God from Kiriath Jearim. <a name="13:6">13:6</a> David and all Israel went up to Baalah (that is, Kiriath Jearim) in Judah to bring up from there the ark of God the Lord, who sits enthroned between the cherubim—the ark that is called by his name.
+<a name="13:1">13:1</a> David consulted with his military officers, including those who led groups of a thousand and those who led groups of a hundred. <a name="13:2">13:2</a> David said to the whole Israelite assembly, “If you so desire and the Lord our God approves, let’s spread the word to our brothers who remain in all the regions of Israel, and to the priests and Levites in their cities, so they may join us. <a name="13:3">13:3</a> Let’s move the ark of our God back here, for we did not seek his will throughout Saul’s reign.” <a name="13:4">13:4</a> The whole assembly agreed to do this, for the proposal seemed right to all the people. <a name="13:5">13:5</a> So David assembled all Israel from the Shihor River in Egypt to Lebo Hamath, to bring the ark of God from Kiriath Jearim. <a name="13:6">13:6</a> David and all Israel went up to Baalah (that is, Kiriath Jearim) in Judah to bring up from there the ark of God the Lord, who sits enthroned between the cherubim — the ark that is called by his name.
 
 <a name="13:7">13:7</a> They transported the ark on a new cart from the house of Abinadab; Uzzah and Ahio were guiding the cart, <a name="13:8">13:8</a> while David and all Israel were energetically celebrating before God, singing and playing various stringed instruments, tambourines, cymbals, and trumpets. <a name="13:9">13:9</a> When they arrived at the threshing floor of Kidon, Uzzah reached out his hand to grab hold of the ark, because the oxen stumbled. <a name="13:10">13:10</a> The Lord was so furious with Uzzah, he killed him, because he reached out his hand and touched the ark. He died right there before God.
 
@@ -1146,7 +1145,7 @@ So David accepted them and made them leaders of raiding bands.
 > <a name="16:14">16:14</a> He is the Lord our God;
 > he carries out judgment throughout the earth.
 > <a name="16:15">16:15</a> Remember continually his covenantal decree,
-> the promise he made to a thousand generations—
+> the promise he made to a thousand generations — 
 > <a name="16:16">16:16</a> the promise he made to Abraham,
 > the promise he made by oath to Isaac!
 > <a name="16:17">16:17</a> He gave it to Jacob as a decree,
@@ -1192,7 +1191,8 @@ So David accepted them and made them leaders of raiding bands.
 > and boast about your praiseworthy deeds.”
 > <a name="16:36">16:36</a> May the Lord God of Israel be praised,
 > in the future and forevermore.
-> Then all the people said, “We agree! Praise the Lord!”
+
+Then all the people said, “We agree! Praise the Lord!”
 
 ### David Appoints Worship Leaders
 
@@ -1256,7 +1256,7 @@ So David accepted them and made them leaders of raiding bands.
 
 <a name="20:5">20:5</a> There was another battle with the Philistines in which Elhanan son of Jair the Bethlehemite killed the brother of Goliath the Gittite, whose spear had a shaft as big as the crossbeam of a weaver’s loom.
 
-<a name="20:6">20:6</a> In a battle in Gath there was a very large man who had six fingers on each hand and six toes on each foot—twenty-four in all! He too was a descendant of Rapha. <a name="20:7">20:7</a> When he taunted Israel, Jonathan son of Shimea, David’s brother, killed him.
+<a name="20:6">20:6</a> In a battle in Gath there was a very large man who had six fingers on each hand and six toes on each foot — twenty-four in all! He too was a descendant of Rapha. <a name="20:7">20:7</a> When he taunted Israel, Jonathan son of Shimea, David’s brother, killed him.
 
 <a name="20:8">20:8</a> These were the descendants of Rapha who lived in Gath; they fell by the hand of David and his soldiers.
 
@@ -1274,7 +1274,7 @@ So David accepted them and made them leaders of raiding bands.
 
 The Lord’s messenger was standing near the threshing floor of Ornan the Jebusite. <a name="21:16">21:16</a> David looked up and saw the Lord’s messenger standing between the earth and sky with his sword drawn and in his hand, stretched out over Jerusalem. David and the leaders, covered with sackcloth, threw themselves down with their faces to the ground. <a name="21:17">21:17</a> David said to God, “Was I not the one who decided to number the army? I am the one who sinned and committed this awful deed! As for these sheep, what have they done? O Lord my God, attack me and my family, but remove the plague from your people!”
 
-<a name="21:18">21:18</a> So the Lord’s messenger told Gad to instruct David to go up and build an altar for the Lord on the threshing floor of Ornan the Jebusite. <a name="21:19">21:19</a> So David went up as Gad instructed him to do in the name of the Lord. <a name="21:20">21:20</a> While Ornan was threshing wheat, he turned and saw the messenger, and he and his four sons hid themselves. <a name="21:21">21:21</a> When David came to Ornan, Ornan looked and saw David; he came out from the threshing floor and bowed to David with his face to the ground. <a name="21:22">21:22</a> David said to Ornan, “Sell me the threshing floor so I can build on it an altar for the Lord—I’ll pay top price—so the plague may be removed from the people.” <a name="21:23">21:23</a> Ornan told David, “You can have it! My master, the king, may do what he wants. Look, I am giving you the oxen for burnt sacrifices, the threshing sledges for wood, and the wheat for an offering. I give it all to you.” <a name="21:24">21:24</a> King David replied to Ornan, “No, I insist on buying it for top price. I will not offer to the Lord what belongs to you or offer a burnt sacrifice that cost me nothing. <a name="21:25">21:25</a> So David bought the place from Ornan for six hundred pieces of gold. <a name="21:26">21:26</a> David built there an altar for the Lord and offered burnt sacrifices and tokens of peace. He called out to the Lord, and the Lord responded by sending fire from the sky and consuming the burnt sacrifice on the altar. <a name="21:27">21:27</a> The Lord ordered the messenger to put his sword back into its sheath.
+<a name="21:18">21:18</a> So the Lord’s messenger told Gad to instruct David to go up and build an altar for the Lord on the threshing floor of Ornan the Jebusite. <a name="21:19">21:19</a> So David went up as Gad instructed him to do in the name of the Lord. <a name="21:20">21:20</a> While Ornan was threshing wheat, he turned and saw the messenger, and he and his four sons hid themselves. <a name="21:21">21:21</a> When David came to Ornan, Ornan looked and saw David; he came out from the threshing floor and bowed to David with his face to the ground. <a name="21:22">21:22</a> David said to Ornan, “Sell me the threshing floor so I can build on it an altar for the Lord — I’ll pay top price — so the plague may be removed from the people.” <a name="21:23">21:23</a> Ornan told David, “You can have it! My master, the king, may do what he wants. Look, I am giving you the oxen for burnt sacrifices, the threshing sledges for wood, and the wheat for an offering. I give it all to you.” <a name="21:24">21:24</a> King David replied to Ornan, “No, I insist on buying it for top price. I will not offer to the Lord what belongs to you or offer a burnt sacrifice that cost me nothing. <a name="21:25">21:25</a> So David bought the place from Ornan for six hundred pieces of gold. <a name="21:26">21:26</a> David built there an altar for the Lord and offered burnt sacrifices and tokens of peace. He called out to the Lord, and the Lord responded by sending fire from the sky and consuming the burnt sacrifice on the altar. <a name="21:27">21:27</a> The Lord ordered the messenger to put his sword back into its sheath.
 
 <a name="21:28">21:28</a> At that time, when David saw that the Lord responded to him at the threshing floor of Ornan the Jebusite, he sacrificed there. <a name="21:29">21:29</a> Now the Lord’s tabernacle, which Moses had made in the desert, and the altar for burnt sacrifices were at that time at the worship center in Gibeon. <a name="21:30">21:30</a> But David could not go before it to seek God’s will, for he was afraid of the sword of the Lord’s messenger.
 
@@ -1306,21 +1306,21 @@ The Lord’s messenger was standing near the threshing floor of Ornan the Jebusi
 
 <a name="23:8">23:8</a> The sons of Ladan:
 
-Jehiel the oldest, Zetham, and Joel—three in all.
+Jehiel the oldest, Zetham, and Joel — three in all.
 
 <a name="23:9">23:9</a> The sons of Shimei:
 
-Shelomoth, Haziel, and Haran—three in all.
+Shelomoth, Haziel, and Haran — three in all.
 
 These were the leaders of the family of Ladan.
 
 <a name="23:10">23:10</a> The sons of Shimei:
 
-Jahath, Zina, Jeush, and Beriah. These were Shimei’s sons—four in all. <a name="23:11">23:11</a> Jahath was the oldest and Zizah the second oldest. Jeush and Beriah did not have many sons, so they were considered one family with one responsibility.
+Jahath, Zina, Jeush, and Beriah. These were Shimei’s sons — four in all. <a name="23:11">23:11</a> Jahath was the oldest and Zizah the second oldest. Jeush and Beriah did not have many sons, so they were considered one family with one responsibility.
 
 <a name="23:12">23:12</a> The sons of Kohath:
 
-Amram, Izhar, Hebron, and Uzziel—four in all.
+Amram, Izhar, Hebron, and Uzziel — four in all.
 
 <a name="23:13">23:13</a> The sons of Amram:
 
@@ -1362,7 +1362,7 @@ Eleazar and Kish.
 
 <a name="23:23">23:23</a> The sons of Mushi:
 
-Machli, Eder, and Jeremoth—three in all.
+Machli, Eder, and Jeremoth — three in all.
 
 <a name="23:24">23:24</a> These were the descendants of Levi according to their families, that is, the leaders of families as counted and individually listed who carried out assigned tasks in the Lord’s temple and were twenty years old and up. <a name="23:25">23:25</a> For David said, “The Lord God of Israel has given his people rest and has permanently settled in Jerusalem. <a name="23:26">23:26</a> So the Levites no longer need to carry the tabernacle or any of the items used in its service.” <a name="23:27">23:27</a> According to David’s final instructions, the Levites twenty years old and up were counted.
 
@@ -1498,61 +1498,61 @@ These were the Levites, listed by their families.
 
 <a name="25:2">25:2</a> From the sons of Asaph: Zakkur, Joseph, Nethaniah, and Asarelah. The sons of Asaph were supervised by Asaph, who prophesied under the king’s supervision.
 
-<a name="25:3">25:3</a> From the sons of Jeduthun: Gedaliah, Zeri, Jeshaiah, Hashabiah, and Mattithiah—six in all, under supervision of their father Jeduthun, who prophesied as he played a harp, giving thanks and praise to the Lord.
+<a name="25:3">25:3</a> From the sons of Jeduthun: Gedaliah, Zeri, Jeshaiah, Hashabiah, and Mattithiah — six in all, under supervision of their father Jeduthun, who prophesied as he played a harp, giving thanks and praise to the Lord.
 
 <a name="25:4">25:4</a> From the sons of Heman: Bukkiah, Mattaniah, Uzziel, Shebuel, Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, Romamti-Ezer, Joshbekashah, Mallothi, Hothir, and Machazioth. <a name="25:5">25:5</a> All these were the sons of Heman, the king’s prophet. God had promised him these sons in order to make him prestigious. God gave Heman fourteen sons and three daughters.
 
 <a name="25:6">25:6</a> All of these were under the supervision of their fathers; they were musicians in the Lord’s temple, playing cymbals and stringed instruments as they served in God’s temple. Asaph, Jeduthun, and Heman were under the supervision of the king. <a name="25:7">25:7</a> They and their relatives, all of them skilled and trained to make music to the Lord, numbered 288.
 
-<a name="25:8">25:8</a> They cast lots to determine their responsibilities—oldest as well as youngest, teacher as well as student.
+<a name="25:8">25:8</a> They cast lots to determine their responsibilities — oldest as well as youngest, teacher as well as student.
 
-<a name="25:9">25:9</a> The first lot went to Asaph’s son Joseph and his relatives and sons—twelve in all,
+<a name="25:9">25:9</a> The first lot went to Asaph’s son Joseph and his relatives and sons — twelve in all,
 
-the second to Gedaliah and his relatives and sons—twelve in all,
+the second to Gedaliah and his relatives and sons — twelve in all,
 
-<a name="25:10">25:10</a> the third to Zakkur and his sons and relatives—twelve in all,
+<a name="25:10">25:10</a> the third to Zakkur and his sons and relatives — twelve in all,
 
-<a name="25:11">25:11</a> the fourth to Izri and his sons and relatives—twelve in all,
+<a name="25:11">25:11</a> the fourth to Izri and his sons and relatives — twelve in all,
 
-<a name="25:12">25:12</a> the fifth to Nethaniah and his sons and relatives—twelve in all,
+<a name="25:12">25:12</a> the fifth to Nethaniah and his sons and relatives — twelve in all,
 
-<a name="25:13">25:13</a> the sixth to Bukkiah and his sons and relatives—twelve in all,
+<a name="25:13">25:13</a> the sixth to Bukkiah and his sons and relatives — twelve in all,
 
-<a name="25:14">25:14</a> the seventh to Jesharelah and his sons and relatives—twelve in all,
+<a name="25:14">25:14</a> the seventh to Jesharelah and his sons and relatives — twelve in all,
 
-<a name="25:15">25:15</a> the eighth to Jeshaiah and his sons and relatives—twelve in all,
+<a name="25:15">25:15</a> the eighth to Jeshaiah and his sons and relatives — twelve in all,
 
-<a name="25:16">25:16</a> the ninth to Mattaniah and his sons and relatives—twelve in all,
+<a name="25:16">25:16</a> the ninth to Mattaniah and his sons and relatives — twelve in all,
 
-<a name="25:17">25:17</a> the tenth to Shimei and his sons and relatives—twelve in all,
+<a name="25:17">25:17</a> the tenth to Shimei and his sons and relatives — twelve in all,
 
-<a name="25:18">25:18</a> the eleventh to Azarel and his sons and relatives—twelve in all,
+<a name="25:18">25:18</a> the eleventh to Azarel and his sons and relatives — twelve in all,
 
-<a name="25:19">25:19</a> the twelfth to Hashabiah and his sons and relatives—twelve in all,
+<a name="25:19">25:19</a> the twelfth to Hashabiah and his sons and relatives — twelve in all,
 
-<a name="25:20">25:20</a> the thirteenth to Shubael and his sons and relatives—twelve in all,
+<a name="25:20">25:20</a> the thirteenth to Shubael and his sons and relatives — twelve in all,
 
-<a name="25:21">25:21</a> the fourteenth to Mattithiah and his sons and relatives—twelve in all,
+<a name="25:21">25:21</a> the fourteenth to Mattithiah and his sons and relatives — twelve in all,
 
-<a name="25:22">25:22</a> the fifteenth to Jerimoth and his sons and relatives—twelve in all,
+<a name="25:22">25:22</a> the fifteenth to Jerimoth and his sons and relatives — twelve in all,
 
-<a name="25:23">25:23</a> the sixteenth to Hananiah and his sons and relatives—twelve in all,
+<a name="25:23">25:23</a> the sixteenth to Hananiah and his sons and relatives — twelve in all,
 
-<a name="25:24">25:24</a> the seventeenth to Joshbekashah and his sons and relatives—twelve in all,
+<a name="25:24">25:24</a> the seventeenth to Joshbekashah and his sons and relatives — twelve in all,
 
-<a name="25:25">25:25</a> the eighteenth to Hanani and his sons and relatives—twelve in all,
+<a name="25:25">25:25</a> the eighteenth to Hanani and his sons and relatives — twelve in all,
 
-<a name="25:26">25:26</a> the nineteenth to Mallothi and his sons and relatives—twelve in all,
+<a name="25:26">25:26</a> the nineteenth to Mallothi and his sons and relatives — twelve in all,
 
-<a name="25:27">25:27</a> the twentieth to Eliathah and his sons and relatives—twelve in all,
+<a name="25:27">25:27</a> the twentieth to Eliathah and his sons and relatives — twelve in all,
 
-<a name="25:28">25:28</a> the twenty-first to Hothir and his sons and relatives—twelve in all,
+<a name="25:28">25:28</a> the twenty-first to Hothir and his sons and relatives — twelve in all,
 
-<a name="25:29">25:29</a> the twenty-second to Giddalti and his sons and relatives—twelve in all,
+<a name="25:29">25:29</a> the twenty-second to Giddalti and his sons and relatives — twelve in all,
 
-<a name="25:30">25:30</a> the twenty-third to Machazioth and his sons and relatives—twelve in all,
+<a name="25:30">25:30</a> the twenty-third to Machazioth and his sons and relatives — twelve in all,
 
-<a name="25:31">25:31</a> the twenty-fourth to Romamti-Ezer and his sons and relatives—twelve in all.
+<a name="25:31">25:31</a> the twenty-fourth to Romamti-Ezer and his sons and relatives — twelve in all.
 
 ## Chapter 26
 
