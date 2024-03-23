@@ -10,7 +10,7 @@
 
 #### Satan’s Accusation of Job
 
-<a name="1:6">1:6</a> Now the day came when the sons of God came to present themselves before the Lord—and Satan also came among them. <a name="1:7">1:7</a> The Lord said to Satan, “Where have you come from?” And Satan answered the Lord, “From roving about on the earth, and from walking up and down in it.” <a name="1:8">1:8</a> So the Lord said to Satan, “Have you considered my servant Job? There is no one like him on the earth, a pure and upright man, one who fears God and turns away from evil.”
+<a name="1:6">1:6</a> Now the day came when the sons of God came to present themselves before the Lord — and Satan also came among them. <a name="1:7">1:7</a> The Lord said to Satan, “Where have you come from?” And Satan answered the Lord, “From roving about on the earth, and from walking up and down in it.” <a name="1:8">1:8</a> So the Lord said to Satan, “Have you considered my servant Job? There is no one like him on the earth, a pure and upright man, one who fears God and turns away from evil.”
 
 <a name="1:9">1:9</a> Then Satan answered the Lord, “Is it for nothing that Job fears God? <a name="1:10">1:10</a> Have you not made a hedge around him and his household and all that he has on every side? You have blessed the work of his hands, and his cattle have increased in the land. <a name="1:11">1:11</a> But extend your hand and strike everything he has, and he will indeed curse you to your face!”
 
@@ -18,13 +18,13 @@
 
 #### Job’s Integrity in Adversity
 
-<a name="1:13">1:13</a> Now the day came when his sons and daughters were eating and drinking wine in their oldest brother’s house, <a name="1:14">1:14</a> and a messenger came to Job, saying, “The oxen were plowing and the donkeys grazing beside them, <a name="1:15">1:15</a> and the Sabeans swooped down and carried them all away, and they killed the servants with the sword! And I—only I alone—escaped to tell you!”
+<a name="1:13">1:13</a> Now the day came when his sons and daughters were eating and drinking wine in their oldest brother’s house, <a name="1:14">1:14</a> and a messenger came to Job, saying, “The oxen were plowing and the donkeys grazing beside them, <a name="1:15">1:15</a> and the Sabeans swooped down and carried them all away, and they killed the servants with the sword! And I — only I alone — escaped to tell you!”
 
-<a name="1:16">1:16</a> While this one was still speaking, another messenger arrived and said, “The fire of God has fallen from heaven and has burned up the sheep and the servants—it has consumed them! And I—only I alone—escaped to tell you!”
+<a name="1:16">1:16</a> While this one was still speaking, another messenger arrived and said, “The fire of God has fallen from heaven and has burned up the sheep and the servants — it has consumed them! And I — only I alone — escaped to tell you!”
 
-<a name="1:17">1:17</a> While this one was still speaking another messenger arrived and said, “The Chaldeans formed three bands and made a raid on the camels and carried them all away, and they killed the servants with the sword! And I—only I alone—escaped to tell you!”
+<a name="1:17">1:17</a> While this one was still speaking another messenger arrived and said, “The Chaldeans formed three bands and made a raid on the camels and carried them all away, and they killed the servants with the sword! And I — only I alone — escaped to tell you!”
 
-<a name="1:18">1:18</a> While this one was still speaking another messenger arrived and said, “Your sons and your daughters were eating and drinking wine in their oldest brother’s house, <a name="1:19">1:19</a> and suddenly there came a great wind across the wilderness and struck the four corners of the house, and it fell on the young people, and they died! And I—only I alone—escaped to tell you!”
+<a name="1:18">1:18</a> While this one was still speaking another messenger arrived and said, “Your sons and your daughters were eating and drinking wine in their oldest brother’s house, <a name="1:19">1:19</a> and suddenly there came a great wind across the wilderness and struck the four corners of the house, and it fell on the young people, and they died! And I — only I alone — escaped to tell you!”
 
 <a name="1:20">1:20</a> Then Job got up and tore his robe. He shaved his head, and then he fell down to the ground with his face to the ground. <a name="1:21">1:21</a> He said, “Naked I came from my mother’s womb, and naked I will return there. The Lord gives, and the Lord takes away. May the name of the Lord be blessed!” <a name="1:22">1:22</a> In all this Job did not sin, nor did he charge God with moral impropriety.
 
@@ -46,7 +46,7 @@
 
 #### The Visit of Job’s Friends
 
-<a name="2:11">2:11</a> When Job’s three friends heard about all this calamity that had happened to him, each of them came from his own country—Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite. They met together to come to show grief for him and to console him. <a name="2:12">2:12</a> But when they gazed intently from a distance but could not recognize him, they began to weep loudly. Each of them tore his robes, and they threw dust into the air over their heads. <a name="2:13">2:13</a> Then they sat down with him on the ground for seven days and seven nights, yet no one spoke a word to him, for they saw that his pain was very great.
+<a name="2:11">2:11</a> When Job’s three friends heard about all this calamity that had happened to him, each of them came from his own country — Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite. They met together to come to show grief for him and to console him. <a name="2:12">2:12</a> But when they gazed intently from a distance but could not recognize him, they began to weep loudly. Each of them tore his robes, and they threw dust into the air over their heads. <a name="2:13">2:13</a> Then they sat down with him on the ground for seven days and seven nights, yet no one spoke a word to him, for they saw that his pain was very great.
 
 ## II. Job’s Dialogue With His Friends (<a>3:1-27:33</a>)
 
@@ -59,18 +59,18 @@
 > <a name="3:3">3:3</a> “Let the day in which I was born perish,
 > and the night that said,
 > ‘A man has been conceived!’
-> <a name="3:4">3:4</a> That day—let it be darkness;
+> <a name="3:4">3:4</a> That day — let it be darkness;
 > let not God on high regard it,
 > nor let light shine on it!
 > <a name="3:5">3:5</a> Let darkness and the shadow of death claim it;
 > let a cloud settle on it;
 > let whatever blackens the day terrify it!
-> <a name="3:6">3:6</a> That night—let darkness seize it;
+> <a name="3:6">3:6</a> That night — let darkness seize it;
 > let it not be included among the days of the year;
 > let it not enter among the number of the months!
 > <a name="3:7">3:7</a> Indeed, let that night be barren;
 > let no shout of joy penetrate it!
-> <a name="3:8">3:8</a> Let those who curse the day curse it—
+> <a name="3:8">3:8</a> Let those who curse the day curse it — 
 > those who are prepared to rouse Leviathan.
 > <a name="3:9">3:9</a> Let its morning stars be darkened;
 > let it wait for daylight but find none,
@@ -161,7 +161,7 @@
 > and my ear caught a whisper of it.
 > <a name="4:13">4:13</a> In the troubling thoughts of the dreams in the night
 > when a deep sleep falls on men,
-> <a name="4:14">4:14</a> a trembling gripped me—and a terror!—
+> <a name="4:14">4:14</a> a trembling gripped me — and a terror! — 
 > and made all my bones shake.
 > <a name="4:15">4:15</a> Then a breath of air passes by my face;
 > it makes the hair of my flesh stand up.
@@ -392,7 +392,7 @@
 > <a name="7:19">7:19</a> Will you never look away from me,
 > will you not let me alone
 > long enough to swallow my spittle?
-> <a name="7:20">7:20</a> If I have sinned—what have I done to you,
+> <a name="7:20">7:20</a> If I have sinned — what have I done to you,
 > O watcher of men?
 > Why have you set me as your target?
 > Have I become a burden to you?
@@ -469,7 +469,7 @@
 > But how can a human be just before God?
 > <a name="9:3">9:3</a> If someone wishes to contend with him,
 > he cannot answer him one time in a thousand.
-> <a name="9:4">9:4</a> He is wise in heart and mighty in strength—
+> <a name="9:4">9:4</a> He is wise in heart and mighty in strength — 
 > who has resisted him and remained safe?
 > <a name="9:5">9:5</a> He who removes mountains suddenly,
 > who overturns them in his anger;
@@ -499,7 +499,7 @@
 > I could only plead with my judge for mercy.
 > <a name="9:16">9:16</a> If I summoned him, and he answered me,
 > I would not believe
-> that he would be listening to my voice—
+> that he would be listening to my voice — 
 > <a name="9:17">9:17</a> he who crushes me with a tempest,
 > and multiplies my wounds for no reason.
 > <a name="9:18">9:18</a> He does not allow me to recover my breath,
@@ -646,8 +646,8 @@
 > <a name="11:7">11:7</a> “Can you discover the essence of God?
 > Can you find out
 > the perfection of the Almighty?
-> <a name="11:8">11:8</a> It is higher than the heavens—what can you do?
-> It is deeper than Sheol—what can you know?
+> <a name="11:8">11:8</a> It is higher than the heavens — what can you do?
+> It is deeper than Sheol — what can you know?
 > <a name="11:9">11:9</a> Its measure is longer than the earth,
 > and broader than the sea.
 > <a name="11:10">11:10</a> If he comes by and confines you
@@ -659,7 +659,7 @@
 > when a wild donkey colt is born a human being.
 > <a name="11:13">11:13</a> “As for you, if you prove faithful,
 > and if you stretch out your hands toward him,
-> <a name="11:14">11:14</a> if iniquity is in your hand—put it far away,
+> <a name="11:14">11:14</a> if iniquity is in your hand — put it far away,
 > and do not let evil reside in your tents.
 > <a name="11:15">11:15</a> For then you will lift up your face
 > without blemish;
@@ -692,14 +692,14 @@
 > I am not inferior to you.
 > Who does not know such things as these?
 > <a name="12:4">12:4</a> I am a laughingstock to my friend,
-> I, who called on God and whom he answered,
-> —a righteous and blameless man
+> I, who called on God and whom he answered, 
+> — a righteous and blameless man
 > is a laughingstock!
 > <a name="12:5">12:5</a> For calamity, there is derision
-> (according to the ideas of the fortunate)—
+> (according to the ideas of the fortunate) — 
 > a fate for those whose feet slip!
 > <a name="12:6">12:6</a> But the tents of robbers are peaceful,
-> and those who provoke God are confident—
+> and those who provoke God are confident — 
 > who carry their god in their hands.
 
 #### Knowledge of God’s Wisdom
@@ -837,7 +837,7 @@
 > <a name="14:9">14:9</a> at the scent of water it will flourish
 > and put forth shoots like a new plant.
 > <a name="14:10">14:10</a> But man dies and is powerless;
-> he expires—and where is he?
+> he expires — and where is he?
 > <a name="14:11">14:11</a> As water disappears from the sea,
 > or a river drains away and dries up,
 > <a name="14:12">14:12</a> so man lies down and does not rise;
@@ -854,7 +854,7 @@
 > <a name="14:14">14:14</a> If a man dies, will he live again?
 > All the days of my hard service I will wait
 > until my release comes.
-> <a name="14:15">14:15</a> You will call and I—I will answer you;
+> <a name="14:15">14:15</a> You will call and I — I will answer you;
 > you will long for the creature you have made.
 
 #### The Present Condition
@@ -929,7 +929,7 @@
 > in a time of peace marauders attack him.
 > <a name="15:22">15:22</a> He does not expect to escape from darkness;
 > he is marked for the sword;
-> <a name="15:23">15:23</a> he wanders about—food for vultures;
+> <a name="15:23">15:23</a> he wanders about — food for vultures;
 > he knows that the day of darkness is at hand.
 > <a name="15:24">15:24</a> Distress and anguish terrify him;
 > they prevail against him
@@ -983,8 +983,8 @@
 #### Abandonment by God and Man
 
 > <a name="16:6">16:6</a> “But if I speak, my pain is not assuaged,
-> and if I refrain from speaking
-> —how much of it goes away?
+> and if I refrain from speaking 
+> — how much of it goes away?
 > <a name="16:7">16:7</a> Surely now he has worn me out,
 > you have devastated my entire household.
 > <a name="16:8">16:8</a> You have seized me,
@@ -1200,8 +1200,8 @@
 
 <a name="20:1">20:1</a> Then Zophar the Naamathite answered:
 
-> <a name="20:2">20:2</a> “This is why my troubled thoughts bring me back
-> —because of my feelings within me.
+> <a name="20:2">20:2</a> “This is why my troubled thoughts bring me back 
+> — because of my feelings within me.
 > <a name="20:3">20:3</a> When I hear a reproof that dishonors me,
 > then my understanding prompts me to answer.
 > <a name="20:4">20:4</a> “Surely you know that it has been from old,
@@ -1346,7 +1346,7 @@
 > ‘Where now is the nobleman’s house,
 > and where are the tents in which the wicked lived?’
 > <a name="21:29">21:29</a> Have you never questioned those who travel the roads?
-> Do you not recognize their accounts—
+> Do you not recognize their accounts —
 > <a name="21:30">21:30</a> that the evil man is spared
 > from the day of his misfortune,
 > that he is delivered
@@ -1398,14 +1398,14 @@
 > as he goes back and forth
 > in the vault of heaven.’
 > <a name="22:15">22:15</a> Will you keep to the old path
-> that evil men have walked—
+> that evil men have walked — 
 > <a name="22:16">22:16</a> men who were carried off before their time,
 > when the flood was poured out
 > on their foundations?
 > <a name="22:17">22:17</a> They were saying to God, ‘Turn away from us,’
 > and ‘What can the Almighty do to us?’
 > <a name="22:18">22:18</a> But it was he who filled their houses
-> with good things—
+> with good things — 
 > yet the counsel of the wicked
 > was far from me.
 > <a name="22:19">22:19</a> The righteous see their destruction and rejoice;
@@ -1419,9 +1419,9 @@
 > and store up his words in your heart.
 > <a name="22:23">22:23</a> If you return to the Almighty, you will be built up;
 > if you remove wicked behavior far from your tent,
-> <a name="22:24">22:24</a> and throw your gold in the dust—
+> <a name="22:24">22:24</a> and throw your gold in the dust — 
 > your gold of Ophir
-> among the rocks in the ravines—
+> among the rocks in the ravines — 
 > <a name="22:25">22:25</a> then the Almighty himself will be your gold,
 > and the choicest silver for you.
 > <a name="22:26">22:26</a> Surely then you will delight yourself in the Almighty,
@@ -1568,7 +1568,7 @@
 > How can one born of a woman be pure?
 > <a name="25:5">25:5</a> If even the moon is not bright,
 > and the stars are not pure as far as he is concerned,
-> <a name="25:6">25:6</a> how much less a mortal man, who is but a maggot—
+> <a name="25:6">25:6</a> how much less a mortal man, who is but a maggot — 
 > a son of man, who is only a worm!”
 
 ### Chapter 26
@@ -1586,7 +1586,7 @@
 
 #### A Better Description of God’s Greatness
 
-> <a name="26:5">26:5</a> “The dead tremble—
+> <a name="26:5">26:5</a> “The dead tremble — 
 > those beneath the waters
 > and all that live in them.
 > <a name="26:6">26:6</a> The underworld is naked before God;
@@ -1616,7 +1616,7 @@
 <a name="27:1">27:1</a> And Job took up his discourse again:
 
 > <a name="27:2">27:2</a> “As surely as God lives, who has denied me justice,
-> the Almighty, who has made my life bitter—
+> the Almighty, who has made my life bitter — 
 > <a name="27:3">27:3</a> for while my spirit is still in me,
 > and the breath from God is in my nostrils,
 > <a name="27:4">27:4</a> my lips will not speak wickedness,
@@ -1646,7 +1646,7 @@
 > allotted by God,
 > the inheritance that evildoers receive
 > from the Almighty.
-> <a name="27:14">27:14</a> If his children increase—it is for the sword!
+> <a name="27:14">27:14</a> If his children increase — it is for the sword!
 > His offspring never have enough to eat.
 > <a name="27:15">27:15</a> Those who survive him are buried by the plague,
 > and their widows do not mourn for them.
@@ -1667,9 +1667,9 @@
 > <a name="27:23">27:23</a> It claps its hands at him in derision
 > and hisses him away from his place.
 
-## III. Job’s Search for Wisdom (<a name="28:1">28:1</a>-28)
-
 ### Chapter 28
+
+## III. Job’s Search for Wisdom (<a name="28:1">28:1</a>-28)
 
 #### No Known Road to Wisdom 
 
@@ -1687,7 +1687,7 @@
 > is overturned below as though by fire;
 > <a name="28:6">28:6</a> a place whose stones are sapphires
 > and which contains dust of gold;
-> <a name="28:7">28:7</a> a hidden path no bird of prey knows—
+> <a name="28:7">28:7</a> a hidden path no bird of prey knows — 
 > no falcon’s eye has spotted it.
 > <a name="28:8">28:8</a> Proud beasts have not set foot on it,
 > and no lion has passed along it.
@@ -1700,7 +1700,7 @@
 
 #### No Price Can Buy Wisdom
 
-> <a name="28:12">28:12</a> “But wisdom—where can it be found?
+> <a name="28:12">28:12</a> “But wisdom — where can it be found?
 > Where is the place of understanding?
 > <a name="28:13">28:13</a> Mankind does not know its place;
 > it cannot be found in the land of the living.
@@ -1719,7 +1719,7 @@
 
 #### God Alone Has Wisdom
 
-> <a name="28:20">28:20</a> “But wisdom—from where does it come?
+> <a name="28:20">28:20</a> “But wisdom — from where does it come?
 > Where is the place of understanding?
 > <a name="28:21">28:21</a> For it has been hidden
 > from the eyes of every living creature,
@@ -1737,12 +1737,12 @@
 > <a name="28:27">28:27</a> then he looked at wisdom and assessed its value;
 > he established it and examined it closely.
 > <a name="28:28">28:28</a> And he said to mankind,
-> ‘The fear of the Lord—that is wisdom,
+> ‘The fear of the Lord — that is wisdom,
 > and to turn away from evil is understanding.’”
 
-## IV. Job’s Concluding Soliloquy (<a>29:1-31:40</a>)
-
 ### Chapter 29
+
+## IV. Job’s Concluding Soliloquy (<a>29:1-31:40</a>)
 
 #### Job Recalls His Former Condition 
 
@@ -1819,7 +1819,7 @@
 > <a name="30:1">30:1</a> “But now they mock me, those who are younger than I,
 > whose fathers I disdained too much
 > to put with my sheep dogs.
-> <a name="30:2">30:2</a> Moreover, the strength of their hands—
+> <a name="30:2">30:2</a> Moreover, the strength of their hands — 
 > what use was it to me?
 > Men whose strength had perished;
 > <a name="30:3">30:3</a> gaunt with want and hunger,
@@ -1827,9 +1827,9 @@
 > in former time desolate and waste.
 > <a name="30:4">30:4</a> By the brush they would gather herbs from the salt marshes,
 > and the root of the broom tree was their food.
-> <a name="30:5">30:5</a> They were banished from the community—
+> <a name="30:5">30:5</a> They were banished from the community — 
 > people shouted at them
-> like they would at thieves—
+> like they would at thieves — 
 > <a name="30:6">30:6</a> so that they had to live
 > in the dry stream beds,
 > in the holes of the ground, and among the rocks.
@@ -1910,7 +1910,7 @@
 > <a name="31:4">31:4</a> Does he not see my ways
 > and count all my steps?
 > <a name="31:5">31:5</a> If I have walked in falsehood,
-> and if my foot has hastened to deceit—
+> and if my foot has hastened to deceit — 
 > <a name="31:6">31:6</a> let him weigh me with honest scales;
 > then God will discover my integrity.
 > <a name="31:7">31:7</a> If my footsteps have strayed from the way,
@@ -1937,7 +1937,7 @@
 > <a name="31:16">31:16</a> If I have refused to give the poor what they desired,
 > or caused the eyes of the widow to fail,
 > <a name="31:17">31:17</a> If I ate my morsel of bread myself,
-> and did not share any of it with orphans—
+> and did not share any of it with orphans — 
 > <a name="31:18">31:18</a> but from my youth I raised the orphan like a father,
 > and from my mother’s womb
 > I guided the widow.
@@ -1963,25 +1963,25 @@
 > <a name="31:28">31:28</a> then this also would be iniquity to be judged,
 > for I would have been false to God above.
 > <a name="31:29">31:29</a> If I have rejoiced over the misfortune of my enemy
-> or exulted because calamity found him—
+> or exulted because calamity found him — 
 > <a name="31:30">31:30</a> I have not even permitted my mouth to sin
-> by asking for his life through a curse—
+> by asking for his life through a curse — 
 > <a name="31:31">31:31</a> if the members of my household have never said,
 > ‘O that there were someone
-> who has not been satisfied from Job’s meat!’—
+> who has not been satisfied from Job’s meat!’ — 
 > <a name="31:32">31:32</a> But no stranger had to spend the night outside,
-> for I opened my doors to the traveler—
+> for I opened my doors to the traveler — 
 > <a name="31:33">31:33</a> if I have covered my transgressions as men do,
 > by hiding iniquity in my heart,
 > <a name="31:34">31:34</a> because I was terrified of the great multitude,
 > and the contempt of families terrified me,
 > so that I remained silent
-> and would not go outdoors—
+> and would not go outdoors — 
 
 #### Job’s Appeal
 
 > <a name="31:35">31:35</a> “If only I had someone to hear me!
-> Here is my signature—
+> Here is my signature — 
 > let the Almighty answer me!
 > If only I had an indictment
 > that my accuser had written.
@@ -1999,9 +1999,10 @@
 > <a name="31:40">31:40</a> then let thorns sprout up in place of wheat,
 > and in place of barley, weeds!”
 > The words of Job have ended.
- ## V. The Speeches of Elihu (<a>32:1-37:24</a>)
 
-### Chapter 32
+## Chapter 32
+
+### V. The Speeches of Elihu (<a>32:1-37:24</a>)
 
 #### Elihu’s First Speech 
 
@@ -2024,7 +2025,7 @@
 > <a name="32:10">32:10</a> Therefore I say, ‘Listen to me.
 > I, even I, will explain what I know.’
 > <a name="32:11">32:11</a> Look, I waited for you to speak;
-> I listened closely to your wise thoughts,while you were searching for words.
+> I listened closely to your wise thoughts, while you were searching for words.
 > <a name="32:12">32:12</a> Now I was giving you close attention,
 > yet there was no one proving Job wrong,
 > not one of you was answering his statements!
@@ -2082,7 +2083,7 @@
 > he regards me as his enemy!
 > <a name="33:11">33:11</a> He puts my feet in shackles;
 > he watches closely all my paths.’
-> <a name="33:12">33:12</a> Now in this, you are not right—I answer you,
+> <a name="33:12">33:12</a> Now in this, you are not right — I answer you,
 > for God is greater than a human being.
 > <a name="33:13">33:13</a> Why do you contend against him,
 > that he does not answer all a person’s words?
@@ -2135,7 +2136,7 @@
 > twice, three times, in his dealings with a person,
 > <a name="33:30">33:30</a> to turn back his life from the place of corruption,
 > that he may be enlightened with the light of life.
-> <a name="33:31">33:31</a> Pay attention, Job—listen to me;
+> <a name="33:31">33:31</a> Pay attention, Job — listen to me;
 > be silent, and I will speak.
 > <a name="33:32">33:32</a> If you have any words, reply to me;
 > speak, for I want to justify you.
@@ -2273,9 +2274,9 @@
 > who gives songs in the night,
 > <a name="35:11">35:11</a> who teaches us more than the wild animals of the earth,
 > and makes us wiser than the birds of the air?’
-> <a name="35:12">35:12</a> Then they cry out—but he does not answer—
+> <a name="35:12">35:12</a> Then they cry out — but he does not answer — 
 > because of the arrogance of the wicked.
-> <a name="35:13">35:13</a> Surely it is an empty cry—God does not hear it;
+> <a name="35:13">35:13</a> Surely it is an empty cry — God does not hear it;
 > the Almighty does not take notice of it.
 > <a name="35:14">35:14</a> How much less, then,
 > when you say that you do not perceive him,
@@ -2353,7 +2354,7 @@
 
 #### The Work and Wisdom of God
 
-> <a name="36:26">36:26</a> “Yes, God is great—beyond our knowledge!
+> <a name="36:26">36:26</a> “Yes, God is great — beyond our knowledge!
 > The number of his years is unsearchable.
 > <a name="36:27">36:27</a> He draws up drops of water;
 > they distill the rain into its mist,
@@ -2418,8 +2419,8 @@
 > because of the darkness.
 > <a name="37:20">37:20</a> Should he be informed that I want to speak?
 > If a man speaks, surely he would be swallowed up!
-> <a name="37:21">37:21</a> But now, the sun cannot be looked at—
-> it is bright in the skies—
+> <a name="37:21">37:21</a> But now, the sun cannot be looked at — 
+> it is bright in the skies — 
 > after a wind passed and swept the clouds away.
 > <a name="37:22">37:22</a> From the north he comes in golden splendor;
 > around God is awesome majesty.
@@ -2429,9 +2430,9 @@
 > <a name="37:24">37:24</a> Therefore people fear him,
 > for he does not regard all the wise in heart.”
 
-## VI. The Divine Speeches (<a>38:1-42:6</a>)
+## Chapter 38
 
-### Chapter 38
+### VI. The Divine Speeches (<a>38:1-42:6</a>)
 
 #### The Lord’s First Speech 
 
@@ -2448,10 +2449,10 @@
 > <a name="38:4">38:4</a> “Where were you
 > when I laid the foundation of the earth?
 > Tell me, if you possess understanding!
-> <a name="38:5">38:5</a> Who set its measurements—if you know—
+> <a name="38:5">38:5</a> Who set its measurements — if you know — 
 > or who stretched a measuring line across it?
 > <a name="38:6">38:6</a> On what were its bases set,
-> or who laid its cornerstone—
+> or who laid its cornerstone — 
 > <a name="38:7">38:7</a> when the morning stars sang in chorus,
 > and all the sons of God shouted for joy?
 > <a name="38:8">38:8</a> “Who shut up the sea with doors
@@ -2578,7 +2579,7 @@
 > it does not shy away from the sword.
 > <a name="39:23">39:23</a> On it the quiver rattles;
 > the lance and javelin flash.
-> <a name="39:24">39:24</a> In exament and impatience it consumes the ground;
+> <a name="39:24">39:24</a> In excitement and impatience it consumes the ground;
 > it cannot stand still when the trumpet is blown.
 > <a name="39:25">39:25</a> At the sound of the trumpet, it says, ‘Aha!’
 > And from a distance it catches the scent of battle,
@@ -2604,7 +2605,7 @@
 > <a name="40:2">40:2</a> “Will the one who contends with the Almighty correct him?
 > Let the person who accuses God give him an answer!”
 > <a name="40:3">40:3</a> Then Job answered the Lord:
-> <a name="40:4">40:4</a> “Indeed, I am completely unworthy—how could I reply to you?
+> <a name="40:4">40:4</a> “Indeed, I am completely unworthy — how could I reply to you?
 > I put my hand over my mouth to silence myself.
 > <a name="40:5">40:5</a> I have spoken once, but I cannot answer;
 > twice, but I will say no more.”
