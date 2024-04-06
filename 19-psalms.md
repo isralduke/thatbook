@@ -146,7 +146,7 @@ For the music director, to be accompanied by stringed instruments, according to 
 > <a name="6:2">6:2</a> Have mercy on me, Lord, for I am frail!
 > Heal me, Lord, for my bones are shaking!
 > <a name="6:3">6:3</a> I am absolutely terrified,
-> and you, Lord—how long will this go on?
+> and you, Lord — how long will this go on?
 > <a name="6:4">6:4</a> Come back, Lord, rescue me!
 > Deliver me because of your faithfulness!
 > <a name="6:5">6:5</a> For no one mentions your name in the realm of death,
@@ -200,7 +200,7 @@ A musical composition by David, which he sang to the Lord concerning a Benjamini
 > he gets ready to shoot flaming arrows.
 > <a name="7:14">7:14</a> See the one who is pregnant with wickedness,
 > who conceives destructive plans,
-> and gives birth to harmful lies—
+> and gives birth to harmful lies — 
 > <a name="7:15">7:15</a> he digs a pit
 > and then falls into the hole he has made.
 > <a name="7:16">7:16</a> He becomes the victim of his own destructive plans
@@ -415,7 +415,7 @@ For the music director; by David.
 > they are all morally corrupt.
 > None of them does what is right,
 > not even one!
-> <a name="14:4">14:4</a> All those who behave wickedly do not understand—
+> <a name="14:4">14:4</a> All those who behave wickedly do not understand — 
 > those who devour my people as if they were eating bread,
 > and do not call out to the Lord.
 > <a name="14:5">14:5</a> They are absolutely terrified,
@@ -454,7 +454,7 @@ A prayer of David.
 > <a name="16:2">16:2</a> I say to the Lord, “You are the sovereign Master,
 > my only source of well-being.”
 > <a name="16:3">16:3</a> As for God’s chosen people who are in the land,
-> and the leading officials I admired so much—
+> and the leading officials I admired so much — 
 > <a name="16:4">16:4</a> their troubles multiply,
 > they desire other gods.
 > I will not pour out drink offerings of blood to their gods,
@@ -490,7 +490,7 @@ A prayer of David.
 > you have examined me during the night.
 > You have carefully evaluated me, but you find no sin.
 > I am determined I will say nothing sinful.
-> <a name="17:4">17:4</a> As for the actions of people—
+> <a name="17:4">17:4</a> As for the actions of people — 
 > just as you have commanded,
 > I have not followed in the footsteps of violent men.
 > <a name="17:5">17:5</a> I carefully obey your commands;
@@ -526,7 +526,8 @@ A prayer of David.
 
 For the music director; by the Lord’s servant David, who sang to the Lord the words of this song when the Lord rescued him from the power of all his enemies, including Saul.
 
-> <a name="18:1">18:1</a> He said:
+<a name="18:1">18:1</a> He said:
+
 > “I love you, Lord, my source of strength!
 > <a name="18:2">18:2</a> The Lord is my high ridge, my stronghold, my deliverer.
 > My God is my rocky summit where I take shelter,
@@ -784,7 +785,7 @@ For the music director; according to the tune “Morning Doe;” a psalm of Davi
 > <a name="22:15">22:15</a> The roof of my mouth is as dry as a piece of pottery;
 > my tongue sticks to my gums.
 > You are making me descend into the grave.
-> <a name="22:16">22:16</a> Yes, wild dogs surround me—
+> <a name="22:16">22:16</a> Yes, wild dogs surround me — 
 > a gang of evil men crowd around me;
 > like a lion they pin my hands and feet to the ground.
 > <a name="22:17">22:17</a> I can count all my bones;
@@ -973,7 +974,7 @@ By David.
 > I do not fear.
 > Even when war is imminent,
 > I remain confident.
-> <a name="27:4">27:4</a> I have asked the Lord for one thing—
+> <a name="27:4">27:4</a> I have asked the Lord for one thing — 
 > this is what I desire!
 > I want to live in the Lord’s house all the days of my life,
 > so I can gaze at the splendor of the Lord
@@ -1068,7 +1069,7 @@ A psalm of David.
 
 ### Psalm 30
 
-A psalm—a song used at the dedication of the temple; by David.
+A psalm — a song used at the dedication of the temple; by David.
 
 > <a name="30:1">30:1</a> I will praise you, O Lord, for you lifted me up,
 > and did not allow my enemies to gloat over me.
@@ -1131,7 +1132,7 @@ For the music director; a psalm of David.
 > My strength fails me because of my sin,
 > and my bones become brittle.
 > <a name="31:11">31:11</a> Because of all my enemies, people disdain me;
-> my neighbors are appalled by my suffering—
+> my neighbors are appalled by my suffering — 
 > those who know me are horrified by my condition;
 > those who see me in the street run away from me.
 > <a name="31:12">31:12</a> I am forgotten, like a dead man no one thinks about;
@@ -1150,7 +1151,7 @@ For the music director; a psalm of David.
 > for I call out to you!
 > May evil men be humiliated!
 > May they go wailing to the grave!
-> <a name="31:18">31:18</a> May lying lips be silenced—
+> <a name="31:18">31:18</a> May lying lips be silenced — 
 > lips that speak defiantly against the innocent
 > with arrogance and contempt!
 > <a name="31:19">31:19</a> How great is your favor,
@@ -1269,7 +1270,7 @@ Written by David, when he pretended to be insane before Abimelech, causing the k
 > <a name="34:7">34:7</a> The Lord’s angel camps around
 > the Lord’s loyal followers and delivers them.
 > <a name="34:8">34:8</a> Taste and see that the Lord is good!
-> How happy is the onewho takes shelter in him!
+> How happy is the one who takes shelter in him!
 > <a name="34:9">34:9</a> Remain loyal to the Lord, you chosen people of his,
 > for his loyal followers lack nothing!
 > <a name="34:10">34:10</a> Even young lions sometimes lack food and are hungry,
@@ -1331,8 +1332,7 @@ By David.
 > <a name="35:12">35:12</a> They repay me evil for the good I have done;
 > I am overwhelmed with sorrow.
 > <a name="35:13">35:13</a> When they were sick, I wore sackcloth,
-> and refrained from eating food.
-(If I am lying, may my prayers go unanswered!)
+> and refrained from eating food. (If I am lying, may my prayers go unanswered!)
 > <a name="35:14">35:14</a> I mourned for them as I would for a friend or my brother.
 > I bowed down in sorrow as if I were mourning for my mother.
 > <a name="35:15">35:15</a> But when I stumbled, they rejoiced and gathered together;
@@ -1444,7 +1444,7 @@ By David.
 > <a name="37:19">37:19</a> They will not be ashamed when hard times come;
 > when famine comes they will have enough to eat.
 > <a name="37:20">37:20</a> But evil men will die;
-> the Lord’s enemies will be incinerated—
+> the Lord’s enemies will be incinerated — 
 > they will go up in smoke.
 > <a name="37:21">37:21</a> Evil men borrow, but do not repay their debt,
 > but the godly show compassion and are generous.
@@ -1522,7 +1522,7 @@ A psalm of David, written to get God’s attention.
 > <a name="38:12">38:12</a> Those who seek my life try to entrap me;
 > those who want to harm me speak destructive words;
 > all day long they say deceitful things.
-> <a name="38:13">38:13</a> But I am like a deaf man—I hear nothing;
+> <a name="38:13">38:13</a> But I am like a deaf man — I hear nothing;
 > I am like a mute who cannot speak.
 > <a name="38:14">38:14</a> I am like a man who cannot hear
 > and is incapable of arguing his defense.
@@ -2089,7 +2089,7 @@ For the music director; a psalm of David, written when Nathan the prophet confro
 > Then my mouth will praise you.
 > <a name="51:16">51:16</a> Certainly you do not want a sacrifice, or else I would offer it;
 > you do not desire a burnt sacrifice.
-> <a name="51:17">51:17</a> The “sacrifices” God desires are a humble attitude—
+> <a name="51:17">51:17</a> The “sacrifices” God desires are a humble attitude — 
 > O God, a humble and repentant heart you will not reject.
 > <a name="51:18">51:18</a> Be favorably disposed to Zion!
 > Build the walls of Jerusalem!
@@ -2134,7 +2134,7 @@ For the music director; according to the machalath style; a well-written song by
 > they are all morally corrupt.
 > None of them does what is right,
 > not even one!
-> <a name="53:4">53:4</a> All those who behave wickedly do not understand—
+> <a name="53:4">53:4</a> All those who behave wickedly do not understand — 
 > those who devour my people as if they were eating bread,
 > and do not call out to God.
 > <a name="53:5">53:5</a> They are absolutely terrified,
@@ -2239,7 +2239,7 @@ For the music director; according to the yonath-elem-rechovim style; a prayer of
 > Indeed, many are fighting against me, O Exalted One.
 > <a name="56:3">56:3</a> When I am afraid,
 > I trust in you.
-> <a name="56:4">56:4</a> In God—I boast in his promise—
+> <a name="56:4">56:4</a> In God — I boast in his promise — 
 > in God I trust, I am not afraid.
 > What can mere men do to me?
 > <a name="56:5">56:5</a> All day long they cause me trouble;
@@ -2254,8 +2254,8 @@ For the music director; according to the yonath-elem-rechovim style; a prayer of
 > Are they not recorded in your scroll?
 > <a name="56:9">56:9</a> My enemies will turn back when I cry out to you for help;
 > I know that God is on my side.
-> <a name="56:10">56:10</a> In God—I boast in his promise—
-> in the Lord—I boast in his promise—
+> <a name="56:10">56:10</a> In God — I boast in his promise — 
+> in the Lord — I boast in his promise — 
 > <a name="56:11">56:11</a> in God I trust, I am not afraid.
 > What can mere men do to me?
 > <a name="56:12">56:12</a> I am obligated to fulfill the vows I made to you, O God;
@@ -2542,7 +2542,7 @@ For the music director; a psalm of David, a song.
 > but you forgive our acts of rebellion.
 > <a name="65:4">65:4</a> How happy is the one whom you choose,
 > and allow to live in your palace courts.
-> May we be satisfied with the good things of your house—
+> May we be satisfied with the good things of your house — 
 > your holy palace.
 > <a name="65:5">65:5</a> You answer our prayers by performing awesome acts of deliverance,
 > O God, our savior.
@@ -2678,7 +2678,7 @@ For the music director; by David, a psalm, a song.
 > You sustain the oppressed with your good blessings, O God.
 > <a name="68:11">68:11</a> The sovereign Master speaks;
 > many, many women spread the good news.
-> <a name="68:12">68:12</a> Kings leading armies run away—they run away!
+> <a name="68:12">68:12</a> Kings leading armies run away — they run away!
 > The lovely lady of the house divides up the loot.
 > <a name="68:13">68:13</a> When you lie down among the sheepfolds,
 > the wings of the dove are covered with silver
@@ -2710,7 +2710,7 @@ For the music director; by David, a psalm, a song.
 > I will bring them back from the depths of the sea,
 > <a name="68:23">68:23</a> so that your feet may stomp in their blood,
 > and your dogs may eat their portion of the enemies’ corpses.”
-> <a name="68:24">68:24</a> They see your processions, O God—
+> <a name="68:24">68:24</a> They see your processions, O God — 
 > the processions of my God, my king, who marches along in holy splendor.
 > <a name="68:25">68:25</a> Singers walk in front;
 > musicians follow playing their stringed instruments,
@@ -2817,7 +2817,7 @@ For the music director; according to the tune of “Lilies;” by David.
 > I will magnify him as I give him thanks!
 > <a name="69:31">69:31</a> That will please the Lord more than an ox or a bull
 > with horns and hooves.
-> <a name="69:32">69:32</a> The oppressed look on—let them rejoice!
+> <a name="69:32">69:32</a> The oppressed look on — let them rejoice!
 > You who seek God, may you be encouraged!
 > <a name="69:33">69:33</a> For the Lord listens to the needy;
 > he does not despise those whom he punishes.
@@ -2885,7 +2885,7 @@ For the music director; by David; written to get God’s attention.
 > and all day long proclaim your salvation,
 > though I cannot fathom its full extent.
 > <a name="71:16">71:16</a> I will come and tell about the mighty acts of the sovereign Lord.
-> I will proclaim your justice—yours alone.
+> I will proclaim your justice — yours alone.
 > <a name="71:17">71:17</a> O God, you have taught me since I was young,
 > and I am still declaring your amazing deeds.
 > <a name="71:18">71:18</a> Even when I am old and gray,
@@ -3173,7 +3173,7 @@ For the music director, Jeduthun; a psalm of Asaph.
 > What god can compare to our great God?
 > <a name="77:14">77:14</a> You are the God who does amazing things;
 > you have revealed your strength among the nations.
-> <a name="77:15">77:15</a> You delivered your people by your strength—
+> <a name="77:15">77:15</a> You delivered your people by your strength — 
 > the children of Jacob and Joseph. (Selah)
 > <a name="77:16">77:16</a> The waters saw you, O God,
 > the waters saw you and trembled.
@@ -3198,8 +3198,8 @@ A well-written song by Asaph.
 > Listen to the words I speak!
 > <a name="78:2">78:2</a> I will sing a song that imparts wisdom;
 > I will make insightful observations about the past.
-> <a name="78:3">78:3</a> What we have heard and learned—
-> that which our ancestors have told us—
+> <a name="78:3">78:3</a> What we have heard and learned — 
+> that which our ancestors have told us — 
 > <a name="78:4">78:4</a> we will not hide from their descendants.
 > We will tell the next generation
 > about the Lord’s praiseworthy acts,
@@ -3311,7 +3311,7 @@ A well-written song by Asaph.
 > he did not spare them from death;
 > he handed their lives over to destruction.
 > <a name="78:51">78:51</a> He struck down all the firstborn in Egypt,
-> the firstfruits of their reproductive power in the tents of Ham.
+> the firstbfruits of their reproductive power in the tents of Ham.
 > <a name="78:52">78:52</a> Yet he brought out his people like sheep;
 > he led them through the wilderness like a flock.
 > <a name="78:53">78:53</a> He guided them safely along,
@@ -3525,7 +3525,7 @@ A song, a psalm of Asaph.
 > Philistia and the inhabitants of Tyre.
 > <a name="83:8">83:8</a> Even Assyria has allied with them,
 > lending its strength to the descendants of Lot. (Selah)
-> <a name="83:9">83:9</a> Do to them as you did to Midian—
+> <a name="83:9">83:9</a> Do to them as you did to Midian — 
 > as you did to Sisera and Jabin at the Kishon River!
 > <a name="83:10">83:10</a> They were destroyed at Endor;
 > their corpses were like manure on the ground.
@@ -3676,7 +3676,7 @@ Written by the Korahites; a psalm, a song.
 > and the Sovereign One makes her secure.”
 > <a name="87:6">87:6</a> The Lord writes in the census book of the nations,
 > “This one was born there.” (Selah)
-> <a name="87:7">87:7</a> As for the singers, as well as the pipers—
+> <a name="87:7">87:7</a> As for the singers, as well as the pipers — 
 > all of them sing within your walls.
 
 ### Psalm 88
@@ -3888,9 +3888,9 @@ A prayer of Moses, the man of God.
 ### Psalm 91
 
 > <a name="91:1">91:1</a> As for you, the one who lives in the shelter of the Sovereign One,
-> and resides in the protective shadow of the mighty king—
+> and resides in the protective shadow of the mighty king — 
 > <a name="91:2">91:2</a> I say this about the Lord, my shelter and my stronghold,
-> my God in whom I trust—
+> my God in whom I trust — 
 > <a name="91:3">91:3</a> he will certainly rescue you from the snare of the hunter
 > and from the destructive plague.
 > <a name="91:4">91:4</a> He will shelter you with his wings;
@@ -3903,7 +3903,7 @@ A prayer of Moses, the man of God.
 > <a name="91:7">91:7</a> Though a thousand may fall beside you,
 > and a multitude on your right side,
 > it will not reach you.
-> <a name="91:8">91:8</a> Certainly you will see it with your very own eyes—
+> <a name="91:8">91:8</a> Certainly you will see it with your very own eyes — 
 > you will see the wicked paid back.
 > <a name="91:9">91:9</a> For you have taken refuge in the Lord,
 > my shelter, the Sovereign One.
@@ -4350,9 +4350,9 @@ By David.
 > <a name="104:6">104:6</a> The watery deep covered it like a garment;
 > the waters reached above the mountains.
 > <a name="104:7">104:7</a> Your shout made the waters retreat;
-> at the sound of your thunderous voice they hurried off—
+> at the sound of your thunderous voice they hurried off — 
 > <a name="104:8">104:8</a> as the mountains rose up,
-> and the valleys went down—
+> and the valleys went down — 
 > to the place you appointed for them.
 > <a name="104:9">104:9</a> You set up a boundary for them that they could not cross,
 > so that they would not cover the earth again.
@@ -4435,7 +4435,7 @@ By David.
 > <a name="105:7">105:7</a> He is the Lord our God;
 > he carries out judgment throughout the earth.
 > <a name="105:8">105:8</a> He always remembers his covenantal decree,
-> the promise he made to a thousand generations—
+> the promise he made to a thousand generations — 
 > <a name="105:9">105:9</a> the one he made to Abraham,
 > the promise he made by oath to Isaac!
 > <a name="105:10">105:10</a> He gave it to Jacob as a decree,
@@ -4448,11 +4448,11 @@ By David.
 > and from one kingdom to another.
 > <a name="105:14">105:14</a> He let no one oppress them;
 > he disciplined kings for their sake,
-> <a name="105:15">105:15</a> saying,“Don’t touch my chosen ones!
+> <a name="105:15">105:15</a> saying, “Don’t touch my chosen ones!
 > Don’t harm my prophets!”
 > <a name="105:16">105:16</a> He called down a famine upon the earth;
 > he cut off all the food supply.
-> <a name="105:17">105:17</a> He sent a man ahead of them—
+> <a name="105:17">105:17</a> He sent a man ahead of them — 
 > Joseph was sold as a servant.
 > <a name="105:18">105:18</a> The shackles hurt his feet;
 > his neck was placed in an iron collar,
@@ -4491,7 +4491,7 @@ By David.
 > <a name="105:35">105:35</a> They ate all the vegetation in their land,
 > and devoured the crops of their fields.
 > <a name="105:36">105:36</a> He struck down all the firstborn in their land,
-> the firstfruits of their reproductive power.
+> the first fruits of their reproductive power.
 > <a name="105:37">105:37</a> He brought his people out enriched with silver and gold;
 > none of his tribes stumbled.
 > <a name="105:38">105:38</a> Egypt was happy when they left,
@@ -4591,7 +4591,7 @@ By David.
 > <a name="106:36">106:36</a> They worshiped their idols,
 > which became a snare to them.
 > <a name="106:37">106:37</a> They sacrificed their sons and daughters to demons.
-> <a name="106:38">106:38</a> They shed innocent blood—
+> <a name="106:38">106:38</a> They shed innocent blood — 
 > the blood of their sons and daughters,
 > whom they sacrificed to the idols of Canaan.
 > The land was polluted by bloodshed.
@@ -4928,7 +4928,7 @@ A psalm of David.
 > Why do you turn back, O Jordan River?
 > <a name="114:6">114:6</a> Why do you skip like rams, O mountains,
 > like lambs, O hills?
-> <a name="114:7">114:7</a> Tremble, O earth, before the sovereign Master—
+> <a name="114:7">114:7</a> Tremble, O earth, before the sovereign Master — 
 > before the God of Jacob,
 > <a name="114:8">114:8</a> who turned a rock into a pool of water,
 > a hard rock into springs of water!
@@ -4942,7 +4942,7 @@ A psalm of David.
 > “Where is their God?”
 > <a name="115:3">115:3</a> Our God is in heaven!
 > He does whatever he pleases!
-> <a name="115:4">115:4</a> Their idols are made of silver and gold—
+> <a name="115:4">115:4</a> Their idols are made of silver and gold — 
 > they are man-made.
 > <a name="115:5">115:5</a> They have mouths, but cannot speak,
 > eyes, but cannot see,
@@ -4959,13 +4959,13 @@ A psalm of David.
 > He is their deliverer and protector.
 > <a name="115:11">115:11</a> You loyal followers of the Lord, trust in the Lord!
 > He is their deliverer and protector.
-> <a name="115:12">115:12</a> The Lord takes notice of us, he will bless—
+> <a name="115:12">115:12</a> The Lord takes notice of us, he will bless — 
 > he will bless the family of Israel,
 > he will bless the family of Aaron.
 > <a name="115:13">115:13</a> He will bless his loyal followers,
 > both young and old.
 > <a name="115:14">115:14</a> May he increase your numbers,
-> yours and your children’s!
+> yours and your childrens’!
 > <a name="115:15">115:15</a> May you be blessed by the Lord,
 > the creator of heaven and earth!
 > <a name="115:16">115:16</a> The heavens belong to the Lord,
@@ -5069,7 +5069,7 @@ A psalm of David.
 > but he did not hand me over to death.
 > <a name="118:19">118:19</a> Open for me the gates of the just king’s temple!
 > I will enter through them and give thanks to the Lord.
-> <a name="118:20">118:20</a> This is the Lord’s gate—
+> <a name="118:20">118:20</a> This is the Lord’s gate — 
 > the godly enter through it.
 > <a name="118:21">118:21</a> I will give you thanks, for you answered me,
 > and have become my deliverer.
@@ -5391,7 +5391,7 @@ A psalm of David.
 > Teach me your statutes!
 > <a name="119:125">119:125</a> I am your servant. Give me insight,
 > that I might understand your rules.
-> <a name="119:126">119:126</a> It is time for the Lord to act—
+> <a name="119:126">119:126</a> It is time for the Lord to act — 
 > they break your law!
 > <a name="119:127">119:127</a> For this reason I love your commands
 > more than gold, even pure gold.
@@ -5599,8 +5599,8 @@ A song of ascents.
 
 A song of ascents, by David.
 
-> <a name="124:1">124:1</a> “If the Lord had not been on our side”—
-> let Israel say this!—
+> <a name="124:1">124:1</a> “If the Lord had not been on our side” — 
+> let Israel say this! — 
 > <a name="124:2">124:2</a> if the Lord had not been on our side,
 > when men attacked us,
 > <a name="124:3">124:3</a> they would have swallowed us alive,
@@ -5801,13 +5801,13 @@ A song of ascents, by David.
 > <a name="133:1">133:1</a> Look! How good and how pleasant it is
 > when brothers live together!
 > <a name="133:2">133:2</a> It is like fine oil poured on the head
-> which flows down the beard—
+> which flows down the beard — 
 > Aaron’s beard,
 > and then flows down his garments.
 > <a name="133:3">133:3</a> It is like the dew of Hermon,
 > which flows down upon the hills of Zion.
 > Indeed that is where the Lord has decreed
-> a blessing will be available—eternal life.
+> a blessing will be available — eternal life.
 
 ### Psalm 134
 
@@ -5846,7 +5846,7 @@ A song of ascents.
 > in your midst, O Egypt,
 > against Pharaoh and all his servants.
 > <a name="135:10">135:10</a> He defeated many nations,
-> and killed mighty kings—
+> and killed mighty kings — 
 > <a name="135:11">135:11</a> Sihon, king of the Amorites,
 > and Og, king of Bashan,
 > and all the kingdoms of Canaan.
@@ -5868,7 +5868,7 @@ A song of ascents.
 > O family of Aaron, praise the Lord!
 > <a name="135:20">135:20</a> O family of Levi, praise the Lord!
 > You loyal followers of the Lord, praise the Lord!
-> <a name="135:21">135:21</a> The Lord deserves praise in Zion—
+> <a name="135:21">135:21</a> The Lord deserves praise in Zion — 
 > he who dwells in Jerusalem.
 > Praise the Lord!
 
@@ -6060,7 +6060,7 @@ For the music director; a psalm of David.
 > you shield my head in the day of battle.
 > <a name="140:8">140:8</a> O Lord, do not let the wicked have their way!
 > Do not allow their plan to succeed when they attack! (Selah)
-> <a name="140:9">140:9</a> As for the heads of those who surround me—
+> <a name="140:9">140:9</a> As for the heads of those who surround me — 
 > may the harm done by their lips overwhelm them!
 > <a name="140:10">140:10</a> May he rain down fiery coals upon them!
 > May he throw them into the fire!
@@ -6173,7 +6173,7 @@ A psalm of David.
 
 By David.
 
-> <a name="144:1">144:1</a> The Lord, my protector, deserves praise—
+> <a name="144:1">144:1</a> The Lord, my protector, deserves praise — 
 > the one who trains my hands for battle,
 > and my fingers for war,
 > <a name="144:2">144:2</a> who loves me and is my stronghold,
@@ -6367,7 +6367,7 @@ A psalm of praise, by David.
 > for his name alone is exalted;
 > his majesty extends over the earth and sky.
 > <a name="148:14">148:14</a> He has made his people victorious,
-> and given all his loyal followers reason to praise—
+> and given all his loyal followers reason to praise — 
 > the Israelites, the people who are close to him.
 > Praise the Lord!
 
