@@ -104,7 +104,7 @@
 > <a name="2:8">2:8</a> to guard the paths of the righteous
 > and to protect the way of his pious ones.
 > <a name="2:9">2:9</a> Then you will understand righteousness and justice
-> and equity—every good way.
+> and equity — every good way.
 > <a name="2:10">2:10</a> For wisdom will enter your heart,
 > and moral knowledge will be attractive to you.
 > <a name="2:11">2:11</a> Discretion will protect you,
@@ -198,7 +198,7 @@
 > <a name="3:27">3:27</a> Do not withhold good from those who need it,
 > when you have the ability to do it.
 > <a name="3:28">3:28</a> Do not say to your neighbor, “Go! Return tomorrow
-> and I will give it”—when you have it with you at the time.
+> and I will give it” — when you have it with you at the time.
 > <a name="3:29">3:29</a> Do not plot evil against your neighbor
 > when he dwells by you unsuspectingly.
 > <a name="3:30">3:30</a> Do not accuse anyone without legitimate cause,
@@ -231,7 +231,7 @@
 > do not forget and do not turn aside from the words I speak.
 > <a name="4:6">4:6</a> Do not forsake her, and she will protect you;
 > love her, and she will guard you.
-> <a name="4:7">4:7</a> Wisdom is supreme—so acquire wisdom,
+> <a name="4:7">4:7</a> Wisdom is supreme — so acquire wisdom,
 > and whatever you acquire, acquire understanding!
 > <a name="4:8">4:8</a> Esteem her highly and she will exalt you;
 > she will honor you if you embrace her.
@@ -313,7 +313,7 @@
 > <a name="5:17">5:17</a> Let them be for yourself alone,
 > and not for strangers with you.
 > <a name="5:18">5:18</a> May your fountain be blessed,
-> and may you rejoice in your young wife—
+> and may you rejoice in your young wife — 
 > <a name="5:19">5:19</a> a loving doe, a graceful deer;
 > may her breasts satisfy you at all times,
 > may you be captivated by her love always.
@@ -432,7 +432,7 @@
 > <a name="7:10">7:10</a> All of a sudden a woman came out to meet him!
 > She was dressed like a prostitute and with secret intent.
 > <a name="7:11">7:11</a> (She is loud and rebellious,
-> she does not remain at home—
+> she does not remain at home — 
 > <a name="7:12">7:12</a> at one time outside, at another in the wide plazas,
 > and by every corner she lies in wait.)
 > <a name="7:13">7:13</a> So she grabbed him and kissed him,
@@ -456,7 +456,7 @@
 > <a name="7:22">7:22</a> Suddenly he went after her
 > like an ox that goes to the slaughter,
 > like a stag prancing into a trapper’s snare
-> <a name="7:23">7:23</a> till an arrow pierces his liver—
+> <a name="7:23">7:23</a> till an arrow pierces his liver — 
 > like a bird hurrying into a trap,
 > and he does not know that it will cost him his life.
 > <a name="7:24">7:24</a> So now, sons, listen to me,
@@ -715,7 +715,7 @@
 > <a name="11:26">11:26</a> People will curse the one who withholds grain,
 > but they will praise the one who sells it.
 > <a name="11:27">11:27</a> The one who diligently seeks good seeks favor,
-> but the one who searches for evil—it will come to him.
+> but the one who searches for evil — it will come to him.
 > <a name="11:28">11:28</a> The one who trusts in his riches will fall,
 > but the righteous will flourish like a green leaf.
 > <a name="11:29">11:29</a> The one who troubles his family will inherit nothing,
@@ -932,7 +932,7 @@
 > but he loves those who pursue righteousness.
 > <a name="15:10">15:10</a> Severe discipline is for the one who abandons the way;
 > the one who hates reproof will die.
-> <a name="15:11">15:11</a> Death and Destruction are before the Lord—
+> <a name="15:11">15:11</a> Death and Destruction are before the Lord — 
 > how much more the hearts of humans!
 > <a name="15:12">15:12</a> The scorner does not love one who corrects him;
 > he will not go to the wise.
@@ -957,7 +957,7 @@
 > <a name="15:22">15:22</a> Plans fail when there is no counsel,
 > but with abundant advisers they are established.
 > <a name="15:23">15:23</a> A person has joy in giving a proper answer,
-> and a word at the right time—how good it is!
+> and a word at the right time — how good it is!
 > <a name="15:24">15:24</a> The path of life is upward for the wise person,
 > to keep him from going downward to Sheol.
 > <a name="15:25">15:25</a> The Lord tears down the house of the proud,
@@ -987,7 +987,7 @@
 > but the Lord weighs the motives.
 > <a name="16:3">16:3</a> Commit your works to the Lord,
 > and your plans will be established.
-> <a name="16:4">16:4</a> The Lord works everything for its own ends—
+> <a name="16:4">16:4</a> The Lord works everything for its own ends — 
 > even the wicked for the day of disaster.
 > <a name="16:5">16:5</a> The Lord abhors every arrogant person;
 > one can be sure that they will not go unpunished.
@@ -1078,7 +1078,7 @@
 > evil will not leave his house.
 > <a name="17:14">17:14</a> Starting a quarrel is like letting out water;
 > stop it before strife breaks out!
-> <a name="17:15">17:15</a> The one who acquits the guilty and condemns the innocent—
+> <a name="17:15">17:15</a> The one who acquits the guilty and condemns the innocent — 
 > both of them are an abomination to the Lord.
 > <a name="17:16">17:16</a> Of what use is money in the hand of a fool,
 > since he has no intention of acquiring wisdom?
@@ -1133,9 +1133,9 @@
 > and it is like a high wall in his imagination.
 > <a name="18:12">18:12</a> Before destruction the heart of a person is proud,
 > but humility comes before honor.
-> <a name="18:13">18:13</a> The one who gives an answer before he listens—
+> <a name="18:13">18:13</a> The one who gives an answer before he listens — 
 > that is his folly and his shame.
-> <a name="18:14">18:14</a> A person’s spirit sustains him in sickness—
+> <a name="18:14">18:14</a> A person’s spirit sustains him in sickness — 
 > but who can bear a crushed spirit?
 > <a name="18:15">18:15</a> The discerning person acquires knowledge,
 > and the wise person seeks knowledge.
@@ -1173,7 +1173,7 @@
 > <a name="19:6">19:6</a> Many people entreat the favor of a generous person,
 > and everyone is the friend of the one who gives gifts.
 > <a name="19:7">19:7</a> All the relatives of a poor person hate him;
-> how much more do his friends go far from him—
+> how much more do his friends go far from him — 
 > he pursues them with words, but they do not respond.
 > <a name="19:8">19:8</a> The one who acquires wisdom loves himself;
 > the one who preserves understanding will prosper.
@@ -1233,18 +1233,18 @@
 > <a name="20:5">20:5</a> Counsel in a person’s heart is like deep water,
 > but an understanding person draws it out.
 > <a name="20:6">20:6</a> Many people profess their loyalty,
-> but a faithful person—who can find?
+> but a faithful person — who can find?
 > <a name="20:7">20:7</a> The righteous person behaves in integrity;
 > blessed are his children after him.
 > <a name="20:8">20:8</a> A king sitting on the throne to judge
 > separates out all evil with his eyes.
 > <a name="20:9">20:9</a> Who can say, “I have kept my heart clean;
 > I am pure from my sin”?
-> <a name="20:10">20:10</a> Diverse weights and diverse measures—
+> <a name="20:10">20:10</a> Diverse weights and diverse measures — 
 > the Lord abhors both of them.
 > <a name="20:11">20:11</a> Even a young man is known by his actions,
 > whether his activity is pure and whether it is right.
-> <a name="20:12">20:12</a> The ear that hears and the eye that sees—
+> <a name="20:12">20:12</a> The ear that hears and the eye that sees — 
 > the Lord has made them both.
 > <a name="20:13">20:13</a> Do not love sleep, lest you become impoverished;
 > open your eyes so that you might be satisfied with food.
@@ -1268,7 +1268,7 @@
 > Wait for the Lord, so that he may vindicate you.
 > <a name="20:23">20:23</a> The Lord abhors differing weights,
 > and dishonest scales are wicked.
-> <a name="20:24">20:24</a> The steps of a person are ordained by the Lord—
+> <a name="20:24">20:24</a> The steps of a person are ordained by the Lord — 
 > so how can anyone understand his own way?
 > <a name="20:25">20:25</a> It is a snare for a person to rashly cry, “Holy!”
 > and only afterward to consider what he has vowed.
@@ -1291,7 +1291,7 @@
 > but the Lord evaluates the motivations.
 > <a name="21:3">21:3</a> To do righteousness and justice
 > is more acceptable to the Lord than sacrifice.
-> <a name="21:4">21:4</a> Haughty eyes and a proud heart—
+> <a name="21:4">21:4</a> Haughty eyes and a proud heart — 
 > the agricultural product of the wicked is sin.
 > <a name="21:5">21:5</a> The plans of the diligent lead only to plenty,
 > but everyone who is hasty comes only to poverty.
@@ -1371,7 +1371,7 @@
 > <a name="22:10">22:10</a> Drive out the scorner and contention will leave;
 > strife and insults will cease.
 > <a name="22:11">22:11</a> The one who loves a pure heart
-> and whose speech is gracious—the king will be his friend.
+> and whose speech is gracious — the king will be his friend.
 > <a name="22:12">22:12</a> The eyes of the Lord guard knowledge,
 > but he overthrows the words of the faithless person.
 > <a name="22:13">22:13</a> The sluggard says, “There is a lion outside!
@@ -1381,7 +1381,7 @@
 > <a name="22:15">22:15</a> Folly is bound up in the heart of a child,
 > but the rod of discipline will drive it far from him.
 > <a name="22:16">22:16</a> The one who oppresses the poor to gain his own increase
-> and the one who gives to the rich—both end up only in poverty.
+> and the one who gives to the rich — both end up only in poverty.
 
 ### The Sayings of the Wise
 
@@ -1390,7 +1390,7 @@
 > <a name="22:18">22:18</a> For it is pleasing if you keep these sayings within you,
 > and they are ready on your lips.
 > <a name="22:19">22:19</a> So that your confidence may be in the Lord,
-> I make them known to you today—even you.
+> I make them known to you today — even you.
 > <a name="22:20">22:20</a> Have I not written thirty sayings for you,
 > sayings of counsel and knowledge,
 > <a name="22:21">22:21</a> to show you true and reliable words,
@@ -1461,7 +1461,7 @@
 > and drowsiness clothes them with rags.
 > <a name="23:22">23:22</a> Listen to your father who begot you,
 > and do not despise your mother when she is old.
-> <a name="23:23">23:23</a> Acquire truth and do not sell it—
+> <a name="23:23">23:23</a> Acquire truth and do not sell it — 
 > wisdom, and discipline, and understanding.
 > <a name="23:24">23:24</a> The father of a righteous person will rejoice greatly;
 > whoever fathers a wise child will have joy in him.
@@ -1689,7 +1689,7 @@
 > <a name="26:26">26:26</a> Though his hatred may be concealed by deceit,
 > his evil will be uncovered in the assembly.
 > <a name="26:27">26:27</a> The one who digs a pit will fall into it;
-> the one who rolls a stone—it will come back on him.
+> the one who rolls a stone — it will come back on him.
 > <a name="26:28">26:28</a> A lying tongue hates those crushed by it,
 > and a flattering mouth works ruin.
 
@@ -1884,7 +1884,7 @@
 > Who has gathered up the winds in his fists?
 > Who has bound up the waters in his cloak?
 > Who has established all the ends of the earth?
-> What is his name, and what is the name of his son? —if you know!
+> What is his name, and what is the name of his son? — if you know!
 > <a name="30:5">30:5</a> Every word of God is purified;
 > he is like a shield for those who take refuge in him.
 > <a name="30:6">30:6</a> Do not add to his words,
@@ -1913,12 +1913,12 @@
 > <a name="30:15">30:15</a> The leech has two daughters:
 > “Give! Give!”
 > There are three things that are never satisfied,
-> four that never say, “Enough”—
+> four that never say, “Enough” — 
 > <a name="30:16">30:16</a> the grave, the barren womb,
 > land that is not satisfied with water,
 > and fire that never says, “Enough!”
 > <a name="30:17">30:17</a> The eye that mocks at a father
-> and despises obeying a mother—
+> and despises obeying a mother — 
 > the ravens of the valley will peck it out
 > and the young vultures will eat it.
 > <a name="30:18">30:18</a> There are three things that are too wonderful for me,
@@ -1982,7 +1982,9 @@
 > for the legal rights of all the dying.
 > <a name="31:9">31:9</a> Open your mouth, judge in righteousness,
 > and plead the cause of the poor and needy.
-> The Wife of Noble Character
+
+### The Wife of Noble Character
+
 > <a name="31:10">31:10</a> Who can find a wife of noble character?
 > For her value is far more than rubies.
 > <a name="31:11">31:11</a> The heart of her husband has confidence in her,
