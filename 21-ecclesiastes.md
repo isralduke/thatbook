@@ -31,14 +31,16 @@
 > <a name="1:11">1:11</a> No one remembers the former events,
 > nor will anyone remember the events that are yet to happen;
 > they will not be remembered by the future generations.
-> Futility of Secular Accomplishment
+
+### Futility of Secular Accomplishment
+
 > <a name="1:12">1:12</a> I, the Teacher, have been king over Israel in Jerusalem.
 > <a name="1:13">1:13</a> I decided to carefully and thoroughly examine
 > all that has been accomplished on earth.
 > I concluded: God has given people a burdensome task
 > that keeps them occupied.
 > <a name="1:14">1:14</a> I reflected on everything that is accomplished by man on earth,
-> and I concluded: Everything he has accomplished is futile—like chasing the wind!
+> and I concluded: Everything he has accomplished is futile — like chasing the wind!
 > <a name="1:15">1:15</a> What is bent cannot be straightened,
 > and what is missing cannot be supplied.
 
@@ -61,8 +63,8 @@
 > But I found that it also is futile.
 > <a name="2:2">2:2</a> I said of partying, “It is folly,”
 > and of self-indulgent pleasure, “It accomplishes nothing!”
-> <a name="2:3">2:3</a> I thought deeply about the effects of indulging myself with wine—
-> the whole time my mind was guiding me with wisdom—
+> <a name="2:3">2:3</a> I thought deeply about the effects of indulging myself with wine — 
+> the whole time my mind was guiding me with wisdom — 
 > and the effects of behaving foolishly,
 > so that I might discover what is profitable
 > for people to do on earth during the few days of their lives.
@@ -78,12 +80,12 @@
 > to irrigate my grove of flourishing trees.
 > <a name="2:7">2:7</a> I purchased male and female slaves,
 > and I owned slaves who were born in my house;
-> I also possessed more livestock—both herds and flocks—
+> I also possessed more livestock — both herds and flocks — 
 > than any of my predecessors in Jerusalem.
 > <a name="2:8">2:8</a> I also amassed silver and gold for myself,
 > as well as valuable treasures taken from kingdoms and provinces.
 > I acquired male singers and female singers for myself,
-> as well as what gives man sensual delight—a harem of beautiful concubines.
+> as well as what gives man sensual delight — a harem of beautiful concubines.
 > <a name="2:9">2:9</a> So I was more wealthy than all my predecessors in Jerusalem,
 > yet I maintained my objectivity:
 > <a name="2:10">2:10</a> I did not hold myself back from getting whatever I wanted,
@@ -92,7 +94,7 @@
 > this was my reward for all my effort.
 > <a name="2:11">2:11</a> Yet when I reflected on everything I had accomplished
 > and on all the effort that I had expended to accomplish it,
-> I concluded: “All these achievements and possessions are ultimately profitless—
+> I concluded: “All these achievements and possessions are ultimately profitless — 
 > like chasing the wind!
 > There is nothing gained from them on earth.”
 
@@ -110,9 +112,9 @@
 > “The benefits of wisdom are ultimately meaningless!”
 > <a name="2:16">2:16</a> For the wise man, like the fool, will not be remembered for very long,
 > because in the days to come, both will already have been forgotten.
-> Alas, the wise man dies—just like the fool!
+> Alas, the wise man dies — just like the fool!
 > <a name="2:17">2:17</a> So I loathed life because what happens on earth seems awful to me;
-> for all the benefits of wisdom are futile—like chasing the wind.
+> for all the benefits of wisdom are futile — like chasing the wind.
 
 ### Futility of Being A Workaholic
 
@@ -144,9 +146,9 @@
 > <a name="2:25">2:25</a> For no one can eat and drink
 > or experience joy apart from him.
 > <a name="2:26">2:26</a> For to the one who pleases him, God gives wisdom, knowledge, and joy,
-> but to the sinner, he gives the task of amassing wealth—
+> but to the sinner, he gives the task of amassing wealth — 
 > only to give it to the one who pleases God.
-> This task of the wicked is futile—like chasing the wind!
+> This task of the wicked is futile — like chasing the wind!
 
 ## Chapter 3
 
@@ -168,7 +170,9 @@
 > a time to keep silent, and a time to speak.
 > <a name="3:8">3:8</a> A time to love, and a time to hate;
 > a time for war, and a time for peace.
-> Man is Ignorant of God’s Timing
+
+### Man is Ignorant of God’s Timing
+
 > <a name="3:9">3:9</a> What benefit can a worker gain from his toil?
 > <a name="3:10">3:10</a> I have observed the burden
 > that God has given to people to keep them occupied.
@@ -232,7 +236,7 @@
 
 > <a name="4:4">4:4</a> Then I considered all the skillful work that is done:
 > Surely it is nothing more than competition between one man and another.
-> This also is profitless—like chasing the wind.
+> This also is profitless — like chasing the wind.
 > <a name="4:5">4:5</a> The fool folds his hands and does no work,
 > so he has nothing to eat but his own flesh.
 > <a name="4:6">4:6</a> Better is one handful with some rest
@@ -314,7 +318,7 @@
 > This also is futile.
 > <a name="5:11">5:11</a> When someone’s prosperity increases, those who consume it also increase;
 > so what does its owner gain, except that he gets to see it with his eyes?
-> <a name="5:12">5:12</a> The sleep of the laborer is pleasant—whether he eats little or much—
+> <a name="5:12">5:12</a> The sleep of the laborer is pleasant — whether he eats little or much — 
 > but the wealth of the rich will not allow him to sleep.
 
 ### Materialism Thwarts Enjoyment of Life
@@ -352,26 +356,26 @@
 > and it weighs heavily on people:
 > <a name="6:2">6:2</a> God gives a man riches, property, and wealth
 > so that he lacks nothing that his heart desires,
-> yet God does not enable him to enjoy the fruit of his labor—
+> yet God does not enable him to enjoy the fruit of his labor — 
 > instead, someone else enjoys it!
 > This is fruitless and a grave misfortune.
-> <a name="6:3">6:3</a> Even if a man fathers a hundred children and lives many years—
-> even if he lives long, long time, but cannot enjoy his prosperity—
-> even if he were to live forever—
+> <a name="6:3">6:3</a> Even if a man fathers a hundred children and lives many years — 
+> even if he lives long, long time, but cannot enjoy his prosperity — 
+> even if he were to live forever — 
 > I would say, “A stillborn child is better off than him!”
 > <a name="6:4">6:4</a> Though the stillborn child came into the world for no reason and departed into darkness,
 > though its name is shrouded in darkness,
 > <a name="6:5">6:5</a> though it never saw the light of day nor knew anything,
-> yet it has more rest than that man—
+> yet it has more rest than that man — 
 > <a name="6:6">6:6</a> if he should live a thousand years twice, yet does not enjoy his prosperity.
 > For both of them die!
-> <a name="6:7">6:7</a> All of man’s labor is for nothing more than to fill his stomach—
+> <a name="6:7">6:7</a> All of man’s labor is for nothing more than to fill his stomach — 
 > yet his appetite is never satisfied!
 > <a name="6:8">6:8</a> So what advantage does a wise man have over a fool?
 > And what advantage does a pauper gain by knowing how to survive?
 > <a name="6:9">6:9</a> It is better to be content with what the eyes can see
 > than for one’s heart to always crave more.
-> This continual longing is futile—like chasing the wind.
+> This continual longing is futile — like chasing the wind.
 
 ### The Futile Way Life Works
 
@@ -381,8 +385,8 @@
 > because God is more powerful than he is.
 > <a name="6:11">6:11</a> The more man argues with words, the less he accomplishes.
 > How does that benefit him?
-> <a name="6:12">6:12</a> For no one knows what is best for a man during his life—
-> during the few days of his fleeting life—
+> <a name="6:12">6:12</a> For no one knows what is best for a man during his life — 
+> during the few days of his fleeting life — 
 > for they pass away like a shadow.
 > Nor can anyone tell him what the future will hold for him on earth.
 
@@ -464,7 +468,7 @@
 ### Human Wisdom is Limited
 
 > <a name="7:23">7:23</a> I have examined all this by wisdom;
-> I said, “I am determined to comprehend this”—but it was beyond my grasp.
+> I said, “I am determined to comprehend this” — but it was beyond my grasp.
 > <a name="7:24">7:24</a> Whatever has happened is beyond human understanding;
 > it is far deeper than man can fathom.
 
@@ -494,7 +498,7 @@
 > A man’s wisdom brightens his appearance, and softens his harsh countenance.
 > <a name="8:2">8:2</a> Obey the king’s command,
 > because you took an oath before God to be loyal to him.
-> <a name="8:3">8:3</a> Do not rush out of the king’s presence in haste—do not delay when the matter is unpleasant,
+> <a name="8:3">8:3</a> Do not rush out of the king’s presence in haste — do not delay when the matter is unpleasant,
 > for he can do whatever he pleases.
 > <a name="8:4">8:4</a> Surely the king’s authority is absolute;
 > no one can say to him, “What are you doing?”
@@ -519,7 +523,7 @@
 > <a name="8:11">8:11</a> When a sentence is not executed at once against a crime,
 > the human heart is encouraged to do evil.
 > <a name="8:12">8:12</a> Even though a sinner might commit a hundred crimes and still live a long time,
-> yet I know that it will go well with God-fearing people—for they stand in fear before him.
+> yet I know that it will go well with God-fearing people — for they stand in fear before him.
 > <a name="8:13">8:13</a> But it will not go well with the wicked,
 > nor will they prolong their days like a shadow,
 > because they do not stand in fear before God.
@@ -538,8 +542,8 @@
 ### Limitations of Human Wisdom
 
 > <a name="8:16">8:16</a> When I tried to gain wisdom
-> and to observe the activity on earth—
-> even though it prevents anyone from sleeping day or night—
+> and to observe the activity on earth — 
+> even though it prevents anyone from sleeping day or night — 
 > <a name="8:17">8:17</a> then I discerned all that God has done:
 > No one really comprehends what happens on earth.
 > Despite all human efforts to discover it, no one can ever grasp it.
@@ -552,9 +556,9 @@
 
 > <a name="9:1">9:1</a> So I reflected on all this, attempting to clear it all up.
 > I concluded that the righteous and the wise, as well as their works, are in the hand of God;
-> whether he will be loved or hated—
+> whether he will be loved or hated — 
 > no one knows what lies ahead.
-> <a name="9:2">9:2</a> Everyone shares the same fate—
+> <a name="9:2">9:2</a> Everyone shares the same fate — 
 > the righteous and the wicked,
 > the good and the bad,
 > the ceremonially clean and unclean,
@@ -564,14 +568,14 @@
 > <a name="9:3">9:3</a> This is the unfortunate fact about everything that happens on earth:
 > the same fate awaits everyone.
 > In addition to this, the hearts of all people are full of evil,
-> and there is folly in their hearts during their lives—then they die.
+> and there is folly in their hearts during their lives — then they die.
 
 ### Better to Be Poor but Alive than Rich but Dead
 
 > <a name="9:4">9:4</a> But whoever is among the living has hope;
 > a live dog is better than a dead lion.
 > <a name="9:5">9:5</a> For the living know that they will die, but the dead do not know anything;
-> they have no further reward—and even the memory of them disappears.
+> they have no further reward — and even the memory of them disappears.
 > <a name="9:6">9:6</a> What they loved, as well as what they hated and envied, perished long ago,
 > and they no longer have a part in anything that happens on earth.
 
@@ -597,10 +601,10 @@
 > the battle is not always won by the strongest;
 > prosperity does not always belong to those who are the wisest,
 > wealth does not always belong to those who are the most discerning,
-> nor does success always come to those with the most knowledge—
+> nor does success always come to those with the most knowledge — 
 > for time and chance may overcome them all.
 > <a name="9:12">9:12</a> Surely, no one knows his appointed time!
-> Like fish that are caught in a deadly net, and like birds that are caught in a snare—
+> Like fish that are caught in a deadly net, and like birds that are caught in a snare — 
 > just like them, all people are ensnared at an unfortunate time that falls upon them suddenly.
 
 ### Most People Are Not Receptive to Wise Counsel
@@ -648,7 +652,7 @@
 > and one who breaks through a wall may be bitten by a snake.
 > <a name="10:9">10:9</a> One who quarries stones may be injured by them;
 > one who splits logs may be endangered by them.
-> <a name="10:10">10:10</a> If an iron axhead is blunt and a workman does not sharpen its edge,
+> <a name="10:10">10:10</a> If an iron ax head is blunt and a workman does not sharpen its edge,
 > he must exert a great deal of effort;
 > so wisdom has the advantage of giving success.
 > <a name="10:11">10:11</a> If the snake should bite before it is charmed,
@@ -671,7 +675,7 @@
 > <a name="10:16">10:16</a> Woe to you, O land, when your king is childish,
 > and your princes feast in the morning!
 > <a name="10:17">10:17</a> Blessed are you, O land, when your king is the son of nobility,
-> and your princes feast at the proper time—with self-control and not in drunkenness.
+> and your princes feast at the proper time — with self-control and not in drunkenness.
 > <a name="10:18">10:18</a> Because of laziness the roof caves in,
 > and because of idle hands the house leaks.
 > <a name="10:19">10:19</a> Feasts are made for laughter,
@@ -699,7 +703,7 @@
 > so you do not know the work of God who makes everything.
 > <a name="11:6">11:6</a> Sow your seed in the morning,
 > and do not stop working until the evening;
-> for you do not know which activity will succeed—
+> for you do not know which activity will succeed — 
 > whether this one or that one, or whether both will prosper equally.
 
 ### Life Should Be Savored Because Death is Imminent
@@ -707,7 +711,7 @@
 > <a name="11:7">11:7</a> Light is sweet,
 > and it is pleasant for a person to see the sun.
 > <a name="11:8">11:8</a> So, if a man lives many years, let him rejoice in them all,
-> but let him remember that the days of darkness will be many—all that is about to come is obscure.
+> but let him remember that the days of darkness will be many — all that is about to come is obscure.
 
 ### Enjoy Life to the Fullest under the Fear of God
 
@@ -723,7 +727,7 @@
 
 ### Fear God Now Because Old Age and Death Come Quickly
 
-> <a name="12:1">12:1</a> So remember your Creator in the days of your youth—
+> <a name="12:1">12:1</a> So remember your Creator in the days of your youth — 
 > before the difficult days come,
 > and the years draw near when you will say, “I have no pleasure in them”;
 > <a name="12:2">12:2</a> before the sun and the light of the moon and the stars grow dark,
@@ -739,13 +743,13 @@
 > <a name="12:5">12:5</a> and they are afraid of heights and the dangers in the street;
 > the almond blossoms grow white,
 > and the grasshopper drags itself along,
-> and the caper berry shrivels up—
+> and the caper berry shrivels up — 
 > because man goes to his eternal home,
-> and the mourners go about in the streets—
+> and the mourners go about in the streets — 
 > <a name="12:6">12:6</a> before the silver cord is removed,
 > or the golden bowl is broken,
 > or the pitcher is shattered at the well,
-> or the water wheel is broken at the cistern—
+> or the water wheel is broken at the cistern — 
 > <a name="12:7">12:7</a> and the dust returns to the earth as it was,
 > and the life’s breath returns to God who gave it.
 
