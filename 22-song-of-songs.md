@@ -8,13 +8,13 @@
 
 #### The Beloved to Her Lover:
 
-> <a name="1:2">1:2</a> Oh, how I wish youwould kiss me passionately!
-> For your lovemaking is more delightfulthan wine.
+> <a name="1:2">1:2</a> Oh, how I wish you would kiss me passionately!
+> For your lovemaking is more delightful than wine.
 > <a name="1:3">1:3</a> The fragrance of your colognes is delightful;
 > your name is like the finest perfume.
 > No wonder the young women adore you!
 > <a name="1:4">1:4</a> Draw me after you; let us hurry!
-> May the kingbring me into his bedroom chambers!
+> May the king bring me into his bedroom chambers!
 
 #### The Maidens to the Lover:
 
@@ -37,7 +37,8 @@
 > My brothers were angry with me;
 > they made me the keeper of the vineyards.
 > Alas, my own “vineyard” I could not keep!
-> The Shepherd and the Shepherdess
+
+### The Shepherd and the Shepherdess
 
 #### The Beloved to Her Lover:
 
@@ -74,7 +75,7 @@
 > <a name="1:14">1:14</a> My beloved is like a cluster of henna blossoms
 > in the vineyards of En-Gedi.
 
-#### Mutual Praise and Admiration
+### Mutual Praise and Admiration
 
 #### The Lover to His Beloved:
 
@@ -90,8 +91,6 @@
 > <a name="1:17">1:17</a> the cedars are the beams of our bedroom chamber;
 > the pines are the rafters of our bedroom.
 > The Lily among the Thorns and the Apple Tree in the Forest
-
-#### The Beloved to Her Lover:
 
 ## Chapter 2
 
@@ -110,7 +109,7 @@
 > I delight to sit in his shade,
 > and his fruit is sweet to my taste.
 
-#### The Banquet Hall for the Love-Sick
+### The Banquet Hall for the Love-Sick
 
 #### The Beloved about Her Lover:
 
@@ -120,7 +119,7 @@
 > refresh me with apples,
 > for I am faint with love.
 
-##### The Double Refrain: Embracing and Adjuration
+### The Double Refrain: Embracing and Adjuration
 
 > <a name="2:6">2:6</a> His left hand caresses my head,
 > and his right hand stimulates me.
@@ -131,7 +130,7 @@
 > by the gazelles and by the young does of the open fields:
 > Do not awaken or arouse love until it pleases!
 
-#### The Arrival of the Lover
+### The Arrival of the Lover
 
 #### The Beloved about Her Lover:
 
@@ -144,7 +143,7 @@
 > gazing through the window,
 > peering through the lattice.
 
-#### The Season of Love and the Song of the Turtle-Dove
+### The Season of Love and the Song of the Turtle-Dove
 
 #### The Lover to His Beloved:
 
@@ -161,7 +160,7 @@
 > Arise, come away my darling;
 > my beautiful one, come away with me!”
 
-#### The Dove in the Clefts of En-Gedi
+### The Dove in the Clefts of En-Gedi
 
 #### The Lover to His Beloved:
 
@@ -172,28 +171,28 @@
 > for your voice is sweet,
 > and your face is lovely.
 
-#### The Foxes in the Vineyard
+### The Foxes in the Vineyard
 
 #### The Beloved to Her Lover:
 
 > <a name="2:15">2:15</a> Catch the foxes for us,
 > the little foxes,
-> that ruin the vineyards—
+> that ruin the vineyards — 
 > for our vineyard is in bloom.
 
-#### Poetic Refrain: Mutual Possession
+### Poetic Refrain: Mutual Possession
 
 #### The Beloved about Her Lover:
 
 > <a name="2:16">2:16</a> My lover is mine and I am his;
 > he grazes among the lilies.
 
-#### The Gazelle and the Ravenous Mountains
+### The Gazelle and the Ravenous Mountains
 
 #### The Beloved to Her Lover:
 
 > <a name="2:17">2:17</a> Until the dawn arrives and the shadows flee,
-> turn, my beloved—
+> turn, my beloved — 
 > be like a gazelle or a young stag
 > on the mountain gorges.
 
@@ -210,7 +209,7 @@
 > and throughout the streets and squares;
 > I will search for my beloved.”
 > I searched for him but I did not find him.
-> <a name="3:3">3:3</a> The night watchmen found me—the ones who guard the city walls.
+> <a name="3:3">3:3</a> The night watchmen found me — the ones who guard the city walls.
 > “Have you seen my beloved?”
 > <a name="3:4">3:4</a> Scarcely had I passed them by
 > when I found my beloved!
@@ -218,7 +217,7 @@
 > until I brought him to my mother’s house,
 > to the bedroom chamber of the one who conceived me.
 
-##### The Adjuration Refrain
+### The Adjuration Refrain
 
 #### The Beloved to the Maidens:
 
@@ -274,7 +273,7 @@
 > is like a slice of pomegranate.
 > <a name="4:4">4:4</a> Your neck is like the tower of David
 > built with courses of stones;
-> one thousand shields are hung on it—
+> one thousand shields are hung on it — 
 > all shields of valiant warriors.
 > <a name="4:5">4:5</a> Your two breasts are like two fawns,
 > twins of the gazelle
@@ -356,12 +355,12 @@
 
 #### The Beloved to Her Lover:
 
-> <a name="5:3">5:3</a> “I have already taken off my robe—must I put it on again?
-> I have already washed my feet—must I soil them again?”
+> <a name="5:3">5:3</a> “I have already taken off my robe — must I put it on again?
+> I have already washed my feet — must I soil them again?”
 > <a name="5:4">5:4</a> My lover thrust his hand through the hole,
 > and my feelings were stirred for him.
 > <a name="5:5">5:5</a> I arose to open for my beloved;
-> my hands dripped with myrrh—
+> my hands dripped with myrrh — 
 > my fingers flowed with myrrh
 > on the handles of the lock.
 > <a name="5:6">5:6</a> I opened for my beloved,
@@ -372,11 +371,12 @@
 > <a name="5:7">5:7</a> The watchmen found me as they made their rounds in the city.
 > They beat me, they bruised me;
 > they took away my cloak, those watchmen on the walls!
-> The Triumph of Love: The Beloved Praises Her Lover
+
+### The Triumph of Love: The Beloved Praises Her Lover
 
 #### The Beloved to the Maidens:
 
-> <a name="5:8">5:8</a> O maidens of Jerusalem, I command you—
+> <a name="5:8">5:8</a> O maidens of Jerusalem, I command you — 
 > If you find my beloved, what will you tell him?
 > Tell him that I am lovesick!
 
@@ -392,7 +392,7 @@
 > <a name="5:10">5:10</a> My beloved is dazzling and ruddy;
 > he stands out in comparison to all other men.
 > <a name="5:11">5:11</a> His head is like the most pure gold.
-> His hair is curly—black like a raven.
+> His hair is curly — black like a raven.
 > <a name="5:12">5:12</a> His eyes are like doves by streams of water,
 > washed in milk, mounted like jewels.
 > <a name="5:13">5:13</a> His cheeks are like garden beds full of balsam trees yielding perfume.
@@ -424,7 +424,7 @@
 > to graze in the gardens,
 > and to gather lilies.
 
-##### Poetic Refrain: Mutual Possession
+### Poetic Refrain: Mutual Possession
 
 #### The Beloved about Her Lover:
 
@@ -438,7 +438,7 @@
 > <a name="6:4">6:4</a> My darling, you are as beautiful as Tirzah,
 > as lovely as Jerusalem,
 > as awe-inspiring as bannered armies!
-> <a name="6:5">6:5</a> Turn your eyes away from me—
+> <a name="6:5">6:5</a> Turn your eyes away from me — 
 > they overwhelm me!
 > Your hair is like a flock of goats
 > descending from Mount Gilead.
@@ -493,7 +493,7 @@
 > O nobleman’s daughter!
 > The curves of your thighs are like jewels,
 > the work of the hands of a master craftsman.
-> <a name="7:2">7:2</a> Your “navel” is a round mixing bowl—
+> <a name="7:2">7:2</a> Your “navel” is a round mixing bowl — 
 > may it never lack mixed wine!
 > Your belly is a mound of wheat,
 > encircled by lilies.
@@ -505,7 +505,7 @@
 > Your nose is like the tower of Lebanon
 > overlooking Damascus.
 > <a name="7:5">7:5</a> Your head crowns you like Mount Carmel.
-> The locks of your hair are like royal tapestries—
+> The locks of your hair are like royal tapestries — 
 > the king is held captive in its tresses!
 > <a name="7:6">7:6</a> How beautiful you are! How lovely,
 > O love, with your delights!
@@ -524,7 +524,7 @@
 > flowing smoothly for my beloved,
 > gliding gently over our lips as we sleep together.
 
-##### Poetic Refrain: Mutual Possession
+### Poetic Refrain: Mutual Possession
 
 #### The Beloved about Her Lover:
 
@@ -540,7 +540,7 @@
 > <a name="7:12">7:12</a> Let us rise early to go to the vineyards,
 > to see if the vines have budded,
 > to see if their blossoms have opened,
-> if the pomegranates are in bloom—
+> if the pomegranates are in bloom — 
 > there I will give you my love.
 > <a name="7:13">7:13</a> The mandrakes send out their fragrance;
 > over our door is every delicacy,
@@ -554,14 +554,14 @@
 
 > <a name="8:1">8:1</a> Oh, how I wish you were my little brother,
 > nursing at my mother’s breasts;
-> if I saw you outside, I could kiss you—
+> if I saw you outside, I could kiss you — 
 > surely no one would despise me!
 > <a name="8:2">8:2</a> I would lead you and bring you to my mother’s house,
 > the one who taught me.
 > I would give you spiced wine to drink,
 > the nectar of my pomegranates.
 
-##### Double Refrain: Embracing and Adjuration
+### Double Refrain: Embracing and Adjuration
 
 #### The Beloved about Her Lover:
 
