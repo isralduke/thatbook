@@ -55,7 +55,7 @@
 > The blood of bulls, lambs, and goats
 > I do not want.
 > <a name="1:12">1:12</a> When you enter my presence,
-> do you actually think I want this—
+> do you actually think I want this — 
 > animals trampling on my courtyards?
 > <a name="1:13">1:13</a> Do not bring any more meaningless offerings;
 > I consider your incense detestable.
@@ -184,7 +184,7 @@
 > in that day.
 > <a name="2:12">2:12</a> Indeed, the Lord who leads armies has planned a day of judgment,
 > for all the high and mighty,
-> for all who are proud—they will be humiliated;
+> for all who are proud — they will be humiliated;
 > <a name="2:13">2:13</a> for all the cedars of Lebanon,
 > that are so high and mighty,
 > for all the oaks of Bashan;
@@ -241,7 +241,7 @@
 > and riffraff will challenge those who were once respected.
 > <a name="3:6">3:6</a> Indeed, a man will grab his brother
 > right in his family’s house and say,
-> ‘You own a coat—
+> ‘You own a coat — 
 > you be our leader!
 > This heap of ruins will be under your control.’
 > <a name="3:7">3:7</a> At that time the brother will shout,
@@ -273,7 +273,9 @@
 > <a name="3:15">3:15</a> Why do you crush my people
 > and grind the faces of the poor?”
 > The sovereign Lord who leads armies has spoken.
-> Washing Away Impurity
+
+### Washing Away Impurity
+
 > <a name="3:16">3:16</a> The Lord says,
 > “The women of Zion are proud.
 > They walk with their heads high
@@ -301,7 +303,7 @@
 > one man at that time.
 > They will say, “We will provide our own food,
 > we will provide our own clothes;
-> but let us belong to you—
+> but let us belong to you — 
 > take away our shame!”
 
 ### The Branch of the Lord
@@ -330,7 +332,7 @@
 
 ### A Love Song Gone Sour
 
-> <a name="5:1">5:1</a> I will sing to my love—
+> <a name="5:1">5:1</a> I will sing to my love — 
 > a song to my lover about his vineyard.
 > My love had a vineyard
 > on a fertile hill.
@@ -358,8 +360,8 @@
 > not to drop any rain on it.
 > <a name="5:7">5:7</a> Indeed Israel is the vineyard of the Lord who leads armies,
 > the people of Judah the cultivated place in which he took delight.
-> He waited for justice, but look what he got—disobedience!
-> He waited for fairness, but look what he got—cries for help!
+> He waited for justice, but look what he got — disobedience!
+> He waited for fairness, but look what he got — cries for help!
 
 ### Disaster is Coming
 
@@ -461,8 +463,7 @@
 > and the land is ruined and devastated,
 > <a name="6:12">6:12</a> and the Lord has sent the people off to a distant place,
 > and the very heart of the land is completely abandoned.
-
-<a name="6:13">6:13</a> Even if only a tenth of the people remain in the land, it will again be destroyed, like one of the large sacred trees or an Asherah pole, when a sacred pillar on a high place is thrown down. That sacred pillar symbolizes the special chosen family.”
+> <a name="6:13">6:13</a> Even if only a tenth of the people remain in the land, it will again be destroyed, like one of the large sacred trees or an Asherah pole, when a sacred pillar on a high place is thrown down. That sacred pillar symbolizes the special chosen family.”
 
 ## Chapter 7
 
@@ -482,7 +483,7 @@
 > If your faith does not remain firm,
 > then you will not remain secure.”
 
-<a name="7:10">7:10</a> The Lord again spoke to Ahaz: <a name="7:11">7:11</a> “Ask for a confirming sign from the Lord your God. You can even ask for something miraculous.” <a name="7:12">7:12</a> But Ahaz responded, “I don’t want to ask; I don’t want to put the Lord to a test.” <a name="7:13">7:13</a> So Isaiah replied, “Pay attention, family of David. Do you consider it too insignificant to try the patience of men? Is that why you are also trying the patience of my God? <a name="7:14">7:14</a> For this reason the sovereign master himself will give you a confirming sign. Look, this young woman is about to conceive and will give birth to a son. You, young woman, will name him Immanuel. <a name="7:15">7:15</a> He will eat sour milk and honey, which will help him know how to reject evil and choose what is right. <a name="7:16">7:16</a> Here is why this will be so: Before the child knows how to reject evil and choose what is right, the land whose two kings you fear, will be desolate. <a name="7:17">7:17</a> The Lord will bring on you, your people, and your father’s family a time unlike any since Ephraim departed from Judah—the king of Assyria!”
+<a name="7:10">7:10</a> The Lord again spoke to Ahaz: <a name="7:11">7:11</a> “Ask for a confirming sign from the Lord your God. You can even ask for something miraculous.” <a name="7:12">7:12</a> But Ahaz responded, “I don’t want to ask; I don’t want to put the Lord to a test.” <a name="7:13">7:13</a> So Isaiah replied, “Pay attention, family of David. Do you consider it too insignificant to try the patience of men? Is that why you are also trying the patience of my God? <a name="7:14">7:14</a> For this reason the sovereign master himself will give you a confirming sign. Look, this young woman is about to conceive and will give birth to a son. You, young woman, will name him Immanuel. <a name="7:15">7:15</a> He will eat sour milk and honey, which will help him know how to reject evil and choose what is right. <a name="7:16">7:16</a> Here is why this will be so: Before the child knows how to reject evil and choose what is right, the land whose two kings you fear, will be desolate. <a name="7:17">7:17</a> The Lord will bring on you, your people, and your father’s family a time unlike any since Ephraim departed from Judah — the king of Assyria!”
 
 <a name="7:18">7:18</a> At that time the Lord will whistle for flies from the distant streams of Egypt and for bees from the land of Assyria. <a name="7:19">7:19</a> All of them will come and make their home in the ravines between the cliffs, and in the crevices of the cliffs, in all the thorn bushes, and in all the watering holes. <a name="7:20">7:20</a> At that time the sovereign master will use a razor hired from the banks of the Euphrates River, the king of Assyria, to shave the head and the pubic hair; it will also shave off the beard. <a name="7:21">7:21</a> At that time a man will keep alive a young cow from the herd and a couple of goats. <a name="7:22">7:22</a> From the abundance of milk they produce, he will have sour milk for his meals. Indeed everyone left in the heart of the land will eat sour milk and honey. <a name="7:23">7:23</a> At that time every place where there had been a thousand vines worth a thousand shekels will be overrun with thorns and briers. <a name="7:24">7:24</a> With bow and arrow men will hunt there, for the whole land will be covered with thorns and briers. <a name="7:25">7:25</a> They will stay away from all the hills that were cultivated, for fear of the thorns and briers. Cattle will graze there and sheep will trample on them.
 
@@ -492,7 +493,7 @@
 
 <a name="8:1">8:1</a> The Lord told me, “Take a large tablet and inscribe these words on it with an ordinary stylus: ‘Maher-Shalal-Hash-Baz.’ <a name="8:2">8:2</a> Then I will summon as my reliable witnesses Uriah the priest and Zechariah son of Jeberechiah.” <a name="8:3">8:3</a> I then had sexual relations with the prophetess; she conceived and gave birth to a son. The Lord told me, “Name him Maher-Shalal-Hash-Baz, <a name="8:4">8:4</a> for before the child knows how to cry out, ‘My father’ or ‘My mother,’ the wealth of Damascus and the plunder of Samaria will be carried off by the king of Assyria.”
 
-<a name="8:5">8:5</a> The Lord spoke to me again: <a name="8:6">8:6</a> “These people have rejected the gently flowing waters of Shiloah and melt in fear over Rezin and the son of Remaliah. <a name="8:7">8:7</a> So look, the sovereign master is bringing up against them the turbulent and mighty waters of the Euphrates River—the king of Assyria and all his majestic power. It will reach flood stage and overflow its banks. <a name="8:8">8:8</a> It will spill into Judah, flooding and engulfing, as it reaches the necks of its victims. He will spread his wings out over your entire land, O Immanuel.”
+<a name="8:5">8:5</a> The Lord spoke to me again: <a name="8:6">8:6</a> “These people have rejected the gently flowing waters of Shiloah and melt in fear over Rezin and the son of Remaliah. <a name="8:7">8:7</a> So look, the sovereign master is bringing up against them the turbulent and mighty waters of the Euphrates River — the king of Assyria and all his majestic power. It will reach flood stage and overflow its banks. <a name="8:8">8:8</a> It will spill into Judah, flooding and engulfing, as it reaches the necks of its victims. He will spread his wings out over your entire land, O Immanuel.”
 
 > <a name="8:9">8:9</a> You will be broken, O nations;
 > you will be shattered!
@@ -513,7 +514,7 @@
 > he is the one you must fear.
 > <a name="8:14">8:14</a> He will become a sanctuary,
 > but a stone that makes a person trip,
-> and a rock that makes one stumble—
+> and a rock that makes one stumble — 
 > to the two houses of Israel.
 > He will become a trap and a snare
 > to the residents of Jerusalem.
@@ -587,7 +588,7 @@
 > the sycamore fig trees have been cut down,
 > but we will replace them with cedars.”
 > <a name="9:11">9:11</a> Then the Lord provoked their adversaries to attack them,
-> he stirred up their enemies—
+> he stirred up their enemies — 
 > <a name="9:12">9:12</a> Syria from the east,
 > and the Philistines from the west,
 > they gobbled up Israelite territory.
@@ -712,7 +713,7 @@
 > <a name="10:31">10:31</a> Madmenah flees,
 > the residents of Gebim have hidden.
 > <a name="10:32">10:32</a> This very day, standing in Nob,
-> they shake their fist at Daughter Zion’s mountain—
+> they shake their fist at Daughter Zion’s mountain — 
 > at the hill of Jerusalem.
 > <a name="10:33">10:33</a> Look, the sovereign master, the Lord who leads armies,
 > is ready to cut off the branches with terrifying power.
@@ -727,7 +728,7 @@
 
 > <a name="11:1">11:1</a> A shoot will grow out of Jesse’s root stock,
 > a bud will sprout from his roots.
-> <a name="11:2">11:2</a> The Lord’s spirit will rest on him—
+> <a name="11:2">11:2</a> The Lord’s spirit will rest on him — 
 > a spirit that gives extraordinary wisdom,
 > a spirit that provides the ability to execute plans,
 > a spirit that produces absolute loyalty to the Lord.
@@ -815,9 +816,9 @@
 > <a name="13:3">13:3</a> I have given orders to my chosen soldiers;
 > I have summoned the warriors through whom I will vent my anger,
 > my boasting, arrogant ones.
-> <a name="13:4">13:4</a>There is a loud noise on the mountains—
+> <a name="13:4">13:4</a>There is a loud noise on the mountains — 
 > it sounds like a large army!
-> There is great commotion among the kingdoms—
+> There is great commotion among the kingdoms — 
 > nations are being assembled!
 > The Lord who leads armies is mustering
 > forces for battle.
@@ -829,7 +830,7 @@
 > it comes with all the destructive power of the sovereign judge.
 > <a name="13:7">13:7</a> For this reason all hands go numb,
 > every human heart loses its courage.
-> <a name="13:8">13:8</a> They panic—
+> <a name="13:8">13:8</a> They panic — 
 > cramps and pain seize hold of them
 > like those of a woman who is straining to give birth.
 > They look at one another in astonishment,
@@ -1063,7 +1064,7 @@
 > their great arrogance,
 > their boasting, pride, and excess.
 > But their boastful claims are empty!
-> <a name="16:7">16:7</a> So Moab wails over its demise—
+> <a name="16:7">16:7</a> So Moab wails over its demise — 
 > they all wail!
 > Completely devastated, they moan
 > about what has happened to the raisin cakes of Kir Hareseth.
@@ -1079,7 +1080,7 @@
 > over your fruit and crops.
 > <a name="16:10">16:10</a> Joy and happiness disappear from the orchards,
 > and in the vineyards no one rejoices or shouts;
-> no one squeezes out juice in the wine vats—
+> no one squeezes out juice in the wine vats — 
 > I have brought the joyful shouts to an end.
 > <a name="16:11">16:11</a> So my heart constantly sighs for Moab, like the strumming of a harp,
 > my inner being sighs for Kir Hareseth.
@@ -1111,7 +1112,7 @@
 > It will be like one gathering the ears of grain
 > in the Valley of Rephaim.
 > <a name="17:6">17:6</a> There will be some left behind,
-> like when an olive tree is beaten—
+> like when an olive tree is beaten — 
 > two or three ripe olives remain toward the very top,
 > four or five on its fruitful branches,”
 > says the Lord God of Israel.
@@ -1317,7 +1318,7 @@
 > <a name="21:14">21:14</a> Bring out some water for the thirsty.
 > You who live in the land of Tema,
 > bring some food for the fugitives.
-> <a name="21:15">21:15</a> For they flee from the swords—
+> <a name="21:15">21:15</a> For they flee from the swords — 
 > from the drawn sword
 > and from the battle-ready bow
 > and from the severity of the battle.
@@ -1335,9 +1336,9 @@
 > the town is filled with revelry.
 > Your slain were not cut down by the sword;
 > they did not die in battle.
-> <a name="22:3">22:3</a> All your leaders ran away together—
+> <a name="22:3">22:3</a> All your leaders ran away together — 
 > they fled to a distant place;
-> all your refugees were captured together—
+> all your refugees were captured together — 
 > they were captured without an arrow being shot.
 > <a name="22:4">22:4</a> So I say:
 > “Don’t look at me!
@@ -1362,7 +1363,7 @@
 > <a name="22:10">22:10</a> You counted the houses in Jerusalem,
 > and demolished houses so you could have material to reinforce the wall.
 > <a name="22:11">22:11</a> You made a reservoir between the two walls
-> for the water of the old pool—
+> for the water of the old pool — 
 > but you did not trust in the one who made it;
 > you did not depend on the one who formed it long ago!
 > <a name="22:12">22:12</a> At that time the sovereign master, the Lord who leads armies, called for weeping and mourning,
@@ -1424,7 +1425,7 @@
 > <a name="23:8">23:8</a> Who planned this for royal Tyre,
 > whose merchants are princes,
 > whose traders are the dignitaries of the earth?
-> <a name="23:9">23:9</a> The Lord who leads armies planned it—
+> <a name="23:9">23:9</a> The Lord who leads armies planned it — 
 > to dishonor the pride that comes from all her beauty,
 > to humiliate all the dignitaries of the earth.
 > <a name="23:10">23:10</a> Daughter Tarshish, travel back to your land, as one crosses the Nile;
@@ -1466,7 +1467,7 @@
 > and leave it in ruins;
 > he will mar its surface
 > and scatter its inhabitants.
-> <a name="24:2">24:2</a> Everyone will suffer—the priest as well as the people,
+> <a name="24:2">24:2</a> Everyone will suffer — the priest as well as the people,
 > the master as well as the servant,
 > the fine lady as well as the female attendant,
 > the seller as well as the buyer,
@@ -1509,7 +1510,7 @@
 > they praise the majesty of the Lord in the west.
 > <a name="24:15">24:15</a> So in the east extol the Lord,
 > along the seacoasts extol the fame of the Lord God of Israel.
-> <a name="24:16">24:16</a> From the ends of the earth we hear songs—
+> <a name="24:16">24:16</a> From the ends of the earth we hear songs — 
 > the Just One is majestic.
 > But I say, “I’m wasting away! I’m wasting away! I’m doomed!
 > Deceivers deceive, deceivers thoroughly deceive!”
@@ -1565,7 +1566,7 @@
 > Just as the shadow of a cloud causes the heat to subside,
 > so he causes the song of tyrants to cease.
 > <a name="25:6">25:6</a> The Lord who leads armies will hold a banquet for all the nations on this mountain.
-> At this banquet there will be plenty of meat and aged wine—
+> At this banquet there will be plenty of meat and aged wine — 
 > tender meat and tasty wine.
 > <a name="25:7">25:7</a> On this mountain he will swallow up
 > the shroud that is over all the peoples,
@@ -1595,7 +1596,7 @@
 > <a name="26:1">26:1</a> At that time this song will be sung in the land of Judah:
 > “We have a strong city!
 > The Lord’s deliverance, like walls and a rampart, makes it secure.
-> <a name="26:2">26:2</a> Open the gates so a righteous nation can enter—
+> <a name="26:2">26:2</a> Open the gates so a righteous nation can enter — 
 > one that remains trustworthy.
 > <a name="26:3">26:3</a> You keep completely safe the people who maintain their faith,
 > for they trust in you.
@@ -1725,7 +1726,7 @@
 > will be trampled underfoot.
 > <a name="28:4">28:4</a> The withering flower, his beautiful splendor,
 > situated at the head of a rich valley,
-> will be like an early fig before harvest—
+> will be like an early fig before harvest — 
 > as soon as someone notices it,
 > he grabs it and swallows it.
 > <a name="28:5">28:5</a> At that time the Lord who leads armies will become a beautiful crown
@@ -1733,7 +1734,7 @@
 > <a name="28:6">28:6</a> He will give discernment to the one who makes judicial decisions,
 > and strength to those who defend the city from attackers.
 > <a name="28:7">28:7</a> Even these men stagger because of wine,
-> they stumble around because of beer—
+> they stumble around because of beer — 
 > priests and prophets stagger because of beer,
 > they are confused because of wine,
 > they stumble around because of beer;
@@ -1828,7 +1829,7 @@
 
 ### Ariel is Besieged
 
-> <a name="29:1">29:1</a> Ariel is as good as dead—
+> <a name="29:1">29:1</a> Ariel is as good as dead — 
 > Ariel, the town David besieged!
 > Keep observing your annual rituals,
 > celebrate your festivals on schedule.
@@ -1858,7 +1859,9 @@
 > only to awaken and find that he is still weak and his thirst unquenched.
 > So it will be for the horde from all the nations
 > that fight against Mount Zion.
-> God’s People are Spiritually Insensitive
+
+### God’s People are Spiritually Insensitive
+
 > <a name="29:9">29:9</a> You will be shocked and amazed!
 > You are totally blind!
 > They are drunk, but not because of wine;
@@ -1876,7 +1879,7 @@
 > but they are not really loyal to me.
 > Their worship consists of
 > nothing but man-made ritual.
-> <a name="29:14">29:14</a> Therefore I will again do an amazing thing for these people—
+> <a name="29:14">29:14</a> Therefore I will again do an amazing thing for these people — 
 > an absolutely extraordinary deed.
 > Wise men will have nothing to say,
 > the sages will have no explanations.”
@@ -1899,7 +1902,7 @@
 > the poor among mankind will take delight in the sovereign king of Israel.
 > <a name="29:20">29:20</a> For tyrants will disappear,
 > those who taunt will vanish,
-> and all those who love to do wrong will be eliminated—
+> and all those who love to do wrong will be eliminated — 
 > <a name="29:21">29:21</a> those who bear false testimony against a person,
 > who entrap the one who arbitrates at the city gate
 > and deprive the innocent of justice by making false charges.
@@ -1948,7 +1951,7 @@
 > inscribe it on a scroll,
 > so that it might be saved for a future time
 > as an enduring witness.
-> <a name="30:9">30:9</a> For these are rebellious people—
+> <a name="30:9">30:9</a> For these are rebellious people — 
 > they are lying children,
 > children unwilling to obey the Lord’s law.
 > <a name="30:10">30:10</a> They say to the visionaries, “See no more visions!”
@@ -2092,7 +2095,7 @@
 > and their young men will be forced to do hard labor.
 > <a name="31:9">31:9</a> They will surrender their stronghold because of fear;
 > their officers will be afraid of the Lord’s battle flag.”
-> This is what the Lord says—
+> This is what the Lord says — 
 > the one whose fire is in Zion,
 > whose fire pot is in Jerusalem.
 
@@ -2124,7 +2127,9 @@
 > even when the needy are in the right.
 > <a name="32:8">32:8</a> An honorable man makes honorable plans;
 > his honorable character gives him security.
-> The Lord Will Give True Security
+
+### The Lord Will Give True Security
+
 > <a name="32:9">32:9</a> You complacent women,
 > get up and listen to me!
 > You carefree daughters,
@@ -2219,7 +2224,7 @@
 > the one who refuses to profit from oppressive measures
 > and rejects a bribe;
 > the one who does not plot violent crimes
-> and does not seek to harm others—
+> and does not seek to harm others — 
 > <a name="33:16">33:16</a> This is the person who will live in a secure place;
 > he will find safety in the rocky, mountain strongholds;
 > he will have food
@@ -2245,7 +2250,7 @@
 > no large ships will sail through.
 > <a name="33:22">33:22</a> For the Lord, our ruler,
 > the Lord, our commander,
-> the Lord, our king—
+> the Lord, our king — 
 > he will deliver us.
 > <a name="33:23">33:23</a> Though at this time your ropes are slack,
 > the mast is not secured,
@@ -2352,13 +2357,13 @@
 > the parched ground springs of water.
 > Where jackals once lived and sprawled out,
 > grass, reeds, and papyrus will grow.
-> <a name="35:8">35:8</a> A road will be there—
+> <a name="35:8">35:8</a> A road will be there — 
 > it will be called the Way of Holiness.
 > The unclean will not travel on it;
-> it is reserved for those authorized to use it—
+> it is reserved for those authorized to use it — 
 > fools will not stray into it.
 > <a name="35:9">35:9</a> No lions will be there,
-> no ferocious wild animals will be on it—
+> no ferocious wild animals will be on it — 
 > they will not be found there.
 > Those delivered from bondage will travel on it,
 > <a name="35:10">35:10</a> those whom the Lord has ransomed will return that way.
@@ -2377,7 +2382,7 @@
 
 <a name="36:11">36:11</a> Eliakim, Shebna, and Joah said to the chief adviser, “Speak to your servants in Aramaic, for we understand it. Don’t speak with us in the Judahite dialect in the hearing of the people who are on the wall.” <a name="36:12">36:12</a> But the chief adviser said, “My master did not send me to speak these words only to your master and to you. His message is also for the men who sit on the wall, for they will eat their own excrement and drink their own urine along with you!”
 
-<a name="36:13">36:13</a> The chief adviser then stood there and called out loudly in the Judahite dialect, “Listen to the message of the great king, the king of Assyria. <a name="36:14">36:14</a> This is what the king says: ‘Don’t let Hezekiah mislead you, for he is not able to rescue you! <a name="36:15">36:15</a> Don’t let Hezekiah talk you into trusting in the Lord by saying, “The Lord will certainly rescue us; this city will not be handed over to the king of Assyria.” <a name="36:16">36:16</a> Don’t listen to Hezekiah!’ For this is what the king of Assyria says, ‘Send me a token of your submission and surrender to me. Then each of you may eat from his own vine and fig tree and drink water from his own cistern, <a name="36:17">36:17</a> until I come and take you to a land just like your own—a land of grain and new wine, a land of bread and vineyards. <a name="36:18">36:18</a> Hezekiah is misleading you when he says, “The Lord will rescue us.” Has any of the gods of the nations rescued his land from the power of the king of Assyria? <a name="36:19">36:19</a> Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim? Indeed, did any gods rescue Samaria from my power? <a name="36:20">36:20</a> Who among all the gods of these lands have rescued their lands from my power? So how can the Lord rescue Jerusalem from my power?’” <a name="36:21">36:21</a> They were silent and did not respond, for the king had ordered, “Don’t respond to him.”
+<a name="36:13">36:13</a> The chief adviser then stood there and called out loudly in the Judahite dialect, “Listen to the message of the great king, the king of Assyria. <a name="36:14">36:14</a> This is what the king says: ‘Don’t let Hezekiah mislead you, for he is not able to rescue you! <a name="36:15">36:15</a> Don’t let Hezekiah talk you into trusting in the Lord by saying, “The Lord will certainly rescue us; this city will not be handed over to the king of Assyria.” <a name="36:16">36:16</a> Don’t listen to Hezekiah!’ For this is what the king of Assyria says, ‘Send me a token of your submission and surrender to me. Then each of you may eat from his own vine and fig tree and drink water from his own cistern, <a name="36:17">36:17</a> until I come and take you to a land just like your own — a land of grain and new wine, a land of bread and vineyards. <a name="36:18">36:18</a> Hezekiah is misleading you when he says, “The Lord will rescue us.” Has any of the gods of the nations rescued his land from the power of the king of Assyria? <a name="36:19">36:19</a> Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim? Indeed, did any gods rescue Samaria from my power? <a name="36:20">36:20</a> Who among all the gods of these lands have rescued their lands from my power? So how can the Lord rescue Jerusalem from my power?’” <a name="36:21">36:21</a> They were silent and did not respond, for the king had ordered, “Don’t respond to him.”
 
 <a name="36:22">36:22</a> Eliakim son of Hilkiah, the palace supervisor, accompanied by Shebna the scribe and Joah son of Asaph, the secretary, went to Hezekiah with their clothes torn and reported to him what the chief adviser had said.
 
@@ -2385,16 +2390,16 @@
 
 <a name="37:1">37:1</a> When King Hezekiah heard this, he tore his clothes, put on sackcloth, and went to the Lord’s temple. <a name="37:2">37:2</a> Eliakim the palace supervisor, Shebna the scribe, and the leading priests, clothed in sackcloth, sent this message to the prophet Isaiah son of Amoz: <a name="37:3">37:3</a> “This is what Hezekiah says: ‘This is a day of distress, insults, and humiliation, as when a baby is ready to leave the birth canal, but the mother lacks the strength to push it through. <a name="37:4">37:4</a> Perhaps the Lord your God will hear all these things the chief adviser has spoken on behalf of his master, the king of Assyria, who sent him to taunt the living God. When the Lord your God hears, perhaps he will punish him for the things he has said. So pray for this remnant that remains.’”
 
-<a name="37:5">37:5</a> When King Hezekiah’s servants came to Isaiah, <a name="37:6">37:6</a> Isaiah said to them, “Tell your master this: ‘This is what the Lord says: “Don’t be afraid because of the things you have heard—these insults the king of Assyria’s servants have hurled against me. <a name="37:7">37:7</a> Look, I will take control of his mind; he will receive a report and return to his own land. I will cut him down with a sword in his own land.”’”
+<a name="37:5">37:5</a> When King Hezekiah’s servants came to Isaiah, <a name="37:6">37:6</a> Isaiah said to them, “Tell your master this: ‘This is what the Lord says: “Don’t be afraid because of the things you have heard — these insults the king of Assyria’s servants have hurled against me. <a name="37:7">37:7</a> Look, I will take control of his mind; he will receive a report and return to his own land. I will cut him down with a sword in his own land.”’”
 
-<a name="37:8">37:8</a> When the chief adviser heard the king of Assyria had departed from Lachish, he left and went to Libnah, where the king was campaigning. <a name="37:9">37:9</a> The king heard that King Tirhakah of Ethiopia was marching out to fight him. He again sent messengers to Hezekiah, ordering them: <a name="37:10">37:10</a> “Tell King Hezekiah of Judah this: ‘Don’t let your God in whom you trust mislead you when he says, “Jerusalem will not be handed over to the king of Assyria.” <a name="37:11">37:11</a> Certainly you have heard how the kings of Assyria have annihilated all lands. Do you really think you will be rescued? <a name="37:12">37:12</a> Were the nations whom my predecessors destroyed—the nations of Gozan, Haran, Rezeph, and the people of Eden in Telassar—rescued by their gods? <a name="37:13">37:13</a> Where are the king of Hamath, the king of Arpad, and the kings of Lair, Sepharvaim, Hena, and Ivvah?’”
+<a name="37:8">37:8</a> When the chief adviser heard the king of Assyria had departed from Lachish, he left and went to Libnah, where the king was campaigning. <a name="37:9">37:9</a> The king heard that King Tirhakah of Ethiopia was marching out to fight him. He again sent messengers to Hezekiah, ordering them: <a name="37:10">37:10</a> “Tell King Hezekiah of Judah this: ‘Don’t let your God in whom you trust mislead you when he says, “Jerusalem will not be handed over to the king of Assyria.” <a name="37:11">37:11</a> Certainly you have heard how the kings of Assyria have annihilated all lands. Do you really think you will be rescued? <a name="37:12">37:12</a> Were the nations whom my predecessors destroyed — the nations of Gozan, Haran, Rezeph, and the people of Eden in Telassar — rescued by their gods? <a name="37:13">37:13</a> Where are the king of Hamath, the king of Arpad, and the kings of Lair, Sepharvaim, Hena, and Ivvah?’”
 
 <a name="37:14">37:14</a> Hezekiah took the letter from the messengers and read it. Then Hezekiah went up to the Lord’s temple and spread it out before the Lord. <a name="37:15">37:15</a> Hezekiah prayed before the Lord: <a name="37:16">37:16</a> “O Lord who leads armies, O God of Israel, who is enthroned on the cherubs! You alone are God over all the kingdoms of the earth. You made the sky and the earth. <a name="37:17">37:17</a> Pay attention, Lord, and hear! Open your eyes, Lord, and observe! Listen to this entire message Sennacherib sent and how he taunts the living God. <a name="37:18">37:18</a> It is true, Lord, that the kings of Assyria have destroyed all the nations and their lands. <a name="37:19">37:19</a> They have burned the gods of the nations, for they are not really gods, but only the product of human hands manufactured from wood and stone. That is why the Assyrians could destroy them. <a name="37:20">37:20</a> Now, O Lord our God, rescue us from his power, so all the kingdoms of the earth may know that you alone are the Lord.”
 
 <a name="37:21">37:21</a> Isaiah son of Amoz sent this message to Hezekiah: “This is what the Lord God of Israel says: ‘Because you prayed to me concerning King Sennacherib of Assyria, <a name="37:22">37:22</a> this is what the Lord says about him:
 
 > “The virgin daughter Zion
-> despises you—she makes fun of you;
+> despises you — she makes fun of you;
 > daughter Jerusalem
 > shakes her head after you.
 > <a name="37:23">37:23</a> Whom have you taunted and hurled insults at?
@@ -2446,7 +2451,7 @@
 > nor will he shoot an arrow here.
 > He will not attack it with his shielded warriors,
 > nor will he build siege works against it.
-> <a name="37:34">37:34</a> He will go back the way he came—
+> <a name="37:34">37:34</a> He will go back the way he came — 
 > he will not enter this city,’ says the Lord.
 > <a name="37:35">37:35</a> I will shield this city and rescue it for the sake of my reputation and because of my promise to David my servant.”’”
 
@@ -2462,7 +2467,8 @@
 
 ### Hezekiah’s Song of Thanks
 
-> <a name="38:9">38:9</a> This is the prayer of King Hezekiah of Judah when he was sick and then recovered from his illness:
+<a name="38:9">38:9</a> This is the prayer of King Hezekiah of Judah when he was sick and then recovered from his illness:
+
 > <a name="38:10">38:10</a> “I thought,
 > ‘In the middle of my life I must walk through the gates of Sheol,
 > I am deprived of the rest of my years.’
@@ -2641,7 +2647,7 @@
 > <a name="41:4">41:4</a> Who acts and carries out decrees?
 > Who summons the successive generations from the beginning?
 > I, the Lord, am present at the very beginning,
-> and at the very end—I am the one.
+> and at the very end — I am the one.
 > <a name="41:5">41:5</a> The coastlands see and are afraid;
 > the whole earth trembles;
 > they approach and come.
@@ -2658,13 +2664,13 @@
 > Jacob whom I have chosen,
 > offspring of Abraham my friend,
 > <a name="41:9">41:9</a> you whom I am bringing back from the earth’s extremities,
-> and have summoned from the remote regions—
+> and have summoned from the remote regions — 
 > I told you, “You are my servant.”
 > I have chosen you and not rejected you.
 > <a name="41:10">41:10</a> Don’t be afraid, for I am with you!
 > Don’t be frightened, for I am your God!
-> I strengthen you—
-> yes, I help you—
+> I strengthen you — 
+> yes, I help you — 
 > yes, I uphold you with my saving right hand!
 > <a name="41:11">41:11</a> Look, all who were angry at you will be ashamed and humiliated;
 > your adversaries will be reduced to nothing and perish.
@@ -2748,7 +2754,7 @@
 > <a name="42:4">42:4</a> He will not grow dim or be crushed
 > before establishing justice on the earth;
 > the coastlands will wait in anticipation for his decrees.”
-> <a name="42:5">42:5</a> This is what the true God, the Lord, says—
+> <a name="42:5">42:5</a> This is what the true God, the Lord, says — 
 > the one who created the sky and stretched it out,
 > the one who fashioned the earth and everything that lives on it,
 > the one who gives breath to the people on it,
@@ -2798,12 +2804,9 @@
 > and level out the rough ground.
 > This is what I will do for them.
 > I will not abandon them.
-
-<a name="42:17">42:17</a> Those who trust in idols
-
-will turn back and be utterly humiliated,
-
-those who say to metal images, ‘You are our gods.’”
+> <a name="42:17">42:17</a> Those who trust in idols
+> will turn back and be utterly humiliated,
+> those who say to metal images, ‘You are our gods.’”
 
 ### The Lord Reasons with His People
 
@@ -2863,7 +2866,7 @@ those who say to metal images, ‘You are our gods.’”
 > and my daughters from the remote regions of the earth,
 > <a name="43:7">43:7</a> everyone who belongs to me,
 > whom I created for my glory,
-> whom I formed—yes, whom I made!
+> whom I formed — yes, whom I made!
 
 ### The Lord Declares His Sovereignty
 
@@ -2889,7 +2892,9 @@ those who say to metal images, ‘You are our gods.’”
 > <a name="43:13">43:13</a> From this day forward I am he;
 > no one can deliver from my power;
 > I will act, and who can prevent it?”
-> The Lord Will Do Something New
+
+### The Lord Will Do Something New
+
 > <a name="43:14">43:14</a> This is what the Lord says,
 > your protector, the sovereign king of Israel:
 > “For your sake I send to Babylon
@@ -2946,7 +2951,7 @@ those who say to metal images, ‘You are our gods.’”
 
 > <a name="44:1">44:1</a> “Now, listen, Jacob my servant,
 > Israel whom I have chosen!”
-> <a name="44:2">44:2</a> This is what the Lord, the one made you, says—
+> <a name="44:2">44:2</a> This is what the Lord, the one made you, says — 
 > the one who formed you in the womb and helps you:
 > “Don’t be afraid, my servant Jacob,
 > Jeshurun, whom I have chosen!
@@ -2968,8 +2973,8 @@ those who say to metal images, ‘You are our gods.’”
 > “I am the first and I am the last,
 > there is no God but me.
 > <a name="44:7">44:7</a> Who is like me? Let him make his claim!
-> Let him announce it and explain it to me—
-> since I established an ancient people—
+> Let him announce it and explain it to me — 
+> since I established an ancient people — [^]
 > let them announce future events!
 > <a name="44:8">44:8</a> Don’t panic! Don’t be afraid!
 > Did I not tell you beforehand and decree it?
@@ -3007,7 +3012,7 @@ those who say to metal images, ‘You are our gods.’”
 > Yes, he kindles a fire and bakes bread.
 > Then he makes a god and worships it;
 > he makes an idol and bows down to it.
-> <a name="44:16">44:16</a> Half of it he burns in the fire—
+> <a name="44:16">44:16</a> Half of it he burns in the fire — 
 > over that half he eats meat;
 > he roasts a meal and fills himself.
 > Yes, he warms himself and says,
@@ -3021,7 +3026,7 @@ those who say to metal images, ‘You are our gods.’”
 > their minds do not discern.
 > <a name="44:19">44:19</a> No one thinks to himself,
 > nor do they comprehend or understand and say to themselves:
-> ‘I burned half of it in the fire—
+> ‘I burned half of it in the fire — 
 > yes, I baked bread over the coals;
 > I roasted meat and ate it.
 > With the rest of it should I make a disgusting idol?
@@ -3122,9 +3127,9 @@ those who say to metal images, ‘You are our gods.’”
 > How dare you tell me what to do with the work of my own hands!
 > <a name="45:12">45:12</a> I made the earth,
 > I created the people who live on it.
-> It was me—my hands stretched out the sky,
+> It was me — my hands stretched out the sky,
 > I give orders to all the heavenly lights.
-> <a name="45:13">45:13</a> It is me—I stir him up and commission him;
+> <a name="45:13">45:13</a> It is me — I stir him up and commission him;
 > I will make all his ways level.
 > He will rebuild my city;
 > he will send my exiled people home,
@@ -3149,12 +3154,12 @@ those who say to metal images, ‘You are our gods.’”
 > <a name="45:17">45:17</a> Israel will be delivered once and for all by the Lord;
 > you will never again be ashamed or humiliated.
 > <a name="45:18">45:18</a> For this is what the Lord says,
-> the one who created the sky—
+> the one who created the sky — 
 > he is the true God,
 > the one who formed the earth and made it;
 > he established it,
 > he did not create it without order,
-> he formed it to be inhabited—
+> he formed it to be inhabited — 
 > “I am the Lord, I have no peer.
 > <a name="45:19">45:19</a> I have not spoken in secret,
 > in some hidden place.
@@ -3178,7 +3183,7 @@ those who say to metal images, ‘You are our gods.’”
 > <a name="45:22">45:22</a> Turn to me so you can be delivered,
 > all you who live in the earth’s remote regions!
 > For I am God, and I have no peer.
-> <a name="45:23">45:23</a> I solemnly make this oath—
+> <a name="45:23">45:23</a> I solemnly make this oath — 
 > what I say is true and reliable:
 > ‘Surely every knee will bow to me,
 > every tongue will solemnly affirm;
@@ -3258,7 +3263,7 @@ those who say to metal images, ‘You are our gods.’”
 > Your genitals will be on display!
 > I will get revenge;
 > I will not have pity on anyone,”
-> <a name="47:4">47:4</a> says our protector—
+> <a name="47:4">47:4</a> says our protector — 
 > the Lord who leads armies is his name,
 > the sovereign king of Israel.
 > <a name="47:5">47:5</a> “Sit silently! Go to a hiding place,
@@ -3299,13 +3304,13 @@ those who say to metal images, ‘You are our gods.’”
 > <a name="47:12">47:12</a> Persist in trusting your amulets
 > and your many incantations,
 > which you have faithfully read since your youth!
-> Maybe you will be successful—
+> Maybe you will be successful — 
 > maybe you will scare away disaster.
 > <a name="47:13">47:13</a> You are tired out from listening to so much advice.
-> Let them take their stand—
+> Let them take their stand — 
 > the ones who see omens in the sky,
 > who gaze at the stars,
-> who make monthly predictions—
+> who make monthly predictions — 
 > let them rescue you from the disaster that is coming upon you!
 > <a name="47:14">47:14</a> Look, they are like straw,
 > which the fire burns up;
@@ -3326,7 +3331,7 @@ those who say to metal images, ‘You are our gods.’”
 > you who are called by the name ‘Israel,’
 > and are descended from Judah,
 > who take oaths in the name of the Lord,
-> and invoke the God of Israel—
+> and invoke the God of Israel — 
 > but not in an honest and just manner.
 > <a name="48:2">48:2</a> Indeed, they live in the holy city;
 > they trust in the God of Israel,
@@ -3375,7 +3380,7 @@ those who say to metal images, ‘You are our gods.’”
 > Who among them announced these things?
 > The Lord’s ally will carry out his desire against Babylon;
 > he will exert his power against the Babylonians.
-> <a name="48:15">48:15</a> I, I have spoken—
+> <a name="48:15">48:15</a> I, I have spoken — 
 > yes, I have summoned him;
 > I lead him and he will succeed.
 > <a name="48:16">48:16</a> Approach me! Listen to this!
@@ -3424,11 +3429,11 @@ those who say to metal images, ‘You are our gods.’”
 > But the Lord will vindicate me;
 > my God will reward me.
 > <a name="49:5">49:5</a> So now the Lord says,
-> the one who formed me from birth to be his servant—
+> the one who formed me from birth to be his servant — 
 > he did this to restore Jacob to himself,
 > so that Israel might be gathered to him;
 > and I will be honored in the Lord’s sight,
-> for my God is my source of strength—
+> for my God is my source of strength — 
 > <a name="49:6">49:6</a> he says, “Is it too insignificant a task for you to be my servant,
 > to reestablish the tribes of Jacob,
 > and restore the remnant of Israel?
@@ -3544,73 +3549,40 @@ those who say to metal images, ‘You are our gods.’”
 
 ### The Servant Perseveres
 
-<a name="50:4">50:4</a> The sovereign Lord has given me the capacity to be his spokesman,
-
-so that I know how to help the weary.
-
-He wakes me up every morning;
-
-he makes me alert so I can listen attentively as disciples do.
-
-<a name="50:5">50:5</a> The sovereign Lord has spoken to me clearly;
-
-I have not rebelled,
-
-I have not turned back.
-
-<a name="50:6">50:6</a> I offered my back to those who attacked,
-
-my jaws to those who tore out my beard;
-
-I did not hide my face
-
-from insults and spitting.
-
-<a name="50:7">50:7</a> But the sovereign Lord helps me,
-
-so I am not humiliated.
-
-For that reason my face is firm;
-
-I know I will not be put to shame.
-
-<a name="50:8">50:8</a> The one who vindicates me is close by.
-
-Who dares to argue with me? Let us confront each other!
-
-Who is my accuser? Let him challenge me!
-
-<a name="50:9">50:9</a> Look, the sovereign Lord helps me.
-
-Who dares to condemn me?
-
-Look, all of them will wear out like clothes;
-
-a moth will eat away at them.
-
-<a name="50:10">50:10</a> Who among you fears the Lord?
-
-Who obeys his servant?
-
-Whoever walks in deep darkness,
-
-without light,
-
-should trust in the name of the Lord
-
-and rely on his God.
-
-<a name="50:11">50:11</a> Look, all of you who start a fire
-
-and who equip yourselves with flaming arrows,
-
-walk in the light of the fire you started
-
-and among the flaming arrows you ignited!
-
-This is what you will receive from me:
-
-you will lie down in a place of pain.
+> <a name="50:4">50:4</a> The sovereign Lord has given me the capacity to be his spokesman,
+> so that I know how to help the weary.
+> He wakes me up every morning;
+> he makes me alert so I can listen attentively as disciples do.
+> <a name="50:5">50:5</a> The sovereign Lord has spoken to me clearly;
+> I have not rebelled,
+> I have not turned back.
+> <a name="50:6">50:6</a> I offered my back to those who attacked,
+> my jaws to those who tore out my beard;
+> I did not hide my face
+> from insults and spitting.
+> <a name="50:7">50:7</a> But the sovereign Lord helps me,
+> so I am not humiliated.
+> For that reason my face is firm;
+> I know I will not be put to shame.
+> <a name="50:8">50:8</a> The one who vindicates me is close by.
+> Who dares to argue with me? Let us confront each other!
+> Who is my accuser? Let him challenge me!
+> <a name="50:9">50:9</a> Look, the sovereign Lord helps me.
+> Who dares to condemn me?
+> Look, all of them will wear out like clothes;
+> a moth will eat away at them.
+> <a name="50:10">50:10</a> Who among you fears the Lord?
+> Who obeys his servant?
+> Whoever walks in deep darkness,
+> without light,
+> should trust in the name of the Lord
+> and rely on his God.
+> <a name="50:11">50:11</a> Look, all of you who start a fire
+> and who equip yourselves with flaming arrows,
+> walk in the light of the fire you started
+> and among the flaming arrows you ignited!
+> This is what you will receive from me:
+> you will lie down in a place of pain.
 
 ## Chapter 51
 
@@ -3777,9 +3749,9 @@ you will lie down in a place of pain.
 
 > <a name="52:13">52:13</a> “Look, my servant will succeed!
 > He will be elevated, lifted high, and greatly exalted.
-> <a name="52:14">52:14</a> Just as many were horrified by the sight of you—
+> <a name="52:14">52:14</a> Just as many were horrified by the sight of you — 
 > he was so disfigured he no longer looked like a man;
-> <a name="52:15">52:15</a> his form was so marred he no longer looked human—
+> <a name="52:15">52:15</a> his form was so marred he no longer looked human — 
 > so now he will startle many nations.
 > Kings will be shocked by his exaltation,
 > for they will witness something unannounced to them,
@@ -3813,7 +3785,7 @@ you will lie down in a place of pain.
 > Like a lamb led to the slaughtering block,
 > like a sheep silent before her shearers,
 > he did not even open his mouth.
-> <a name="53:8">53:8</a> He was led away after an unjust trial—
+> <a name="53:8">53:8</a> He was led away after an unjust trial — 
 > but who even cared?
 > Indeed, he was cut off from the land of the living;
 > because of the rebellion of his own people he was wounded.
@@ -3856,7 +3828,7 @@ you will lie down in a place of pain.
 > Don’t be intimidated, for you will not be humiliated!
 > You will forget about the shame you experienced in your youth;
 > you will no longer remember the disgrace of your abandonment.
-> <a name="54:5">54:5</a> For your husband is the one who made you—
+> <a name="54:5">54:5</a> For your husband is the one who made you — 
 > the Lord who leads armies is his name.
 > He is your protector, the sovereign king of Israel.
 > He is called “God of the entire earth.”
@@ -3897,7 +3869,7 @@ you will lie down in a place of pain.
 > I create the destroyer so he might devastate.
 > <a name="54:17">54:17</a> No weapon forged to be used against you will succeed;
 > you will refute everyone who tries to accuse you.
-> This is what the Lord will do for his servants—
+> This is what the Lord will do for his servants — 
 > I will vindicate them,”
 > says the Lord.
 
@@ -3978,9 +3950,9 @@ you will lie down in a place of pain.
 > that will be better than sons and daughters.
 > I will set up a permanent monument for them that will remain.
 > <a name="56:6">56:6</a> As for foreigners who become followers of the Lord and serve him,
-> who love the name of the Lord and want to be his servants—
+> who love the name of the Lord and want to be his servants — 
 > all who observe the Sabbath and do not defile it,
-> and who are faithful to my covenant—
+> and who are faithful to my covenant — 
 > <a name="56:7">56:7</a> I will bring them to my holy mountain;
 > I will make them happy in the temple where people pray to me.
 > Their burnt offerings and sacrifices will be accepted on my altar,
@@ -4191,7 +4163,9 @@ you will lie down in a place of pain.
 > their deeds are unjust.
 > They use deceitful methods,
 > and whoever deals with them is unfamiliar with peace.
-> Israel Confesses its Sin
+
+### Israel Confesses its Sin
+
 > <a name="59:9">59:9</a> For this reason deliverance is far from us
 > and salvation does not reach us.
 > We wait for light, but see only darkness;
@@ -4257,11 +4231,11 @@ you will lie down in a place of pain.
 > <a name="60:3">60:3</a> Nations come to your light,
 > kings to your bright light.
 > <a name="60:4">60:4</a> Look all around you!
-> They all gather and come to you—
+> They all gather and come to you — 
 > your sons come from far away
 > and your daughters are escorted by guardians.
 > <a name="60:5">60:5</a> Then you will look and smile,
-> you will be exad and your heart will swell with pride.
+> you will be excited and your heart will swell with pride.
 > For the riches of distant lands will belong to you
 > and the wealth of nations will come to you.
 > <a name="60:6">60:6</a> Camel caravans will cover your roads,
@@ -4319,7 +4293,7 @@ you will lie down in a place of pain.
 > and your gates, ‘Praise.’
 > <a name="60:19">60:19</a> The sun will no longer supply light for you by day,
 > nor will the moon’s brightness shine on you;
-> the Lord will be your permanent source of light—
+> the Lord will be your permanent source of light — 
 > the splendor of your God will shine upon you.
 > <a name="60:20">60:20</a> Your sun will no longer set;
 > your moon will not disappear;
@@ -4591,7 +4565,7 @@ you will lie down in a place of pain.
 > <a name="65:8">65:8</a> This is what the Lord says:
 > “When juice is discovered in a cluster of grapes,
 > someone says, ‘Don’t destroy it, for it contains juice.’
-> So I will do for the sake of my servants—
+> So I will do for the sake of my servants — 
 > I will not destroy everyone.
 > <a name="65:9">65:9</a> I will bring forth descendants from Jacob,
 > and from Judah people to take possession of my mountains.
@@ -4603,7 +4577,7 @@ you will lie down in a place of pain.
 > <a name="65:11">65:11</a> But as for you who abandon the Lord
 > and forget about worshiping at my holy mountain,
 > who prepare a feast for the god called ‘Fortune,’
-> and fill up wine jugs for the god called ‘Destiny’—
+> and fill up wine jugs for the god called ‘Destiny’ — 
 > <a name="65:12">65:12</a> I predestine you to die by the sword,
 > all of you will kneel down at the slaughtering block,
 > because I called to you, and you did not respond,
@@ -4731,4 +4705,4 @@ you will lie down in a place of pain.
 > with fire and his sword;
 > the Lord will kill many.
 
-<a name="66:17">66:17</a> “As for those who consecrate and ritually purify themselves so they can follow their leader and worship in the sacred orchards, those who eat the flesh of pigs and other disgusting creatures, like mice—they will all be destroyed together,” says the Lord. <a name="66:18">66:18</a> “I hate their deeds and thoughts! So I am coming to gather all the nations and ethnic groups; they will come and witness my splendor. <a name="66:19">66:19</a> I will perform a mighty act among them and then send some of those who remain to the nations—to Tarshish, Pul, Lud (known for its archers), Tubal, Javan, and to the distant coastlands that have not heard about me or seen my splendor. They will tell the nations of my splendor. <a name="66:20">66:20</a> They will bring back all your countrymen from all the nations as an offering to the Lord. They will bring them on horses, in chariots, in wagons, on mules, and on camels to my holy hill Jerusalem,” says the Lord, “just as the Israelites bring offerings to the Lord’s temple in ritually pure containers. <a name="66:21">66:21</a> And I will choose some of them as priests and Levites,” says the Lord. <a name="66:22">66:22</a> “For just as the new heavens and the new earth I am about to make will remain standing before me,” says the Lord, “so your descendants and your name will remain. <a name="66:23">66:23</a> From one month to the next and from one Sabbath to the next, all people will come to worship me,” says the Lord. <a name="66:24">66:24</a> “They will go out and observe the corpses of those who rebelled against me, for the maggots that eat them will not die, and the fire that consumes them will not die out. All people will find the sight abhorrent.”
+<a name="66:17">66:17</a> “As for those who consecrate and ritually purify themselves so they can follow their leader and worship in the sacred orchards, those who eat the flesh of pigs and other disgusting creatures, like mice — they will all be destroyed together,” says the Lord. <a name="66:18">66:18</a> “I hate their deeds and thoughts! So I am coming to gather all the nations and ethnic groups; they will come and witness my splendor. <a name="66:19">66:19</a> I will perform a mighty act among them and then send some of those who remain to the nations — to Tarshish, Pul, Lud (known for its archers), Tubal, Javan, and to the distant coastlands that have not heard about me or seen my splendor. They will tell the nations of my splendor. <a name="66:20">66:20</a> They will bring back all your countrymen from all the nations as an offering to the Lord. They will bring them on horses, in chariots, in wagons, on mules, and on camels to my holy hill Jerusalem,” says the Lord, “just as the Israelites bring offerings to the Lord’s temple in ritually pure containers. <a name="66:21">66:21</a> And I will choose some of them as priests and Levites,” says the Lord. <a name="66:22">66:22</a> “For just as the new heavens and the new earth I am about to make will remain standing before me,” says the Lord, “so your descendants and your name will remain. <a name="66:23">66:23</a> From one month to the next and from one Sabbath to the next, all people will come to worship me,” says the Lord. <a name="66:24">66:24</a> “They will go out and observe the corpses of those who rebelled against me, for the maggots that eat them will not die, and the fire that consumes them will not die out. All people will find the sight abhorrent.”
