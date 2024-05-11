@@ -408,7 +408,7 @@
 > See if you can find a single person
 > who deals honestly and tries to be faithful and true.
 > If you can, then I will not punish this city.
-> <a name="5:2">5:2</a> These people swear on oath, ‘As surely as the Lord lives….’
+> <a name="5:2">5:2</a> These people swear on oath, ‘As surely as the Lord lives ....’
 > But the fact is, what they swear to is really a lie.”
 > <a name="5:3">5:3</a> Lord, I know you are concerned about faithfulness and truth.
 > But even when you punish these people, they feel no remorse.
@@ -804,9 +804,9 @@
 > They do wrong and are unable to repent.
 > <a name="9:6">9:6</a> They do one act of violence after another,
 > and one deceitful thing after another.
->
 > They refuse to take any thought of me,”
 > says the Lord.
+
 > <a name="9:7">9:7</a> Therefore the Lord who rules over all says,
 > “I will now purify them in the fires of affliction and test them.
 > The wickedness of my dear people has left me no choice.
@@ -839,7 +839,7 @@
 > Why does the land lie in ruins?
 > Why is it as scorched as a desert through which no one travels?”
 
-<a name="9:13">9:13</a> The Lord answered, “This has happened because these people have rejected my laws which I gave them. They have not obeyed me or followed those laws. <a name="9:14">9:14</a> Instead they have followed the stubborn inclinations of their own hearts. They have paid allegiance to the gods called Baal, as their fathers taught them to do. <a name="9:15">9:15</a> So then, listen to what I—the Lord God of Israel who rules over all—have to say. ‘I am going to make these people eat the bitter food of suffering and drink the poison water of judgment. <a name="9:16">9:16</a> I will scatter them among nations that neither they nor their ancestors have known anything about. I will send people chasing after them with swords until I have destroyed them.’”
+<a name="9:13">9:13</a> The Lord answered, “This has happened because these people have rejected my laws which I gave them. They have not obeyed me or followed those laws. <a name="9:14">9:14</a> Instead they have followed the stubborn inclinations of their own hearts. They have paid allegiance to the gods called Baal, as their fathers taught them to do. <a name="9:15">9:15</a> So then, listen to what I — the Lord God of Israel who rules over all — have to say. ‘I am going to make these people eat the bitter food of suffering and drink the poison water of judgment. <a name="9:16">9:16</a> I will scatter them among nations that neither they nor their ancestors have known anything about. I will send people chasing after them with swords until I have destroyed them.’”
 
 <a name="9:17">9:17</a> The Lord who rules over all told me to say to this people,
 
@@ -977,9 +977,10 @@
 > For they have destroyed the people of Jacob.
 > They have completely destroyed them
 > and left their homeland in utter ruin.
-> The People Have Violated Their Agreement with God
 
 ## Chapter 11
+
+### The People Have Violated Their Agreement with God
 
 <a name="11:1">11:1</a> The Lord said to Jeremiah: <a name="11:2">11:2</a> “Hear the terms of the agreement I made with Israel and pass them on to the people of Judah and the citizens of Jerusalem. <a name="11:3">11:3</a> Tell them that the Lord, the God of Israel, says, ‘Anyone who does not keep the terms of the agreement will be under a curse. <a name="11:4">11:4</a> Those are the terms that I charged your ancestors to keep when I brought them out of Egypt, that place which was like an iron-smelting furnace. I said at that time, “Obey me and carry out the terms of the agreement just exactly as I commanded you. If you do, you will be my people and I will be your God. <a name="11:5">11:5</a> Then I will keep the promise I swore on oath to your ancestors and give them a land of fertile fields and fine pastures.” That is the very land that you still live in today.’” And I responded, “Amen! Let it be so, Lord!”
 
@@ -1002,7 +1003,9 @@
 > I now decree that disaster will come on you.
 > That is because the nations of Israel and Judah have done evil
 > and have made me angry by offering sacrifices to the god Baal.”
-> A Plot Against Jeremiah is Revealed and He Complains of Injustice
+
+### A Plot Against Jeremiah is Revealed and He Complains of Injustice
+
 > <a name="11:18">11:18</a> The Lord gave me knowledge, that I might have understanding.
 > Then he showed me what the people were doing.
 
@@ -1353,12 +1356,12 @@
 > You are the one I can run to for safety when I am in trouble.
 > Nations from all over the earth
 > will come to you and say,
-> ‘Our ancestors had nothing but false gods—
+> ‘Our ancestors had nothing but false gods — 
 > worthless idols that could not help them at all.
 > <a name="16:20">16:20</a> Can people make their own gods?
 > No, what they make are not gods at all.”
 > <a name="16:21">16:21</a> The Lord said,
-> “So I will now let this wicked people know—
+> “So I will now let this wicked people know — 
 > I will let them know my mighty power in judgment.
 > Then they will know that my name is the Lord.”
 
@@ -1378,7 +1381,9 @@
 > which I gave to you as a permanent possession.
 > I will make you serve your enemies in a land that you know nothing about.
 > For you have made my anger burn like a fire that will never be put out.”
-> Individuals Are Challenged to Put Their Trust in the Lord
+
+### Individuals Are Challenged to Put Their Trust in the Lord
+
 > <a name="17:5">17:5</a> The Lord says,
 > “I will put a curse on people
 > who trust in mere human beings,
@@ -1406,7 +1411,9 @@
 > is like the partridge that broods over eggs but does not hatch them.
 > Before his life is half over he will lose his ill-gotten gains.
 > At the end of his life it will be clear he was a fool.”
-> Jeremiah Appeals to the Lord for Vindication
+
+### Jeremiah Appeals to the Lord for Vindication
+
 > <a name="17:12">17:12</a> Then I said,
 > “Lord, from the very beginning
 > you have been seated on your glorious throne on high.
@@ -1568,9 +1575,10 @@
 > <a name="20:18">20:18</a> Why did I ever come forth from my mother’s womb?
 > All it has meant for me is the experience of trouble and grief,
 > and spending my days in shame.
-> The Lord Will Hand Jerusalem over to Enemies
 
 ## Chapter 21
+
+### The Lord Will Hand Jerusalem over to Enemies
 
 <a name="21:1">21:1</a> The Lord spoke to Jeremiah when King Zedekiah sent to him Pashhur son of Malkijah and the priest Zephaniah son of Maaseiah. Zedekiah sent them to Jeremiah to ask, <a name="21:2">21:2</a> “Please ask the Lord to come and help us, because King Nebuchadnezzar of Babylon is attacking us. Maybe the Lord will perform one of his miracles as in times past and make him stop attacking us and leave.” <a name="21:3">21:3</a> Jeremiah answered them, “Tell Zedekiah <a name="21:4">21:4</a> that the Lord, the God of Israel, says, ‘The forces at your disposal are now outside the walls fighting against King Nebuchadnezzar of Babylon and the Babylonians who have you under siege. I am going to gather those forces back inside the city. <a name="21:5">21:5</a> And in anger, in fury, and in wrath I myself will fight against you with my mighty power and great strength. <a name="21:6">21:6</a> I will kill everything living in Jerusalem, people and animals alike. They will die from terrible diseases. <a name="21:7">21:7</a> And then I, the Lord, promise that I will hand over King Zedekiah of Judah, his officials, and any of the people who survive the war, starvation, and disease. I will hand them over to King Nebuchadnezzar of Babylon and to their enemies who want to kill them. He will slaughter them with the sword. He won’t show them any mercy, any compassion, or any pity.’
 
@@ -1672,7 +1680,8 @@
 > nesting in the cedars of Lebanon.
 > But oh how you will groan when the pains of judgment come on you.
 > They will be just like those of a woman giving birth to a baby.
-> Jeconiah Will Be Permanently Exiled
+
+### Jeconiah Will Be Permanently Exiled
 
 <a name="22:24">22:24</a> The Lord says,
 
@@ -1871,7 +1880,7 @@
 > Jerusalem will become a pile of rubble.
 > The temple mount will become a mere wooded ridge.”’
 
-<a name="26:19">26:19</a> King Hezekiah and all the people of Judah didn’t put him to death, did they? Didn’t Hezekiah show reverence for the Lord and seek the Lord’s favor? And didn’t the Lord forgo destroying them as he threatened he would? But we are on the verge of bringing great disaster on ourselves.”
+<a name="26:19">26:19</a> King Hezekiah and all the people of Judah didn’t put him to death, did they? Didn’t Hezekiah show reverence for the Lord and seek the Lord’s favor? And didn’t the Lord forego destroying them as he threatened he would? But we are on the verge of bringing great disaster on ourselves.”
 
 <a name="26:20">26:20</a> (Now there was another man who prophesied as the Lord’s representative against this city and this land just as Jeremiah did. His name was Uriah son of Shemaiah from Kiriath Jearim. <a name="26:21">26:21</a> When the king and all his bodyguards and officials heard what he was prophesying, the king sought to have him executed. But Uriah found out about it and fled to Egypt out of fear. <a name="26:22">26:22</a> However, King Jehoiakim sent some men to Egypt, including Elnathan son of Achbor, <a name="26:23">26:23</a> and they brought Uriah back from there. They took him to King Jehoiakim, who had him executed and had his body thrown into the burial place of the common people.)
 
@@ -2033,7 +2042,9 @@
 > of all the family groups of Israel
 > and they will be my people.
 > I, the Lord, affirm it.”
-> Israel Will Be Restored and Join Judah in Worship
+
+### Israel Will Be Restored and Join Judah in Worship
+
 > <a name="31:2">31:2</a> The Lord says,
 > “The people of Israel who survived
 > death at the hands of the enemy
@@ -2129,7 +2140,9 @@
 > you who were once like an unfaithful daughter?
 > For I, the Lord, promise to bring about something new on the earth,
 > something as unique as a woman protecting a man.’”
-> Judah Will Be Restored
+
+### Judah Will Be Restored
+
 > <a name="31:23">31:23</a> The Lord God of Israel who rules over all says,
 > “I will restore the people of Judah to their land and to their towns.
 > When I do, they will again say of Jerusalem,
@@ -2496,9 +2509,10 @@ The following events occurred when Jerusalem was captured.
 > I will not completely destroy you.
 > I will indeed discipline you but only in due measure.
 > I will not let you go entirely unpunished.”
-> Judgment on the Philistine Cities
 
 ## Chapter 47
+
+### Judgment on the Philistine Cities
 
 <a name="47:1">47:1</a> The Lord spoke to the prophet Jeremiah about the Philistines before Pharaoh attacked Gaza.
 
@@ -2705,7 +2719,8 @@ The following events occurred when Jerusalem was captured.
 > <a name="48:47">48:47</a> Yet in days to come
 > I will reverse Moab’s ill fortune.”
 > says the Lord.
-> The judgment against Moab ends here.
+
+The judgment against Moab ends here.
 
 ## Chapter 49
 
@@ -2827,7 +2842,8 @@ The following events occurred when Jerusalem was captured.
 
 ### Judgment Against Kedar and Hazor
 
-> <a name="49:28">49:28</a> The Lord spoke about Kedar and the kingdoms of Hazor that King Nebuchadnezzar of Babylon conquered. He said:
+<a name="49:28">49:28</a> The Lord spoke about Kedar and the kingdoms of Hazor that King Nebuchadnezzar of Babylon conquered. He said:
+
 > “Army of Babylon, go and attack Kedar.
 > Lay waste those who live in the eastern desert.
 > <a name="49:29">49:29</a> Their tents and their flocks will be taken away.
@@ -3124,7 +3140,7 @@ The following events occurred when Jerusalem was captured.
 > Fill your quivers!
 > (The Lord will arouse a spirit of hostility in the kings of Media.
 > For he intends to destroy Babylonia.
-> For that is how the Lord will get his revenge—
+> For that is how the Lord will get his revenge — 
 > how he will get his revenge for the Babylonians’ destruction of his temple.)
 > <a name="51:12">51:12</a> Give the signal to attack Babylon’s wall!
 > Bring more guards!
@@ -3316,7 +3332,7 @@ The following events occurred when Jerusalem was captured.
 > The peoples strive for what does not satisfy.
 > The nations grow weary trying to get what will be destroyed.”
 
-<a name="51:59">51:59</a> This is the order Jeremiah the prophet gave to Seraiah son of Neriah, son of Mahseiah, when he went to King Zedekiah of Judah in Babylon during the fourth year of his reign. (Seraiah was a quartermaster.) <a name="51:60">51:60</a> Jeremiah recorded on one scroll all the judgments that would come upon Babylon—all these prophecies written about Babylon. <a name="51:61">51:61</a> Then Jeremiah said to Seraiah, “When you arrive in Babylon, make sure you read aloud all these prophecies. <a name="51:62">51:62</a> Then say, ‘O Lord, you have announced that you will destroy this place so that no people or animals live in it any longer. Certainly it will lie desolate forever!’ <a name="51:63">51:63</a> When you finish reading this scroll aloud, tie a stone around it and throw it into the middle of the Euphrates River. <a name="51:64">51:64</a> Then say, ‘In the same way Babylon will sink and never rise again because of the judgments I am ready to bring upon her; they will grow faint.’”
+<a name="51:59">51:59</a> This is the order Jeremiah the prophet gave to Seraiah son of Neriah, son of Mahseiah, when he went to King Zedekiah of Judah in Babylon during the fourth year of his reign. (Seraiah was a quartermaster.) <a name="51:60">51:60</a> Jeremiah recorded on one scroll all the judgments that would come upon Babylon — all these prophecies written about Babylon. <a name="51:61">51:61</a> Then Jeremiah said to Seraiah, “When you arrive in Babylon, make sure you read aloud all these prophecies. <a name="51:62">51:62</a> Then say, ‘O Lord, you have announced that you will destroy this place so that no people or animals live in it any longer. Certainly it will lie desolate forever!’ <a name="51:63">51:63</a> When you finish reading this scroll aloud, tie a stone around it and throw it into the middle of the Euphrates River. <a name="51:64">51:64</a> Then say, ‘In the same way Babylon will sink and never rise again because of the judgments I am ready to bring upon her; they will grow faint.’”
 
 The prophecies of Jeremiah end here.
 
