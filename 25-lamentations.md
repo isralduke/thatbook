@@ -61,7 +61,7 @@
 
 > <a name="1:7">1:7</a> Jerusalem remembers,
 > when she became a poor homeless person,
-> all the treasures—possessions that
+> all the treasures — possessions that
 > belonged to her in days of old.
 > When her people fell into the grasp of the enemy,
 > none of her allies came to her rescue.
@@ -101,7 +101,9 @@
 > They are forced to sell their prized possessions
 > just to purchase enough food
 > to keep themselves alive.
-> Jerusalem Speaks:
+
+#### Jerusalem Speaks:
+
 > Look, O Lord!
 > Consider that I have become worthless!
 
@@ -149,9 +151,10 @@
 > no one who could encourage me.
 > My inhabitants are desolated
 > because the enemy has prevailed.
-> The Prophet Speaks:
 
 ### פ (Pe)
+
+#### The Prophet Speaks:
 
 > <a name="1:17">1:17</a> Zion spread out her hands,
 > but there is no one to comfort her.
@@ -160,7 +163,7 @@
 > They treat Jerusalem
 > like filthy garbage in their midst.
 
-### Jerusalem Speaks:
+#### Jerusalem Speaks:
 
 ### צ (Tsade)
 
@@ -204,11 +207,12 @@
 > because of all my acts of rebellion.
 > For my groans are many,
 > and my heart is full of sorrow.
-> The Prophet Speaks:
 
 ## Chapter 2
 
 ### א (Alef)
+
+#### The Prophet Speaks:
 
 > <a name="2:1">2:1</a> Alas!
 > The Lord has covered Zion
@@ -383,9 +387,9 @@
 > who are dying from hunger
 > at every street corner.
 
-### Jerusalem Speaks:
-
 ### ר (Resh)
+
+#### Jerusalem Speaks:
 
 > <a name="2:20">2:20</a> O Lord, think about it!
 > Whom have you ever treated like this?
@@ -411,11 +415,12 @@
 > no one escaped or survived.
 > The perfectly healthy children whom I bore and raised,
 > my enemy has destroyed.
-> The Prophet Speaks:
 
 ## Chapter 3
 
 ### א (Alef)
+
+#### The Prophet Speaks:
 
 > <a name="3:1">3:1</a> I am the man who has experienced affliction
 > from the disciplining rod of his wrath.
@@ -520,14 +525,14 @@
 > all the prisoners in the land,
 > <a name="3:35">3:35</a> to deprive a man of his rights
 > in the presence of the Most High,
-> <a name="3:36">3:36</a> to subvert a man in his just cause—
+> <a name="3:36">3:36</a> to subvert a man in his just cause — 
 > the Lord does not approve of such things!
 
 ### מ (Mem)
 
 > <a name="3:37">3:37</a> Whose command was ever fulfilled
 > unless the Lord had decreed it?
-> <a name="3:38">3:38</a> Is it not from the mouth of the Most High that everything comes—
+> <a name="3:38">3:38</a> Is it not from the mouth of the Most High that everything comes — 
 > both calamity and blessings?
 > <a name="3:39">3:39</a> Why should any living man complain
 > when he is punished for his sins?
@@ -615,9 +620,9 @@
 
 ## Chapter 4
 
-### The Prophet Speaks:
-
 ### א (Alef)
+
+#### The Prophet Speaks:
 
 > <a name="4:1">4:1</a> Alas!
 > The gold has lost its luster;
@@ -729,9 +734,10 @@
 > he no longer watches over them.
 > The priests will not be shown consideration,
 > the elders will not be spared.
-> The People of Jerusalem Lament:
 
 ### ע (Ayin)
+
+#### The People of Jerusalem Lament:
 
 > <a name="4:17">4:17</a> Our eyes continually failed us,
 > as we looked in vain for help.
@@ -754,14 +760,14 @@
 
 ### ר (Resh)
 
-> <a name="4:20">4:20</a> Our very life breath—the king anointed by the Lord—
+> <a name="4:20">4:20</a> Our very life breath — the king anointed by the Lord — 
 > was caught in their traps.
 > We thought that under his protection
 > we would survive among the nations.
 
-### The Prophet Speaks:
-
 ### ש (Sin/Shin)
+
+#### The Prophet Speaks:
 
 > <a name="4:21">4:21</a> Rejoice and be glad for now, O people of Edom,
 > you who reside in the land of Uz.
@@ -787,7 +793,7 @@
 > our mothers have become widows.
 > <a name="5:4">5:4</a> We must pay money to drink our own water;
 > we must buy our own wood at a steep price.
-> <a name="5:5">5:5</a> We are pursued—our adversaries are breathing down our necks;
+> <a name="5:5">5:5</a> We are pursued — our adversaries are breathing down our necks;
 > we are physically worn out and cannot find any rest.
 > <a name="5:6">5:6</a> We have made treaties with Egypt and Assyria
 > just to acquire enough food to keep us alive.
