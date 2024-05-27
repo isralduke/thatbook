@@ -53,7 +53,7 @@
 
 > <a name="2:8">2:8</a> Yet until now she has refused to acknowledge that I was the one
 > who gave her the grain, the new wine, and the olive oil;
-> and that it was I who lavished on her the silver and gold—
+> and that it was I who lavished on her the silver and gold — 
 > which they used in worshiping Baal!
 > <a name="2:9">2:9</a> Therefore, I will take back my grain during the harvest time
 > and my new wine when it ripens;
@@ -64,7 +64,7 @@
 > <a name="2:11">2:11</a> I will put an end to all her celebration:
 > her annual religious festivals,
 > monthly new moon celebrations,
-> and weekly Sabbath festivities—
+> and weekly Sabbath festivities — 
 > all her appointed festivals.
 > <a name="2:12">2:12</a> I will destroy her vines and fig trees,
 > of which she said, “These are my wages for prostitution
@@ -97,7 +97,7 @@
 > <a name="2:18">2:18</a> “At that time I will make a covenant for them with the wild animals,
 > the birds of the air, and the creatures that crawl on the ground.
 > I will abolish the warrior’s bow and sword
-> that is, every weapon of warfare—from the land,
+> that is, every weapon of warfare — from the land,
 > and I will allow them to live securely.”
 > <a name="2:19">2:19</a> I will commit myself to you forever;
 > I will commit myself to you in righteousness and justice,
@@ -197,7 +197,9 @@
 > like a lamb in a broad field!
 > <a name="4:17">4:17</a> Ephraim has attached himself to idols;
 > Do not go near him!
-> The Shameful Sinners Will Be Brought to Shame
+
+### The Shameful Sinners Will Be Brought to Shame
+
 > <a name="4:18">4:18</a> They consume their alcohol,
 > then engage in cult prostitution;
 > they dearly love their shameful behavior.
@@ -231,7 +233,7 @@
 
 > <a name="5:6">5:6</a> Although they bring their flocks and herds
 > to seek the favor of the Lord,
-> They will not find him—
+> They will not find him — 
 > he has withdrawn himself from them!
 > <a name="5:7">5:7</a> They have committed treason against the Lord,
 > because they bore illegitimate children.
@@ -319,7 +321,9 @@
 > there Ephraim practices temple prostitution,
 > and Judah defiles itself.
 > <a name="6:11">6:11</a> I have appointed a time to reap judgment for you also, O Judah!
-> If Israel Would Repent of Sin, God Would Relent of Judgment
+
+### If Israel Would Repent of Sin, God Would Relent of Judgment
+
 > Whenever I want to restore the fortunes of my people,
 
 ## Chapter 7
@@ -352,7 +356,7 @@
 > but in the morning it bursts into a flaming fire.
 > <a name="7:7">7:7</a> All of them are blazing like an oven;
 > they devour their rulers.
-> All of their kings fall—
+> All of their kings fall — 
 > and none of them call on me!
 
 ### Israel Lacks Discernment and Refuses to Repent
@@ -418,7 +422,7 @@
 > My anger burns against them!
 > They will not survive much longer without being punished,
 > even though they are Israelites!
-> <a name="8:6">8:6</a> That idol was made by a workman—it is not God!
+> <a name="8:6">8:6</a> That idol was made by a workman — it is not God!
 > The calf idol of Samaria will be broken to bits.
 
 ### The Fertility Cultists Will Become Infertile
@@ -465,7 +469,7 @@
 
 > <a name="9:1">9:1</a> O Israel, do not rejoice jubilantly like the nations,
 > for you are unfaithful to your God.
-> You love to receive a prostitute's wages
+> You love to receive a prostitute’s wages
 > on all the floors where you thresh your grain.
 > <a name="9:2">9:2</a> Threshing floors and wine vats will not feed the people,
 > and new wine only deceives them.
@@ -529,7 +533,7 @@
 > For I will turn away from them.
 > <a name="9:13">9:13</a> Just as lion cubs are born predators,
 > so Ephraim will bear his sons for slaughter.
-> <a name="9:14">9:14</a> Give them, O Lord—
+> <a name="9:14">9:14</a> Give them, O Lord — 
 > what will you give them?
 > Give them wombs that miscarry,
 > and breasts that cannot nurse!
@@ -603,7 +607,7 @@
 ### Fertility Imagery: Plowing, Sowing, and Reaping
 
 > <a name="10:11">10:11</a> Ephraim was a well-trained heifer who loved to thresh grain;
-> I myself put a fine yokeon her neck.
+> I myself put a fine yoke on her neck.
 > I will harness Ephraim.
 > Let Judah plow!
 > Let Jacob break up the unplowed ground for himself!
@@ -666,7 +670,7 @@
 > All my tender compassions are aroused!
 > <a name="11:9">11:9</a> I cannot carry out my fierce anger!
 > I cannot totally destroy Ephraim!
-> Because I am God, and not man—the Holy One among you—
+> Because I am God, and not man — the Holy One among you — 
 > I will not come in wrath!
 
 ### God Will Restore the Exiles to Israel
