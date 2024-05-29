@@ -89,13 +89,13 @@
 > <a name="2:2">2:2</a> It will be a day of dreadful darkness,
 > a day of foreboding storm-clouds,
 > like blackness spread over the mountains.
-> It is a huge and powerful army—
+> It is a huge and powerful army — 
 > there has never been anything like it ever before,
 > and there will not be anything like it for many generations to come!
 > <a name="2:3">2:3</a> Like fire they devour everything in their path;
 > a flame blazes behind them.
 > The land looks like the Garden of Eden before them,
-> but behind them there is only a desolate wilderness—
+> but behind them there is only a desolate wilderness — 
 > for nothing escapes them!
 > <a name="2:4">2:4</a> They look like horses;
 > they charge ahead like war horses.
@@ -124,22 +124,22 @@
 > Indeed, his battle forces are very large;
 > Surely his command is carried out!
 > Yes, the day of the LORD is great
-> and very terrifying—who can survive it?
+> and very terrifying — who can survive it?
 
 ### An Appeal for Repentance
 
 > <a name="2:12">2:12</a> “Yet even now,” the LORD says,
-> “return to me with all your heart—
+> “return to me with all your heart — 
 > with fasting, weeping, and mourning.
 > Tear your hearts,
 > not just your garments!”
 > <a name="2:13">2:13</a> Return to the LORD your God,
 > for he is merciful and compassionate,
-> slow to anger and boundless in loyal love—
+> slow to anger and boundless in loyal love — 
 > often relenting from calamitous punishment.
 > <a name="2:14">2:14</a> Who knows?
 > Perhaps he will be compassionate and grant a reprieve,
-> and leave blessing in his wake—
+> and leave blessing in his wake — 
 > a meal offering and a drink offering for you to offer to the LORD your God!
 > <a name="2:15">2:15</a> Blow the trumpet in Zion.
 > Announce a holy fast;
@@ -183,13 +183,13 @@
 > <a name="2:23">2:23</a> Citizens of Zion, rejoice!
 > Be glad because of what the LORD your God has done!
 > For he has given to you the early rains as vindication.
-> He has sent to you the rains—
+> He has sent to you the rains — 
 > both the early and the late rains as formerly.
 > <a name="2:24">2:24</a> The threshing floors are full of grain;
 > the vats overflow with fresh wine and olive oil.
 > <a name="2:25">2:25</a> I will make up for the years
-> that the ‘arbeh-locust consumed your crops—
-> the yeleq-locust, the hasil-locust, and the gazam-locust—
+> that the ‘arbeh-locust consumed your crops — 
+> the yeleq-locust, the hasil-locust, and the gazam-locust — 
 > my great army, that I sent against you.
 > <a name="2:26">2:26</a> You will have plenty to eat,
 > and your hunger will be fully satisfied;
@@ -209,11 +209,11 @@
 > your young men will see prophetic visions.
 > <a name="2:29">2:29</a> Even on male and female servants
 > I will pour out my Spirit in those days.
-> <a name="2:30">2:30</a> I will produce portents both in the sky and on the earth—
+> <a name="2:30">2:30</a> I will produce portents both in the sky and on the earth — 
 > blood, fire, and columns of smoke.
 > <a name="2:31">2:31</a> The sunlight will be turned to darkness
 > and the moon to the color of blood,
-> before the day of the LORD comes—
+> before the day of the LORD comes — 
 > that great and terrible day!
 > <a name="2:32">2:32</a> It will so happen that
 > everyone who calls on the name of the LORD will be delivered.
@@ -283,7 +283,7 @@
 
 > <a name="3:17">3:17</a> You will be convinced that I the LORD am your God,
 > dwelling on Zion, my holy mountain.
-> Jerusalem will be holy—
+> Jerusalem will be holy — 
 > conquering armies will no longer pass through it.
 > <a name="3:18">3:18</a> On that day the mountains will drip with sweet wine,
 > and the hills will flow with milk.
@@ -297,5 +297,4 @@
 > <a name="3:20">3:20</a> But Judah will reside securely forever,
 > and Jerusalem will be secure from one generation to the next.
 > <a name="3:21">3:21</a> And I will avenge their blood which I had not previously acquitted.
-
-It is the LORD who dwells in Zion!
+> It is the LORD who dwells in Zion!
