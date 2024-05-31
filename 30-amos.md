@@ -12,9 +12,11 @@
 > from Jerusalem he comes bellowing!
 > The shepherds’ pastures wilt;
 > the summit of Carmel withers.”
-> <a name="1:3">1:3</a> This is what the Lord says:
-> “Because Damascus has committed three crimes—
-> make that four!—I will not revoke my decree of judgment.
+
+<a name="1:3">1:3</a> This is what the Lord says:
+
+> “Because Damascus has committed three crimes — 
+> make that four! — I will not revoke my decree of judgment.
 > They ripped through Gilead like threshing boards with iron teeth.
 > <a name="1:4">1:4</a> So I will set Hazael’s house on fire;
 > fire will consume Ben-hadad’s fortresses.
@@ -23,9 +25,11 @@
 > the one who holds the royal scepter from Beth Eden.
 > The people of Aram will be deported to Kir.”
 > The Lord has spoken!
-> <a name="1:6">1:6</a> This is what the Lord says:
-> “Because Gaza has committed three crimes—
-> make that four!—I will not revoke my decree of judgment.
+
+<a name="1:6">1:6</a> This is what the Lord says:
+
+> “Because Gaza has committed three crimes — 
+> make that four! — I will not revoke my decree of judgment.
 > They deported a whole community and sold them to Edom.
 > <a name="1:7">1:7</a> So I will set Gaza’s city wall on fire;
 > fire will consume her fortresses.
@@ -34,25 +38,31 @@
 > I will strike Ekron with my hand;
 > the rest of the Philistines will also die.”
 > The sovereign Lord has spoken!
-> <a name="1:9">1:9</a> This is what the Lord says:
-> “Because Tyre has committed three crimes—
-> make that four!—I will not revoke my decree of judgment.
+
+<a name="1:9">1:9</a> This is what the Lord says:
+
+> “Because Tyre has committed three crimes — 
+> make that four! — I will not revoke my decree of judgment.
 > They sold a whole community to Edom;
 > they failed to observe a treaty of brotherhood.
 > <a name="1:10">1:10</a> So I will set fire to Tyre’s city wall;
 > fire will consume her fortresses.”
-> <a name="1:11">1:11</a> This is what the Lord says:
-> “Because Edom has committed three crimes—
-> make that four!—I will not revoke my decree of judgment.
+
+<a name="1:11">1:11</a> This is what the Lord says:
+
+> “Because Edom has committed three crimes — 
+> make that four! — I will not revoke my decree of judgment.
 > He chased his brother with a sword;
 > he wiped out his allies.
 > In his anger he tore them apart without stopping to rest;
 > in his fury he relentlessly attacked them.
 > <a name="1:12">1:12</a> So I will set Teman on fire;
 > fire will consume Bozrah’s fortresses.”
-> <a name="1:13">1:13</a> This is what the Lord says:
-> “Because the Ammonites have committed three crimes—
-> make that four!—I will not revoke my decree of judgment.
+
+<a name="1:13">1:13</a> This is what the Lord says:
+
+> “Because the Ammonites have committed three crimes — 
+> make that four! — I will not revoke my decree of judgment.
 > They ripped open Gilead’s pregnant women
 > so they could expand their territory.
 > <a name="1:14">1:14</a> So I will set fire to Rabbah’s city wall;
@@ -65,9 +75,10 @@
 
 ## Chapter 2
 
-> <a name="2:1">2:1</a> This is what the Lord says:
-> “Because Moab has committed three crimes—
-> make that four!—I will not revoke my decree of judgment.
+<a name="2:1">2:1</a> This is what the Lord says:
+
+> “Because Moab has committed three crimes — 
+> make that four! — I will not revoke my decree of judgment.
 > They burned the bones of Edom’s king into lime.
 > <a name="2:2">2:2</a> So I will set Moab on fire,
 > and it will consume Kerioth’s fortresses.
@@ -76,9 +87,11 @@
 > <a name="2:3">2:3</a> I will remove Moab’s leader;
 > I will kill all Moab’s officials with him.”
 > The Lord has spoken!
-> <a name="2:4">2:4</a> This is what the Lord says:
-> “Because Judah has committed three covenant transgressions—
-> make that four!—I will not revoke my decree of judgment.
+
+<a name="2:4">2:4</a> This is what the Lord says:
+
+> “Because Judah has committed three covenant transgressions — 
+> make that four! — I will not revoke my decree of judgment.
 > They rejected the Lord’s law;
 > they did not obey his commands.
 > Their false gods,
@@ -89,9 +102,10 @@
 
 ### God Will Judge Israel
 
-> <a name="2:6">2:6</a> This is what the Lord says:
-> “Because Israel has committed three covenant transgressions—
-> make that four!—I will not revoke my decree of judgment.
+<a name="2:6">2:6</a> This is what the Lord says:
+
+> “Because Israel has committed three covenant transgressions — 
+> make that four! — I will not revoke my decree of judgment.
 > They sold the innocent for silver,
 > the needy for a pair of sandals.
 > <a name="2:7">2:7</a> They trample on the dirt-covered heads of the poor;
@@ -131,7 +145,9 @@
 
 ### Every Effect has its Cause
 
-> <a name="3:1">3:1</a> Listen, you Israelites, to this message which the Lord is proclaiming against you. This message is for the entire clan I brought up from the land of Egypt: <a name="3:2">3:2</a> “I have chosen you alone from all the clans of the earth. Therefore I will punish you for all your sins.”
+<a name="3:1">3:1</a> Listen, you Israelites, to this message which the Lord is proclaiming against you. This message is for the entire clan I brought up from the land of Egypt: 
+
+> <a name="3:2">3:2</a> “I have chosen you alone from all the clans of the earth. Therefore I will punish you for all your sins.”
 > <a name="3:3">3:3</a> Do two walk together without having met?
 > <a name="3:4">3:4</a> Does a lion roar in the woods if he has not cornered his prey?
 > Does a young lion bellow from his den if he has not caught something?
@@ -151,6 +167,7 @@
 > “Gather on the hills around Samaria!
 > Observe the many acts of violence taking place within the city,
 > the oppressive deeds occurring in it.”
+
 > <a name="3:10">3:10</a> “They do not know how to do what is right.” (The Lord is speaking.)
 > “They store up the spoils of destructive violence in their fortresses.
 > <a name="3:11">3:11</a> Therefore,” says the sovereign Lord, “an enemy will encircle the land.
@@ -161,6 +178,7 @@
 > so the Israelites who live in Samaria will be salvaged.
 > They will be left with just a corner of a bed,
 > and a part of a couch.”
+
 > <a name="3:13">3:13</a> Listen and warn the family of Jacob!
 > The sovereign Lord, the God who leads armies, is speaking!
 > <a name="3:14">3:14</a> “Certainly when I punish Israel for their covenant transgressions,
@@ -173,7 +191,8 @@
 
 ## Chapter 4
 
-> <a name="4:1">4:1</a> Listen to this message, you “cows of Bashan” who live on Mount Samaria!
+<a name="4:1">4:1</a> Listen to this message, you “cows of Bashan” who live on Mount Samaria!
+
 > You oppress the poor;
 > you crush the needy.
 > You say to your husbands,
@@ -196,10 +215,12 @@
 > Make a public display of your voluntary offerings!
 > For you love to do this, you Israelites.”
 > The sovereign Lord is speaking!
+
 > <a name="4:6">4:6</a> “But surely I gave you no food to eat in any of your cities;
 > you lacked food everywhere you live.
 > Yet you did not come back to me.”
 > The Lord is speaking!
+
 > <a name="4:7">4:7</a> “I withheld rain from you three months before the harvest.
 > I gave rain to one city, but not to another.
 > One field would get rain, but the field that received no rain dried up.
@@ -207,23 +228,28 @@
 > but remained thirsty.
 > Yet you did not come back to me.”
 > The Lord is speaking!
+
 > <a name="4:9">4:9</a> “I destroyed your crops with blight and disease.
 > Locusts kept devouring your orchards, vineyards, fig trees, and olive trees.
 > Yet you did not come back to me.”
 > The Lord is speaking!
+
 > <a name="4:10">4:10</a> “I sent against you a plague like one of the Egyptian plagues.
 > I killed your young men with the sword,
 > along with the horses you had captured.
 > I made the stench from the corpses rise up into your nostrils.
 > Yet you did not come back to me.”
 > The Lord is speaking!
+
 > <a name="4:11">4:11</a> “I overthrew some of you the way God overthrew Sodom and Gomorrah.
 > You were like a burning stick snatched from the flames.
 > Yet you did not come back to me.”
 > The Lord is speaking!
+
 > <a name="4:12">4:12</a> “Therefore this is what I will do to you, Israel.
 > Since I will do this to you,
 > prepare to meet your God, Israel!
+
 > <a name="4:13">4:13</a> For here he is! He formed the mountains and created the wind.
 > He reveals his plans to men.
 > He turns the dawn into darkness and marches on the earth’s heights.
@@ -238,9 +264,11 @@
 > <a name="5:2">5:2</a> “The virgin Israel has fallen down and will not get up again.
 > She is abandoned on her own land
 > with no one to help her get up.”
+
 > <a name="5:3">5:3</a> The sovereign Lord says this:
 > “The city that marches out with a thousand soldiers will have only a hundred left;
 > the town that marches out with a hundred soldiers will have only ten left for the family of Israel.”
+
 > <a name="5:4">5:4</a> The Lord says this to the family of Israel:
 > “Seek me so you can live!
 > <a name="5:5">5:5</a> Do not seek Bethel!
@@ -248,12 +276,14 @@
 > Do not journey down to Beersheba!
 > For the people of Gilgal will certainly be carried into exile;
 > and Bethel will become a place where disaster abounds.”
+
 > <a name="5:6">5:6</a> Seek the Lord so you can live!
 > Otherwise he will break out like fire against Joseph’s family;
 > the fire will consume
 > and no one will be able to quench it and save Bethel.
 > <a name="5:7">5:7</a> The Israelites turn justice into bitterness;
 > they throw what is fair and right to the ground.
+
 > <a name="5:8">5:8</a> (But there is one who made the constellations Pleiades and Orion;
 > he can turn the darkness into morning
 > and daylight into night.
@@ -262,6 +292,7 @@
 > The Lord is his name!
 > <a name="5:9">5:9</a> He flashes destruction down upon the strong
 > so that destruction overwhelms the fortified places.)
+
 > <a name="5:10">5:10</a> The Israelites hate anyone who arbitrates at the city gate;
 > they despise anyone who speaks honestly.
 > <a name="5:11">5:11</a> Therefore, because you make the poor pay taxes on their crops
@@ -274,12 +305,14 @@
 > and you deny justice to the needy at the city gate.
 > <a name="5:13">5:13</a> For this reason whoever is smart keeps quiet in such a time,
 > for it is an evil time.
+
 > <a name="5:14">5:14</a> Seek good and not evil so you can live!
 > Then the Lord, the God who leads armies, just might be with you,
 > as you claim he is.
 > <a name="5:15">5:15</a> Hate what is wrong, love what is right!
 > Promote justice at the city gate!
 > Maybe the Lord, the God who leads armies, will have mercy on those who are left from Joseph.
+
 > <a name="5:16">5:16</a> Because of Israel’s sins this is what the Lord, the God who leads armies, the Sovereign One, says:
 > “In all the squares there will be wailing,
 > in all the streets they will mourn the dead.
@@ -298,8 +331,9 @@
 > then escaped into a house,
 > leaned his hand against the wall,
 > and was bitten by a poisonous snake.
-> <a name="5:20">5:20</a> Don’t you realize the Lord’s day of judgment will bring darkness, not light—
+> <a name="5:20">5:20</a> Don’t you realize the Lord’s day of judgment will bring darkness, not light — 
 > gloomy black, not bright light?
+
 > <a name="5:21">5:21</a> “I absolutely despise your festivals.
 > I get no pleasure from your religious assemblies.
 > <a name="5:22">5:22</a> Even if you offer me burnt and grain offerings, I will not be satisfied;
@@ -308,6 +342,7 @@
 > I don’t want to hear the music of your stringed instruments.
 > <a name="5:24">5:24</a> Justice must flow like water,
 > right actions like a stream that never dries up.
+
 > <a name="5:25">5:25</a> You did not bring me sacrifices and grain offerings during the forty years you spent in the wilderness, family of Israel.
 > <a name="5:26">5:26</a> You will pick up your images of Sikkuth, your king,
 > and Kiyyun, your star god, which you made for yourselves,
@@ -341,6 +376,7 @@
 > Yet they are not concerned over the ruin of Joseph.
 > <a name="6:7">6:7</a> Therefore they will now be the first to go into exile,
 > and the religious banquets where they sprawl out on couches will end.
+
 > <a name="6:8">6:8</a> The sovereign Lord confirms this oath by his very own life.
 > The Lord, the God who leads armies, is speaking:
 > “I despise Jacob’s arrogance;
@@ -372,14 +408,15 @@
 
 <a name="7:3">7:3</a> The Lord decided not to do this. “It will not happen,” the Lord said.
 
-<a name="7:4">7:4</a> The sovereign Lord showed me this: I saw the sovereign Lord summoning a shower of fire. It consumed the great deep and devoured the fields.
-> <a name="7:5">7:5</a> I said, 
+<a name="7:4">7:4</a> The sovereign Lord showed me this: I saw the sovereign Lord summoning a shower of fire. It consumed the great deep and devoured the fields. <a name="7:5">7:5</a> I said, 
 
 > “Sovereign Lord, stop! How can Jacob survive? He is too weak!”
-> <a name="7:6">7:6</a> The Lord decided not to do this. The sovereign Lord said, “This will not happen either.”
-> <a name="7:7">7:7</a> He showed me this:
-> I saw the Sovereign One standing by a tin wall holding tin in his hand.
-> <a name="7:8">7:8</a> The Lord said to me, “What do you see, Amos?” I said, “Tin.” The Sovereign One then said, “Look, I am about to place tin among my people Israel. I will no longer overlook their sin.
+
+<a name="7:6">7:6</a> The Lord decided not to do this. The sovereign Lord said, “This will not happen either.”
+
+<a name="7:7">7:7</a> He showed me this: I saw the Sovereign One standing by a tin wall holding tin in his hand. <a name="7:8">7:8</a> The Lord said to me, “What do you see, Amos?” I said, “Tin.” The Sovereign One then said, 
+ 
+> “Look, I am about to place tin among my people Israel. I will no longer overlook their sin.
 > <a name="7:9">7:9</a> Isaac’s worship centers will become desolate;
 > Israel’s holy places will be in ruins.
 > I will attack Jeroboam’s dynasty with the sword.”
@@ -391,7 +428,8 @@
 <a name="7:12">7:12</a> Amaziah then said to Amos, “Leave, you visionary! Run away to the land of Judah! Earn money and prophesy there! <a name="7:13">7:13</a> Don’t prophesy at Bethel any longer, for a royal temple and palace are here!”
 
 <a name="7:14">7:14</a> Amos replied to Amaziah, “I was not a prophet by profession. No, I was a herdsman who also took care of sycamore fig trees. <a name="7:15">7:15</a> Then the Lord took me from tending flocks and gave me this commission, ‘Go! Prophesy to my people Israel!’ <a name="7:16">7:16</a> So now listen to the Lord’s message! You say, ‘Don’t prophesy against Israel! Don’t preach against the family of Isaac!’
-> <a name="7:17">7:17</a> “Therefore this is what the Lord says:
+
+<a name="7:17">7:17</a> “Therefore this is what the Lord says:
 
 ‘Your wife will become a prostitute in the streets
 > and your sons and daughters will die violently.
@@ -410,7 +448,9 @@
 > “There will be many corpses littered everywhere! Be quiet!”
 > <a name="8:4">8:4</a> Listen to this, you who trample the needy,
 > and get rid of the destitute in the land.
-> <a name="8:5">8:5</a> You say,
+
+<a name="8:5">8:5</a> You say,
+
 > “When will the new moon festival be over, so we can sell grain?
 > When will the Sabbath end, so we can open up the grain bins?
 > We’re eager to sell less for a higher price,
@@ -418,6 +458,7 @@
 > <a name="8:6">8:6</a> We’re eager to trade silver for the poor,
 > a pair of sandals for the needy.
 > We want to mix in some chaff with the grain.”
+
 > <a name="8:7">8:7</a> The Lord confirms this oath by the arrogance of Jacob:
 > “I swear I will never forget all you have done!
 > <a name="8:8">8:8</a> Because of this the earth will quake,
@@ -446,7 +487,9 @@
 
 ## Chapter 9
 
-> <a name="9:1">9:1</a> I saw the Sovereign One standing by the altar and he said, “Strike the tops of the support pillars, so the thresholds shake!
+<a name="9:1">9:1</a> I saw the Sovereign One standing by the altar and he said, 
+
+>“Strike the tops of the support pillars, so the thresholds shake!
 > Knock them down on the heads of all the people,
 > and I will kill the survivors with the sword.
 > No one will be able to run away;
@@ -463,7 +506,9 @@
 > from there I will command the sword to kill them.
 > I will not let them out of my sight;
 > they will experience disaster, not prosperity.”
-> <a name="9:5">9:5</a> The sovereign Lord who leads armies will do this.
+
+<a name="9:5">9:5</a> The sovereign Lord who leads armies will do this.
+
 > He touches the earth and it dissolves;
 > all who live on it mourn.
 > The whole earth rises like the River Nile,
