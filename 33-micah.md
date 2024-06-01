@@ -22,7 +22,8 @@
 > Samaria epitomizes their rebellion!
 > Where are Judah’s pagan worship centers, you ask?
 > They are right in Jerusalem!
-> <a>1:6</a> “I will make Samaria a heap of ruins in an open field—
+
+> <a>1:6</a> “I will make Samaria a heap of ruins in an open field — 
 > vineyards will be planted there!
 > I will roll her stones down into the valley,
 > and uncover her foundations.
@@ -71,18 +72,20 @@
 > They defraud a man of his home,
 > and deprive a man of the land he has inherited.
 > <a>2:3</a> Therefore the Lord says this:
+
 > “Look, I am devising disaster for this nation.
 > It will be like a yoke from which you can’t remove your neck.
 > You will no longer walk proudly,
 > for it will be a time of catastrophe.
-> <a>2:4</a> In that day people will sing this taunt song to you—
+> <a>2:4</a> In that day people will sing this taunt song to you — 
 > they will mock you with this lament:
 > ‘We are completely destroyed;
 > they sell off the property of my people.
 > How they remove it from me!
 > They assign our fields to the conqueror.’
 > <a>2:5</a> Therefore no one will assign you land in the Lord’s community.
-> <a>2:6</a> ‘Don’t preach with such impassioned rhetoric,’ they say exadly.
+
+> <a>2:6</a> ‘Don’t preach with such impassioned rhetoric,’ they say excitedly.
 > ‘These prophets should not preach of such things;
 > we will not be overtaken by humiliation.’
 > <a>2:7</a> Does the family of Jacob say,
@@ -128,12 +131,13 @@
 > <a>3:3</a> You devour my people’s flesh,
 > strip off their skin,
 > and crush their bones.
-> You chop them up like flesh in a pot—
+> You chop them up like flesh in a pot — 
 > like meat in a kettle.
 > <a>3:4</a> Someday these sinners will cry to the Lord for help,
 > but he will not answer them.
 > He will hide his face from them at that time,
 > because they have done such wicked deeds.”
+
 > <a>3:5</a> This is what the Lord says:
 > “The prophets who mislead my people
 > are as good as dead.
@@ -145,6 +149,7 @@
 > it will grow dark, and you will no longer be able to read the omens.
 > The sun will set on these prophets,
 > and the daylight will turn to darkness over their heads.
+
 > <a>3:7</a> The prophets will be ashamed;
 > the omen readers will be humiliated.
 > All of them will cover their mouths,
@@ -204,7 +209,7 @@
 > The Lord will reign over them on Mount Zion,
 > from that day forward and forevermore.”
 > <a>4:8</a> As for you, watchtower for the flock,
-> fortress of Daughter Zion—
+> fortress of Daughter Zion — 
 > your former dominion will be restored,
 > the sovereignty that belongs to Daughter Jerusalem.
 > <a>4:9</a> Jerusalem, why are you now shouting so loudly?
@@ -241,7 +246,7 @@
 ### A King Will Come and a Remnant Will Prosper
 
 > <a>5:2</a> As for you, Bethlehem Ephrathah,
-> seemingly insignificant among the clans of Judah—
+> seemingly insignificant among the clans of Judah — 
 > from you a king will emerge who will rule over Israel on my behalf,
 > one whose origins are in the distant past.
 > <a>5:3</a> So the Lord will hand the people of Israel over to their enemies
@@ -313,6 +318,7 @@
 > and how Balaam son of Beor responded to him.
 > Recall how you journeyed from Shittim to Gilgal,
 > so you might acknowledge that the Lord has treated you fairly.”
+
 > <a>6:6</a> With what should I enter the Lord’s presence?
 > With what should I bow before the sovereign God?
 > Should I enter his presence with burnt offerings,
@@ -325,6 +331,7 @@
 > and what the Lord really wants from you:
 > He wants you to promote justice, to be faithful,
 > and to live obediently before your God.
+
 > <a>6:9</a> Listen! The Lord is calling to the city
 > (It is wise to respect your authority!)
 > Listen, O nation, and those assembled in the city!
