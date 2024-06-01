@@ -1,6 +1,6 @@
 # Obadiah
 
-## Chpater 1
+## Chapter 1
 
 > <a name="1:1">1:1</a> The vision that Obadiah saw:
 > The Lord God says this concerning Edom.
@@ -12,7 +12,7 @@
 > “Arise! Let us make war against Edom!”
 > <a name="1:2">1:2</a> The Lord says, “Look! I will make you a weak nation;
 > you will be greatly despised!
-> <a name="1:3">1:3</a> Your presumptuous heart has deceived you—
+> <a name="1:3">1:3</a> Your presumptuous heart has deceived you — 
 > you who reside in the safety of the rocky cliffs,
 > whose abode is high in the mountains.
 > You think to yourself,
@@ -20,6 +20,7 @@
 > <a name="1:4">1:4</a> Even if you were to soar high like an eagle,
 > even if you were to make your nest among the stars,
 > even from there I can bring you down!” says the Lord.
+
 > <a name="1:5">1:5</a> “If thieves came to rob you during the night,
 > they would steal only as much as appealed to them!
 > If grape pickers came to harvest your vineyards,
@@ -31,6 +32,7 @@
 > Your treaty partners will deceive you and overpower you.
 > Your trusted friends will set an ambush for you,
 > which will take you by surprise!
+
 > <a name="1:8">1:8</a> In that day,” the Lord says,
 > “I will destroy the wise sages of Edom!
 > the advisers from Esau’s mountain!
