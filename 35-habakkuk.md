@@ -85,7 +85,7 @@
 > <a name="2:3">2:3</a> For the message is a witness to what is decreed;
 > it gives reliable testimony about how matters will turn out.
 > Even if the message is not fulfilled right away, wait patiently;
-> for it will certainly come to pass—it won’t be late arriving.
+> for it will certainly come to pass — it won’t be late arriving.
 > <a name="2:4">2:4</a> Look, the one whose desires are not upright will faint from exhaustion,
 > but the person of integrity will live because of his faithfulness.
 > <a name="2:5">2:5</a> Indeed, wine will betray the proud, restless man!
@@ -93,10 +93,12 @@
 > like death, he is never satisfied.
 > He grabs all the nations;
 > he seizes all peoples.
-> The Proud Babylonians are as Good as Dead
+
+### The Proud Babylonians are as Good as Dead
+
 > <a name="2:6">2:6</a> “But all these nations will someday taunt him
 > and ridicule him with proverbial sayings:
-> ‘The one who accumulates what does not belong to him is as good as dead (How long will this go on?)—
+> ‘The one who accumulates what does not belong to him is as good as dead (How long will this go on?) — 
 > he who gets rich by extortion!’
 > <a name="2:7">2:7</a> Your creditors will suddenly attack;
 > those who terrify you will spring into action,
@@ -105,6 +107,7 @@
 > all who are left among the nations will rob you.
 > You have shed human blood
 > and committed violent acts against lands, cities, and those who live in them.
+
 > <a name="2:9">2:9</a> The one who builds his house by unjust gain is as good as dead.
 > He does this so he can build his nest way up high
 > and escape the clutches of disaster.
@@ -112,14 +115,16 @@
 > Because you destroyed many nations, you will self-destruct.
 > <a name="2:11">2:11</a> For the stones in the walls will cry out,
 > and the wooden rafters will answer back.
-> <a name="2:12">2:12</a> The one who builds a city by bloodshed is as good as dead—
+
+> <a name="2:12">2:12</a> The one who builds a city by bloodshed is as good as dead — 
 > he who starts a town by unjust deeds.
 > <a name="2:13">2:13</a> Be sure of this! The Lord who leads armies has decreed:
 > The nations’ efforts will go up in smoke;
 > their exhausting work will be for nothing.
 > <a name="2:14">2:14</a> For recognition of the Lord’s sovereign majesty will fill the earth
 > just as the waters fill up the sea.
-> <a name="2:15">2:15</a> “You who force your neighbor to drink wine are as good as dead—
+
+> <a name="2:15">2:15</a> “You who force your neighbor to drink wine are as good as dead — 
 > you who make others intoxicated by forcing them to drink from the bowl of your furious anger,
 > so you can look at their genitals.
 > <a name="2:16">2:16</a> But you will become drunk with shame, not majesty.
@@ -134,7 +139,7 @@
 > What good is a metal image that gives misleading oracles?
 > Why would its creator place his trust in it
 > and make such mute, worthless things?
-> <a name="2:19">2:19</a> The one who says to wood, ‘Wake up!’ is as good as dead—
+> <a name="2:19">2:19</a> The one who says to wood, ‘Wake up!’ is as good as dead — 
 > he who says to speechless stone, ‘Awake!’
 > Can it give reliable guidance?
 > It is overlaid with gold and silver;

@@ -2,8 +2,7 @@
 
 ## Chapter 1
 
-> <a name="1:1">1:1</a> The oracle against Nineveh;
-> the book of the vision of Nahum the Elkoshite:
+<a name="1:1">1:1</a> The oracle against Nineveh; the book of the vision of Nahum the Elkoshite:
 
 ### God Takes Vengeance against His Enemies
 
@@ -18,7 +17,7 @@
 
 > He marches out in the whirlwind and the raging storm;
 > dark storm clouds billow like dust under his feet.
-> <a name="1:4">1:4</a> He shouts a battle cry against the seaand makes it dry up;
+> <a name="1:4">1:4</a> He shouts a battle cry against the sea and makes it dry up;
 > he makes all the rivers run dry.
 > Bashan and Carmel wither;
 > the blossom of Lebanon withers.
@@ -30,7 +29,7 @@
 > No one can resist his fierce anger!
 > His wrath is poured out like volcanic fire,
 > boulders are broken up as he approaches.
-> <a name="1:7">1:7</a> The Lord is good—
+> <a name="1:7">1:7</a> The Lord is good — 
 > indeed, he is a fortress in time of distress,
 > and he protects those who seek refuge in him.
 > <a name="1:8">1:8</a> But with an overwhelming flood
@@ -50,9 +49,10 @@
 
 ### Oracle of Deliverance to Judah
 
-> <a name="1:12">1:12</a> This is what the Lord says:
-> “Even though they are powerful—
-> and what’s more, even though their army is numerous—
+<a name="1:12">1:12</a> This is what the Lord says:
+
+> “Even though they are powerful — 
+> and what’s more, even though their army is numerous — 
 > nevertheless, they will be destroyed and trickle away!
 > Although I afflicted you,
 > I will afflict you no more.
@@ -62,7 +62,7 @@
 > <a name="1:14">1:14</a> The Lord has issued a decree against you:
 > “Your dynasty will come to an end.
 > I will destroy the idols and images in the temples of your gods.
-> I will desecrate your grave—because you are accursed!”
+> I will desecrate your grave — because you are accursed!”
 
 ### Proclamation of the Deliverance of Judah
 
@@ -72,13 +72,13 @@
 > Fulfill your sacred vows to praise God!
 > For never again will the wicked Assyrians invade you,
 > they have been completely destroyed.”
-> Proclamation of the Destruction of Nineveh
 
 ## Chapter 2
 
-### “Proclamation of the Destruction of Nineveh”
+### Proclamation of the Destruction of Nineveh
 
-> <a name="2:1">2:1</a> The watchmen of Nineveh shout:
+<a name="2:1">2:1</a> The watchmen of Nineveh shout:
+
 > “An enemy who will scatter you is marching out to attack you!”
 > “Guard the rampart!
 > Watch the road!
@@ -109,7 +109,7 @@
 > her slave girls moan like doves while they beat their breasts.
 > <a name="2:8">2:8</a> Nineveh was like a pool of water throughout her days,
 > but now her people are running away;
-> she cries out: “Stop! Stop!”—
+> she cries out: “Stop! Stop!” — 
 > but no one turns back.
 > <a name="2:9">2:9</a> Her conquerors cry out:
 > “Plunder the silver! Plunder the gold!”
@@ -159,15 +159,15 @@
 > and their spears will glimmer!
 > There will be many people slain;
 > there will be piles of the dead,
-> and countless casualties—
+> and countless casualties — 
 > so many that people will stumble over the corpses.
 
 ### Taunt against the Harlot City
 
-> <a name="3:4">3:4</a> “Because you have acted like a wanton prostitute—
+> <a name="3:4">3:4</a> “Because you have acted like a wanton prostitute — 
 > a seductive mistress who practices sorcery,
 > who enslaves nations by her harlotry,
-> and entices peoples by her sorcery—
+> and entices peoples by her sorcery — 
 > <a name="3:5">3:5</a> I am against you,” declares the Lord who leads armies.
 > “I will strip off your clothes!
 > I will show your nakedness to the nations
@@ -182,10 +182,10 @@
 
 ### Nineveh Will Suffer the Same Fate as Thebes
 
-> <a name="3:8">3:8</a> You are no more secure than Thebes—
+> <a name="3:8">3:8</a> You are no more secure than Thebes — 
 > she was located on the banks of the Nile;
 > the waters surrounded her,
-> herrampart was the sea,
+> her rampart was the sea,
 > the water was her wall.
 > <a name="3:9">3:9</a> Cush and Egypt had limitless strength;
 > Put and the Libyans were among her allies.
