@@ -71,12 +71,14 @@
 
 > <a name="2:1">2:1</a> Bunch yourselves together as if you were straw, you undesirable nation,
 > <a name="2:2">2:2</a> before God’s decree becomes reality and the day of opportunity disappears like windblown chaff,
-> before the Lord’s raging anger overtakes you—
+> before the Lord’s raging anger overtakes you — 
 > before the day of the Lord’s angry judgment overtakes you!
 > <a name="2:3">2:3</a> Seek the Lord’s favor, all you humble people of the land who have obeyed his commands!
 > Strive to do what is right! Strive to be humble!
 > Maybe you will be protected on the day of the Lord’s angry judgment.
-> Judgment on Surrounding Nations
+
+### Judgment on Surrounding Nations
+
 > <a name="2:4">2:4</a> Indeed, Gaza will be deserted
 > and Ashkelon will become a heap of ruins.
 > Invaders will drive away the people of Ashdod by noon,
@@ -118,7 +120,7 @@
 > they will hoot through the windows.
 > Rubble will cover the thresholds;
 > even the cedar work will be exposed to the elements.
-> <a name="2:15">2:15</a> This is how the once-proud city will end up—
+> <a name="2:15">2:15</a> This is how the once-proud city will end up — 
 > the city that was so secure.
 > She thought to herself, “I am unique! No one can compare to me!”
 > What a heap of ruins she has become, a place where wild animals live!
@@ -146,7 +148,9 @@
 > Every morning he reveals his justice.
 > At dawn he appears without fail.
 > Yet the unjust know no shame.
-> The Lord’s Judgment will Purify
+
+### The Lord’s Judgment will Purify
+
 > <a name="3:6">3:6</a> “I destroyed nations;
 > their walled cities are in ruins.
 > I turned their streets into ruins;
@@ -163,7 +167,7 @@
 > “for the day when I attack and take plunder.
 > I have decided to gather nations together
 > and assemble kingdoms,
-> so I can pour out my fury on them—
+> so I can pour out my fury on them — 
 > all my raging anger.
 > For the whole earth will be consumed
 > by my fiery anger.
@@ -198,7 +202,7 @@
 > He takes great delight in you;
 > he renews you by his love;
 > he shouts for joy over you.”
-> <a name="3:18">3:18</a> “As for those who grieve because they cannot attend the festivals—
+> <a name="3:18">3:18</a> “As for those who grieve because they cannot attend the festivals — 
 > I took them away from you;
 > they became tribute and were a source of shame to you.
 > <a name="3:19">3:19</a> Look, at that time I will deal with those who mistreated you.
@@ -206,7 +210,7 @@
 > and gather together the scattered sheep.
 > I will take away their humiliation
 > and make the whole earth admire and respect them.
-> <a name="3:20">3:20</a> At that time I will lead you—
+> <a name="3:20">3:20</a> At that time I will lead you — 
 > at the time I gather you together.
 > Be sure of this! I will make all the nations of the earth respect and admire you
 > when you see me restore you,” says the Lord.
