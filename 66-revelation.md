@@ -1,5 +1,7 @@
 #  Revelation
 
+{{TOC}}
+
 ## Chapter 1
 
 <a name="1:1">1:1</a> The revelation of Jesus Christ, which God gave him to show his servants what must happen very soon. He made it clear by sending his angel to his servant John, <a name="1:2">1:2</a> who then testified to everything that he saw concerning the word of God and the testimony about Jesus Christ. <a name="1:3">1:3</a> Blessed is the one who reads the words of this prophecy aloud, and blessed are those who hear and obey the things written in it, because the time is near!
