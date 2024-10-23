@@ -12,7 +12,7 @@
 
 ### Diotrephes the Troublemaker
 
-<a name="1:9">1:9</a> I wrote something to the church, but Diotrephes, who loves to be first among them, does not acknowledge us. <a name="1:10">1:10</a> Therefore, if I come, I will call attention to the deeds he is doing—the bringing of unjustified charges against us with evil words! And not being content with that, he not only refuses to welcome the brothers himself, but hinders the people who want to do so and throws them out of the church! <a name="1:11">1:11</a> Dear friend, do not imitate what is bad but what is good. The one who does good is of God; the one who does what is bad has not seen God.
+<a name="1:9">1:9</a> I wrote something to the church, but Diotrephes, who loves to be first among them, does not acknowledge us. <a name="1:10">1:10</a> Therefore, if I come, I will call attention to the deeds he is doing — the bringing of unjustified charges against us with evil words! And not being content with that, he not only refuses to welcome the brothers himself, but hinders the people who want to do so and throws them out of the church! <a name="1:11">1:11</a> Dear friend, do not imitate what is bad but what is good. The one who does good is of God; the one who does what is bad has not seen God.
 
 ### Worthy Demetrius
 
